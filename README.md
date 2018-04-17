@@ -12,3 +12,7 @@ Though many fields are beginning to develop standards for what metadata to colle
 
 # What is MetaROOT?
 The Center for Expanded Data Annotation and Retrieval (CEDAR) has created tools for collecting, editing and analyzing metadata, but it requires significant manual input from the user. 
+
+# Software Workflow Diagram
+
+# File Structure Diagram
