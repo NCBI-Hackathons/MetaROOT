@@ -100,4 +100,5 @@ DISO|Disorders|T046|Pathologic Function [patf]
 
 1. Output using file b and c 
 preferredName|CUI#|[semantic type]|Input term| semantic group 
+
 2. Use this output file to convert input term in bioSample attribu te in disease section to preferred term ("NORMALIZE")
