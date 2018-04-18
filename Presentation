@@ -1,3 +1,4 @@
+
 MetaROOT
 Anney Che
 Kimberley Leblanc
@@ -28,3 +29,38 @@ Edirect search: esearch -db bioproject -query "polycystic ovarian syndrome" | ef
 Strategy:
 For BioSample: use MetaMap on attribute field entries
 Edirect search: ./esearch -db bioSample -query "human [orgn]" | ./efetch -format docsum | ./xtract -pattern DocumentSummary -element Accession Attribute@attribute_name Attribute
+
+Analysis:
+unique sex attributes in current human biosample  submissions
+12:01 PM
+both
+f
+female
+female*
+female and male
+female and male mixture
+female, male
+female/male
+female, pooled
+m
+male
+male and female
+male/female
+male, pooled
+men
+missing
+mixed
+mixed (males and females)
+mixture of female and male
+na
+n/a
+nd
+not applicable
+not available
+not collected
+not determined
+not known
+pooled
+pooled (6)
+pooled male and female
+unknown
