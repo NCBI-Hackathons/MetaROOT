@@ -30,7 +30,7 @@ use MetaMap on attribute field entries
 ## Edirect search: 
 ./esearch -db bioSample -query "human [orgn]" | ./efetch -format docsum | ./xtract -pattern DocumentSummary -element Accession Attribute@attribute_name Attribute
 
-![Schema](scheme.odg)
+![Schema](scheme.zip)
 
 # Analysis:
 ## unique sex attributes in current human biosample submissions:
