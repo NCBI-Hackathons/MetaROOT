@@ -42,32 +42,32 @@ use MetaMap on attribute field entries
     female
     female*
     female and male
-  female and male mixture
-  female, male
-  female/male
-  female, pooled
-  m
-  male
-  male and female
-  male/female
-  male, pooled
-  men
-  missing
-  mixed
-  mixed (males and females)
-  mixture of female and male
-  na
-  n/a
-  nd
-  not applicable
-  not available
-  not collected
-  not determined
-  not known
-  pooled
-  pooled (6)
-  pooled male and female
-unknown
+    female and male mixture
+    female, male
+    female/male
+    female, pooled
+    m
+    male
+    male and female
+    male/female
+    male, pooled
+    men
+    missing
+    mixed
+    mixed (males and females)
+    mixture of female and male
+    na
+    n/a
+    nd
+    not applicable
+    not available
+    not collected
+    not determined
+    not known
+    pooled
+    pooled (6)
+    pooled male and female
+    unknown
 
 # Analysis:
 ## Diseases
