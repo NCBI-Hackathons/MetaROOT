@@ -1,0 +1,393 @@
+.tx|MMI|32.03|Turner Syndrome|C0041408|[dsyn]|"Turner Syndrome"-text-0-"TURNER SYNDROME"-NNP-0|0/15|C12.706.316.309.872,C12.706.316.795.750,C13.351.875.253.309.872,C13.351.875.253.795.750,C14.240.400.980,C14.280.400.980,C16.131.240.400.970,C16.131.260.830.835.750,C16.131.939.316.309.872,C16.131.939.316.795.750,C16.320.180.830.835.750,C19.391.119.309.872,C19.391.119.795.750
+.tx|MMI|27.23|Burkitt Lymphoma|C0006413|[neop]|"Burkitt Lymphoma"-text-0-"BURKITT LYMPHOMA"-NNP-0,"Burkitt Lymphoma"-text-0-"BURKITT'S LYMPHOMA"-JJ-0|0/16,0/18|C02.256.466.313.165,C02.928.313.165,C04.557.386.480.150.165,C15.604.515.569.480.150.165,C20.683.515.761.480.150.165
+.tx|MMI|24.27|Glioblastoma Multiforme Pathway|C2984291|[ftcn]|"Glioma"-text-0-"GLIOMA"-NNP-0,"Glioma"-text-0-"GLIOMA"-NNP-0,"Glioma"-text-0-"GLIOMA"-NN-0|0/6,10/6,10/6|C04.557.465.625.600.380,C04.557.470.670.380,C04.557.580.625.600.380
+.tx|MMI|24.27|Glioma|C0017638|[neop]|"Glioma"-text-0-"GLIOMA"-NNP-0,"Glioma"-text-0-"GLIOMA"-NNP-0,"Glioma"-text-0-"GLIOMA"-NN-0|0/6,10/6,10/6|C04.557.465.625.600.380,C04.557.470.670.380,C04.557.580.625.600.380
+.tx|MMI|22.23|Immunoglobulin D|C0020843|[imft, aapp, phsu]|"IgD"-text-0-"IGD"-NNP-0,"IgD"-text-0-"IGD"-NNP-0|6/3,6/3|D12.776.124.486.485.114.619.251,D12.776.124.790.651.114.619.251,D12.776.377.715.548.114.619.251
+.tx|MMI|22.23|Immunoglobulin D measurement|C0577612|[lbpr]|"IGD"-text-0-"IGD"-NNP-0,"IGD"-text-0-"IGD"-NNP-0|6/3,6/3|D12.776.124.486.485.114.619.251,D12.776.124.790.651.114.619.251,D12.776.377.715.548.114.619.251
+.tx|MMI|21.71|Glioblastoma|C0017636|[neop]|"Glioblastoma"-text-0-"GLIOBLASTOMA"-NNP-0,"Glioblastoma"-text-0-"GLIOBLASTOMA"-NNP-0|0/12,0/12|C04.557.465.625.600.380.080.335,C04.557.470.670.380.080.335,C04.557.580.625.600.380.080.335
+.tx|MMI|21.05|Syndrome|C0039082|[dsyn]|"Syndrome"-text-0-"SYNDROME"-NNP-0,"Syndrome"-text-0-"SYNDROME"-NN-0,"Syndrome"-text-0-"SYNDROME"-NNP-0,"Syndrome"-text-0-"SYNDROME"-NNP-0,"Syndrome"-text-0-"SYNDROME"-NNP-0,"Syndrome"-text-0-"SYNDROME"-NNP-0,"Syndrome"-text-0-"SYNDROME"-NNP-0,"Syndrome"-text-0-"SYNDROME"-NNP-0,"Syndrome"-text-0-"SYNDROME"-NN-0,"Syndrome"-text-0-"SYNDROME"-NNP-0|17/8,14/8,7/8,28/8,10/8,10/8,10/8,10/8,17/8,9/8|C23.550.288.500
+.tx|MMI|20.51|Lymphoma|C0024299|[neop]|"Lymphoma"-text-0-"LYMPHOMA"-NNP-0,"Lymphoma"-text-0-"LYMPHOMA"-NNP-0,"Lymphoma"-text-0-"LYMPHOMA"-NNP-0,"Lymphoma"-text-0-"LYMPHOMA"-NNP-0|25/8,10/8,0/8,25/8|C04.557.386,C15.604.515.569,C20.683.515.761
+.tx|MMI|20.13|Rheumatoid Arthritis|C0003873|[dsyn]|"Rheumatoid Arthritis"-text-0-"RHEUMATOID ARTHRITIS"-NNP-0,"Rheumatoid Arthritis"-text-0-"RHEUMATOID ARTHRITIS"-NN-0,"Rheumatoid Arthritis"-text-0-"RHEUMATOID ARTHRITIS"-NN-0|0/20,0/20,0/20|C05.550.114.154,C05.799.114,C17.300.775.099,C20.111.199
+.tx|MMI|19.6|MLH1 protein, human|C0252642|[bacs, aapp]|"HNPCC"-text-0-"HNPCC"-NNP-0|17/5|C04.588.274.476.411.307.190,C04.700.250,C06.301.371.411.307.190,C06.405.249.411.307.190,C06.405.469.158.356.190,C06.405.469.491.307.190,C16.320.700.250,C18.452.284.255
+.tx|MMI|18.94|Carcinoma|C0007097|[neop]|"Carcinoma"-text-0-"CARCINOMA"-NN-0,"Carcinoma"-text-0-"CARCINOMA"-NNP-0,"Carcinoma"-text-0-"CARCINOMA"-NNP-0,"Carcinoma"-text-0-"CARCINOMA"-NNP-0,"Carcinoma"-text-0-"CARCINOMA"-NNP-0,"Carcinoma"-text-0-"CARCINOMA"-NN-0,"Carcinoma"-text-0-"CARCINOMA"-NNP-0,"Carcinoma"-text-0-"CARCINOMA"-NN-0,"Carcinoma"-text-0-"CARCINOMA"-NN-0|0/9,0/9,6/9,6/9,6/9,7/9,28/9,26/9,18/9|C04.557.470.200
+.tx|MMI|18.68|Medulloblastoma|C0025149|[neop]|"Medulloblastoma"-text-0-"MEDULLOBLASTOMA"-NN-0|0/15|C04.557.465.625.600.380.515,C04.557.465.625.600.590.500,C04.557.470.670.380.515,C04.557.470.670.590.500,C04.557.580.625.600.380.515,C04.557.580.625.600.590.500
+.tx|MMI|18.15|Appendicitis|C0003615|[dsyn]|"Appendicitis"-text-0-"APPENDICITIS"-NNP-0,"Appendicitis"-text-0-"APPENDICITIS"-NNP-0,"Appendicitis"-text-0-"APPENDICITIS"-NNP-0|17/12,18/12,13/12|C01.539.463.099,C06.405.205.099,C06.405.469.110.207
+.tx|MMI|18.02|Liver carcinoma|C2239176|[neop]|"HEPATOCELLULAR CARCINOMA"-text-0-"HEPATOCELLULAR CARCINOMA"-NNP-0,"HEPATOCELLULAR CARCINOMA"-text-0-"HEPATOCELLULAR CARCINOMA"-NN-0|0/24,20/24|C04.557.470.200.025.255,C04.588.274.623.160,C06.301.623.160,C06.552.697.160
+.tx|MMI|18.02|NCI CTEP SDC Small Cell Lung Cancer Sub-Category Terminology|C3540630|[inpr]|"Small Cell Lung Cancer"-text-0-"SMALL CELL LUNG CANCER"-NNP-0,"Small Cell Lung Cancer"-text-0-"SMALL CELL LUNG CANCER"-NNP-0|4/22,0/22|C04.588.894.797.520.109.220.624,C08.381.540.140.750,C08.785.520.100.220.750
+.tx|MMI|18.02|Small Cell Lung Cancer Pathway|C2984312|[cnce]|"Small cell lung cancer"-text-0-"SMALL CELL LUNG CANCER"-NNP-0,"Small cell lung cancer"-text-0-"SMALL CELL LUNG CANCER"-NNP-0|4/22,0/22|C04.588.894.797.520.109.220.624,C08.381.540.140.750,C08.785.520.100.220.750
+.tx|MMI|18.02|Small cell carcinoma of lung|C0149925|[neop]|"Small Cell Lung Cancer"-text-0-"SMALL CELL LUNG CANCER"-NNP-0,"Small Cell Lung Cancer"-text-0-"SMALL CELL LUNG CANCER"-NNP-0|4/22,0/22|C04.588.894.797.520.109.220.624,C08.381.540.140.750,C08.785.520.100.220.750
+.tx|MMI|17.1|Chronic Lymphocytic Leukemia|C0023434|[neop]|"Chronic Lymphocytic Leukemia"-text-0-"CHRONIC LYMPHOCYTIC LEUKEMIA"-NNP-0,"Chronic Lymphocytic Leukemia"-text-0-"CHRONIC LYMPHOCYTIC LEUKEMIA"-NNP-0|0/28,0/28|C04.557.337.428.080.125,C15.604.515.560.080.125,C20.683.515.528.080.125
+.tx|MMI|15.46|Spinocerebellar Ataxia Type 1|C0752120|[dsyn]|"SCA1"-text-0-"SCA1"-NN-0|0/4|C10.228.140.252.190.530,C10.228.140.252.700.700,C10.228.854.787.875,C10.574.500.825.700,C10.597.350.090.500.530,C16.320.400.780.875
+.tx|MMI|14.54|Colon Carcinoma|C0699790|[neop]|"COLON CANCER"-text-0-"COLON CANCER"-NN-0|0/12|C04.588.274.476.411.307.180,C06.301.371.411.307.180,C06.405.249.411.307.180,C06.405.469.158.356.180,C06.405.469.491.307.180
+.tx|MMI|14.54|Colorectal Cancer|C1527249|[neop]|"Colorectal Cancer"-text-0-"COLORECTAL CANCER"-NN-0|0/17|C04.588.274.476.411.307,C06.301.371.411.307,C06.405.249.411.307,C06.405.469.158.356,C06.405.469.491.307,C06.405.469.860.180
+.tx|MMI|14.54|Colorectal Cancer Pathway|C2984278|[cnce]|"Colorectal cancer"-text-0-"COLORECTAL CANCER"-NN-0|0/17|C04.588.274.476.411.307,C06.301.371.411.307,C06.405.249.411.307,C06.405.469.158.356,C06.405.469.491.307,C06.405.469.860.180
+.tx|MMI|14.54|Colorectal Carcinoma|C0009402|[neop]|"Colorectal Cancer"-text-0-"COLORECTAL CANCER"-NN-0|0/17|C04.588.274.476.411.307,C06.301.371.411.307,C06.405.249.411.307,C06.405.469.158.356,C06.405.469.491.307,C06.405.469.860.180
+.tx|MMI|14.54|Colorectal Carcinoma|C0009402|[neop]|"Colorectal Carcinoma"-text-0-"COLORECTAL CARCINOMA"-NN-0|0/20|C04.588.274.476.411.307,C06.301.371.411.307,C06.405.249.411.307,C06.405.469.158.356,C06.405.469.491.307,C06.405.469.860.180
+.tx|MMI|14.54|Malignant tumor of colon|C0007102|[neop]|"colon cancer"-text-0-"COLON CANCER"-NN-0|0/12|C04.588.274.476.411.307.180,C06.301.371.411.307.180,C06.405.249.411.307.180,C06.405.469.158.356.180,C06.405.469.491.307.180
+.tx|MMI|14.54|NCI CTEP SDC Colorectal Cancer Sub-Category Terminology|C3542412|[inpr]|"Colorectal Cancer"-text-0-"COLORECTAL CANCER"-NN-0|0/17|C04.588.274.476.411.307,C06.301.371.411.307,C06.405.249.411.307,C06.405.469.158.356,C06.405.469.491.307,C06.405.469.860.180
+.tx|MMI|13.94|Breast Carcinoma|C0678222|[neop]|"Breast cancer"-text-0-"BREAST CANCER"-NN-0,"Breast cancer"-text-0-"BREAST CANCER"-NN-0,"Breast cancer"-text-0-"BREAST CANCER"-NNP-0,"Breast cancer"-text-0-"BREAST CANCER"-NN-0|0/13,8/13,4/13,16/13|C04.588.180,C17.800.090.500
+.tx|MMI|13.94|Malignant neoplasm of breast|C0006142|[neop]|"Breast Cancer"-text-0-"BREAST CANCER"-NN-0,"Breast Cancer"-text-0-"BREAST CANCER"-NN-0,"Breast Cancer"-text-0-"BREAST CANCER"-NNP-0,"Breast Cancer"-text-0-"BREAST CANCER"-NN-0|0/13,8/13,4/13,16/13|C04.588.180,C17.800.090.500
+.tx|MMI|13.15|Merkel cell carcinoma|C0007129|[neop]|"Merkel cell carcinoma"-text-0-"MERKEL CELL CARCINOMA"-NNP-0|0/21|C02.256.721.150,C02.928.216,C04.557.465.625.650.240.325,C04.557.470.200.025.370.325,C04.557.580.625.650.240.325
+.tx|MMI|12.83|Acute Myeloid Leukemia Pathway|C2984331|[ftcn]|"Acute myeloid leukemia"-text-0-"ACUTE MYELOID LEUKEMIA"-NNP-0,"Acute myeloid leukemia"-text-0-"ACUTE MYELOID LEUKEMIA"-NNP-0,"Acute myeloid leukemia"-text-0-"ACUTE MYELOID LEUKEMIA"-NNP-0,"Acute myeloid leukemia"-text-0-"ACUTE MYELOID LEUKEMIA"-NNP-0,"Acute myeloid leukemia"-text-0-"ACUTE MYELOID LEUKEMIA"-NNP-0|0/22,0/22,0/22,0/22,16/22|C04.557.337.539.275
+.tx|MMI|12.83|Leukemia, Myelocytic, Acute|C0023467|[neop]|"Acute myeloid leukemia"-text-0-"ACUTE MYELOID LEUKEMIA"-NNP-0,"Acute myeloid leukemia"-text-0-"ACUTE MYELOID LEUKEMIA"-NNP-0,"Acute myeloid leukemia"-text-0-"ACUTE MYELOID LEUKEMIA"-NNP-0,"Acute myeloid leukemia"-text-0-"ACUTE MYELOID LEUKEMIA"-NNP-0,"Acute myeloid leukemia"-text-0-"ACUTE MYELOID LEUKEMIA"-NNP-0|0/22,0/22,0/22,0/22,16/22|C04.557.337.539.275
+.tx|MMI|12.83|NCI CTEP SDC Acute Myeloid Leukemia Sub-Category Terminology|C3541370|[inpr]|"Acute Myeloid Leukemia"-text-0-"ACUTE MYELOID LEUKEMIA"-NNP-0,"Acute Myeloid Leukemia"-text-0-"ACUTE MYELOID LEUKEMIA"-NNP-0,"Acute Myeloid Leukemia"-text-0-"ACUTE MYELOID LEUKEMIA"-NNP-0,"Acute Myeloid Leukemia"-text-0-"ACUTE MYELOID LEUKEMIA"-NNP-0,"Acute Myeloid Leukemia"-text-0-"ACUTE MYELOID LEUKEMIA"-NNP-0|0/22,0/22,0/22,0/22,16/22|C04.557.337.539.275
+.tx|MMI|12.23|Multiple Myeloma|C0026764|[neop]|"Multiple Myeloma"-text-0-"MULTIPLE MYELOMA"-NNP-0|0/16|C04.557.595.500,C14.907.454.460,C15.378.147.780.650,C15.378.463.515.460,C20.683.515.845,C20.683.780.650
+.tx|MMI|11.55|Disease|C0012634|[dsyn]|"Disease"-text-0-"DISEASE"-NNP-0,"Disease"-text-0-"DISEASE"-NNP-0,"Disease"-text-0-"DISEASE"-NNP-0,"Disease"-text-0-"DISEASE"-NNP-0,"Disease"-text-0-"DISEASE"-NN-1,"Disease"-text-0-"DISEASE"-NNP-0,"Disease"-text-0-"DISEASE"-NN-0,"Disease"-text-0-"DISEASE"-NN-0|12/7,8/7,10/7,13/7,3/7,12/7,10/7,10/7|C23.550.288
+.tx|MMI|11.31|Cervix carcinoma|C0302592|[neop]|"Cervical Cancer"-text-0-"CERVICAL CANCER"-JJ-0|0/15|C04.588.945.418.948.850,C13.351.500.852.593.131,C13.351.500.852.762.850,C13.351.937.418.875.850
+.tx|MMI|11.31|NCI CTEP SDC Cervical Cancer Sub-Category Terminology|C3539064|[inpr]|"Cervical Cancer"-text-0-"CERVICAL CANCER"-JJ-0|0/15|C04.588.945.418.948.850,C13.351.500.852.593.131,C13.351.500.852.762.850,C13.351.937.418.875.850
+.tx|MMI|11.31|cervical cancer|C4048328|[neop]|"cervical cancer"-text-0-"CERVICAL CANCER"-JJ-0|0/15|C04.588.945.418.948.850,C13.351.500.852.593.131,C13.351.500.852.762.850,C13.351.937.418.875.850
+.tx|MMI|10.85|Angina, Unstable|C0002965|[dsyn]|"UNSTABLE ANGINA PECTORIS"-text-0-"UNSTABLE ANGINA PECTORIS"-JJ-0|0/24|C10.597.617.192.500.150,C14.280.647.187.150,C14.907.585.187.150,C23.888.592.612.233.500.150
+.tx|MMI|10.85|Bladder Cancer Pathway|C2984270|[cnce]|"Bladder cancer"-text-0-"BLADDER CANCER"-NN-0|0/14|C04.588.945.947.960,C12.758.820.968,C12.777.829.813,C13.351.937.820.945,C13.351.968.829.707
+.tx|MMI|10.85|Bladder Neoplasm|C0005695|[neop]|"Bladder cancer"-text-0-"BLADDER CANCER"-NN-0|0/14|C04.588.945.947.960,C12.758.820.968,C12.777.829.813,C13.351.937.820.945,C13.351.968.829.707
+.tx|MMI|10.85|Carcinoma of bladder|C0699885|[neop]|"Bladder Cancer"-text-0-"BLADDER CANCER"-NN-0|0/14|C04.588.945.947.960,C12.758.820.968,C12.777.829.813,C13.351.937.820.945,C13.351.968.829.707
+.tx|MMI|10.85|Central neuroblastoma|C0700095|[neop]|"neuroblastoma"-text-0-"NEUROBLASTOMA"-NN-0|0/13|C04.557.465.625.600.590.650.550,C04.557.470.670.590.650.550,C04.557.580.625.600.590.650.550
+.tx|MMI|10.85|Glioblastoma|C0017636|[neop]|"Glioblastoma multiforme"-text-0-"GLIOBLASTOMA MULTIFORME"-NNP-0|0/23|C04.557.465.625.600.380.080.335,C04.557.470.670.380.080.335,C04.557.580.625.600.380.080.335
+.tx|MMI|10.85|Glioblastoma Multiforme|C1621958|[neop]|"Glioblastoma Multiforme"-text-0-"GLIOBLASTOMA MULTIFORME"-NNP-0|0/23|C04.557.465.625.600.380.080.335,C04.557.470.670.380.080.335,C04.557.580.625.600.380.080.335
+.tx|MMI|10.85|Malignant neoplasm of urinary bladder|C0005684|[neop]|"bladder cancer"-text-0-"BLADDER CANCER"-NN-0|0/14|C04.588.945.947.960,C12.758.820.968,C12.777.829.813,C13.351.937.820.945,C13.351.968.829.707
+.tx|MMI|10.85|NCI CTEP SDC Neuroblastoma Sub-Category Terminology|C3540583|[inpr]|"Neuroblastoma"-text-0-"NEUROBLASTOMA"-NN-0|0/13|C04.557.465.625.600.590.650.550,C04.557.470.670.590.650.550,C04.557.580.625.600.590.650.550
+.tx|MMI|10.85|Neuroblastoma|C0027819|[neop]|"Neuroblastoma"-text-0-"NEUROBLASTOMA"-NN-0|0/13|C04.557.465.625.600.590.650.550,C04.557.470.670.590.650.550,C04.557.580.625.600.590.650.550
+.tx|MMI|10.85|Stable angina|C0340288|[dsyn]|"Stable Angina Pectoris"-text-0-"STABLE ANGINA PECTORIS"-JJ-0|0/22|C10.597.617.192.500.575,C14.280.647.187.362,C14.907.585.187.362,C23.888.592.612.233.500.575
+.tx|MMI|10.39|Arthralgia|C0003862|[sosy]|"Arthralgia"-text-0-"ARTHRALGIA"-NN-0|0/10|C05.550.091,C10.597.617.133,C23.888.592.612.094,F02.830.816.444.350,G11.561.790.444.350
+.tx|MMI|10.39|Malignant neoplasm of ovary|C1140680|[neop]|"Ovarian Cancer"-text-0-"OVARIAN CANCER"-NNP-0|0/14|C04.588.322.455,C13.351.500.056.630.705,C13.351.937.418.685,C19.344.410,C19.391.630.705
+.tx|MMI|10.39|Ovarian Carcinoma|C0029925|[neop]|"ovarian cancer"-text-0-"OVARIAN CANCER"-NNP-0|0/14|C04.588.322.455,C13.351.500.056.630.705,C13.351.937.418.685,C19.344.410,C19.391.630.705
+.tx|MMI|9.93|Esophageal Neoplasms|C0014859|[neop]|"esophageal cancer"-text-0-"ESOPHAGEAL CANCER"-JJ-0|0/17|C04.588.274.476.205,C04.588.443.353,C06.301.371.205,C06.405.117.430,C06.405.249.205
+.tx|MMI|9.93|Esophageal carcinoma|C0152018|[neop]|"ESOPHAGEAL CANCER"-text-0-"ESOPHAGEAL CANCER"-JJ-0|0/17|C04.588.274.476.205,C04.588.443.353,C06.301.371.205,C06.405.117.430,C06.405.249.205
+.tx|MMI|9.93|Malignant neoplasm of esophagus|C0546837|[neop]|"Esophageal Cancer"-text-0-"ESOPHAGEAL CANCER"-JJ-0|0/17|C04.588.274.476.205,C04.588.443.353,C06.301.371.205,C06.405.117.430,C06.405.249.205
+.tx|MMI|9.93|Ulcerative Colitis|C0009324|[dsyn]|"Ulcerative Colitis"-text-0-"ULCERATIVE COLITIS"-JJ-0|0/18|C06.405.205.265.231,C06.405.205.731.249,C06.405.469.158.188.231,C06.405.469.432.249
+.tx|MMI|9.47|Astrocytoma|C0004114|[neop]|"Astrocytoma"-text-0-"ASTROCYTOMA"-NN-0|14/11|C04.557.465.625.600.380.080,C04.557.470.670.380.080,C04.557.580.625.600.380.080
+.tx|MMI|9.47|Dermatitis, Atopic|C0011615|[dsyn]|"ATOPIC DERMATITIS"-text-0-"ATOPIC DERMATITIS"-NN-0|0/17|C16.320.850.210,C17.800.174.193,C17.800.815.193,C17.800.827.210,C20.543.480.343
+.tx|MMI|9.47|Eczema|C0013595|[dsyn]|"Atopic Dermatitis"-text-0-"ATOPIC DERMATITIS"-NN-0|0/17|C16.320.850.210,C17.800.174.193,C17.800.815.193,C17.800.827.210,C20.543.480.343
+.tx|MMI|9.01|Non-Small Cell Lung Carcinoma|C0007131|[neop]|"NSCLC"-text-0-"NSCLC"-NN-0|0/5|C04.588.894.797.520.109.220.249,C08.381.540.140.500,C08.785.520.100.220.500
+.tx|MMI|8.55|Endometrial Carcinoma|C0476089|[neop]|"Endometrial Cancer"-text-0-"ENDOMETRIAL CANCER"-NNP-0|0/18|C04.588.945.418.948.585,C13.351.500.852.762.200,C13.351.937.418.875.200
+.tx|MMI|8.55|Endometrial Carcinoma|C0476089|[neop]|"Endometrial Carcinoma"-text-0-"ENDOMETRIAL CARCINOMA"-NNP-0|0/21|C04.588.945.418.948.585,C13.351.500.852.762.200,C13.351.937.418.875.200
+.tx|MMI|8.55|Malignant neoplasm of endometrium|C0007103|[neop]|"Endometrial cancer"-text-0-"ENDOMETRIAL CANCER"-NNP-0|0/18|C04.588.945.418.948.585,C13.351.500.852.762.200,C13.351.937.418.875.200
+.tx|MMI|8.55|Polycystic Kidney - body part|C1567435|[anab]|"Polycystic kidney"-text-0-"POLYCYSTIC KIDNEY"-NN-0|0/17|C12.777.419.403.875,C13.351.968.419.403.875,C16.131.077.717,C16.320.798
+.tx|MMI|8.55|Uterine Corpus Cancer|C1883486|[neop]|"Endometrial Cancer"-text-0-"ENDOMETRIAL CANCER"-NNP-0|0/18|C04.588.945.418.948.585,C13.351.500.852.762.200,C13.351.937.418.875.200
+.tx|MMI|8.09|Lymphoma, Follicular|C0024301|[neop]|"follicular lymphoma"-text-0-"FOLLICULAR LYMPHOMA"-NN-0|0/19|C04.557.386.480.350,C15.604.515.569.480.350,C20.683.515.761.480.350
+.tx|MMI|8.09|Malignant neoplasm of pancreas|C0346647|[neop]|"Pancreatic Cancer"-text-0-"PANCREATIC CANCER"-NN-0|0/17|C04.588.274.761,C04.588.322.475,C06.301.761,C06.689.667,C19.344.421
+.tx|MMI|8.09|Malignant neoplasm of prostate|C0376358|[neop]|"Prostate Cancer"-text-0-"PROSTATE CANCER"-NNP-0|0/15|C04.588.945.440.770,C12.294.260.750,C12.294.565.625,C12.758.409.750
+.tx|MMI|8.09|NCI CTEP SDC Prostate Cancer Sub-Category Terminology|C3541264|[inpr]|"Prostate Cancer"-text-0-"PROSTATE CANCER"-NNP-0|0/15|C04.588.945.440.770,C12.294.260.750,C12.294.565.625,C12.758.409.750
+.tx|MMI|8.09|Pancreatic Cancer Pathway|C2984259|[ftcn]|"Pancreatic cancer"-text-0-"PANCREATIC CANCER"-NN-0|0/17|C04.588.274.761,C04.588.322.475,C06.301.761,C06.689.667,C19.344.421
+.tx|MMI|8.09|Pancreatic carcinoma|C0235974|[neop]|"PANCREATIC CANCER"-text-0-"PANCREATIC CANCER"-NN-0|0/17|C04.588.274.761,C04.588.322.475,C06.301.761,C06.689.667,C19.344.421
+.tx|MMI|8.09|Prostate Cancer Pathway|C2984325|[cnce]|"Prostate cancer"-text-0-"PROSTATE CANCER"-NNP-0|0/15|C04.588.945.440.770,C12.294.260.750,C12.294.565.625,C12.758.409.750
+.tx|MMI|8.09|Prostate carcinoma|C0600139|[neop]|"Prostate Cancer"-text-0-"PROSTATE CANCER"-NNP-0|0/15|C04.588.945.440.770,C12.294.260.750,C12.294.565.625,C12.758.409.750
+.tx|MMI|7.89|B-Cell Lymphomas|C0079731|[neop]|"B cell lymphoma"-text-0-"B CELL LYMPHOMA"-NNP-0|6/15|C04.557.386.480.150,C15.604.515.569.480.150,C20.683.515.761.480.150
+.tx|MMI|7.7|Adenocarcinoma|C0001418|[neop]|"Adenocarcinoma"-text-0-"ADENOCARCINOMA"-NN-0,"Adenocarcinoma"-text-0-"ADENOCARCINOMA"-NN-0,"Adenocarcinoma"-text-0-"ADENOCARCINOMA"-NNP-0|0/14,13/14,11/14|C04.557.470.200.025
+.tx|MMI|7.63|Melanoma Pathway|C2984289|[ftcn]|"Melanoma"-text-0-"MELANOMA"-NN-0|0/8|C04.557.465.625.650.510,C04.557.580.625.650.510,C04.557.665.510
+.tx|MMI|7.63|NCI CTEP SDC Melanoma Sub-Category Terminology|C3539018|[inpr]|"Melanoma"-text-0-"MELANOMA"-NN-0|0/8|C04.557.465.625.650.510,C04.557.580.625.650.510,C04.557.665.510
+.tx|MMI|7.63|melanoma|C0025202|[neop]|"Malignant Melanoma"-text-0-"MALIGNANT MELANOMA"-NNP-0|0/18|C04.557.465.625.650.510,C04.557.580.625.650.510,C04.557.665.510
+.tx|MMI|7.63|melanoma|C0025202|[neop]|"melanoma"-text-0-"MELANOMA"-NN-0|0/8|C04.557.465.625.650.510,C04.557.580.625.650.510,C04.557.665.510
+.tx|MMI|7.17|Acute lymphocytic leukemia|C0023449|[neop]|"Acute lymphoblastic leukemia"-text-0-"ACUTE LYMPHOBLASTIC LEUKEMIA"-NNP-0|0/28|C04.557.337.428.600,C15.604.515.560.600,C20.683.515.528.600
+.tx|MMI|7.17|Cryptorchidism|C0010417|[cgab]|"Cryptorchidism"-text-0-"CRYPTORCHIDISM"-NN-0|0/14|C12.294.829.258,C12.706.258,C16.131.939.258,C19.391.829.258
+.tx|MMI|7.17|Intellectual Disability|C3714756|[mobd]|"Intellectual Disability"-text-0-"INTELLECTUAL DISABILITY"-JJ-0|0/23|C10.597.606.643,C23.888.592.604.646,F01.700.687,F03.625.539
+.tx|MMI|7.17|NCI CTEP SDC Acute Lymphoblastic Leukemia Sub-Category Terminology|C3542401|[inpr]|"Acute Lymphoblastic Leukemia"-text-0-"ACUTE LYMPHOBLASTIC LEUKEMIA"-NNP-0|0/28|C04.557.337.428.600,C15.604.515.560.600,C20.683.515.528.600
+.tx|MMI|7.17|Precursor Cell Lymphoblastic Leukemia Lymphoma|C1961102|[neop]|"Acute Lymphoblastic Leukemia"-text-0-"ACUTE LYMPHOBLASTIC LEUKEMIA"-NNP-0|0/28|C04.557.337.428.600,C15.604.515.560.600,C20.683.515.528.600
+.tx|MMI|6.25|MS gene|C1417325|[gngm]|"multiple sclerosis"-text-0-"MULTIPLE SCLEROSIS"-NNP-0|0/18|C10.114.375.500,C10.314.350.500,C20.111.258.250.500
+.tx|MMI|6.25|Multiple Sclerosis|C0026769|[dsyn]|"Multiple Sclerosis"-text-0-"MULTIPLE SCLEROSIS"-NNP-0|0/18|C10.114.375.500,C10.314.350.500,C20.111.258.250.500
+.tx|MMI|5.79|Cystic Fibrosis|C0010674|[dsyn]|"Cystic Fibrosis"-text-0-"CYSTIC FIBROSIS"-NN-0|0/15|C06.689.202,C08.381.187,C16.320.190,C16.614.213
+.tx|MMI|5.79|Paraganglioma|C0030421|[neop]|"Paraganglioma"-text-0-"PARAGANGLIOMA"-NN-0|0/13|C04.557.465.625.650.700,C04.557.580.625.650.700
+.tx|MMI|5.33|Carcinoma of lung|C0684249|[neop]|"LUNG CANCER"-text-0-"LUNG CANCER"-NNP-0|0/11|C04.588.894.797.520,C08.381.540,C08.785.520
+.tx|MMI|5.33|Cerebral Hemorrhage, Hypertensive|C0751892|[patf]|"Hypertensive Cerebral Hemorrhage"-text-0-"HYPERTENSIVE CEREBRAL HEMORRHAGE"-JJ-0|0/32|C10.228.140.300.535.325,C14.907.253.573.350
+.tx|MMI|5.33|Gestational Diabetes|C0085207|[dsyn]|"gestational diabetes mellitus"-text-0-"GESTATIONAL DIABETES MELLITUS"-JJ-0|0/29|C13.703.170,C18.452.394.750.448,C19.246.200
+.tx|MMI|5.33|Malignant neoplasm of lung|C0242379|[neop]|"Lung Cancer"-text-0-"LUNG CANCER"-NNP-0|0/11|C04.588.894.797.520,C08.381.540,C08.785.520
+.tx|MMI|5.33|Myasthenia Gravis|C0026896|[dsyn]|"Myasthenia Gravis"-text-0-"MYASTHENIA GRAVIS"-NNP-0|0/17|C10.114.656,C10.668.758.725,C20.111.258.500
+.tx|MMI|5.33|NCI CTEP SDC Osteosarcoma Sub-Category Terminology|C3541899|[inpr]|"Osteosarcoma"-text-0-"OSTEOSARCOMA"-NN-0|0/12|C04.557.450.565.575.650,C04.557.450.795.620
+.tx|MMI|5.33|Nephrotic Syndrome|C0027726|[dsyn]|"Nephrotic Syndrome"-text-0-"NEPHROTIC SYNDROME"-NN-0|18/18|C12.777.419.630.643,C13.351.968.419.630.643
+.tx|MMI|5.33|Osteosarcoma|C0029463|[neop]|"Osteosarcoma"-text-0-"OSTEOSARCOMA"-NN-0|0/12|C04.557.450.565.575.650,C04.557.450.795.620
+.tx|MMI|5.33|Osteosarcoma of bone|C0585442|[neop]|"osteosarcoma"-text-0-"OSTEOSARCOMA"-NN-0|0/12|C04.557.450.565.575.650,C04.557.450.795.620
+.tx|MMI|5.06|Cancer Genus|C0998265|[euka]|"Cancer"-text-0-"CANCER"-NN-0,"Cancer"-text-0-"CANCER"-NN-0,"Cancer"-text-0-"CANCER"-NN-0,"Cancer"-text-0-"CANCER"-NN-0,"Cancer"-text-0-"CANCER"-NN-0,"Cancer"-text-0-"CANCER"-NN-0,"Cancer"-text-0-"CANCER"-NN-0|19/6,0/6,11/6,10/6,8/6,9/6,8/6|C04
+.tx|MMI|5.06|Malignant Neoplasms|C0006826|[neop]|"Cancer"-text-0-"CANCER"-NN-0,"Cancer"-text-0-"CANCER"-NN-0,"Cancer"-text-0-"CANCER"-NN-0,"Cancer"-text-0-"CANCER"-NN-0,"Cancer"-text-0-"CANCER"-NN-0,"Cancer"-text-0-"CANCER"-NN-0,"Cancer"-text-0-"CANCER"-NN-0|19/6,0/6,11/6,10/6,8/6,9/6,8/6|C04
+.tx|MMI|4.87|Chondrosarcoma|C0008479|[neop]|"Chondrosarcoma"-text-0-"CHONDROSARCOMA"-NNP-0|0/14|C04.557.450.565.280,C04.557.450.795.300
+.tx|MMI|4.87|Chronic Myeloid Leukemia Pathway|C2984277|[ftcn]|"Chronic myeloid leukemia"-text-0-"CHRONIC MYELOID LEUKEMIA"-NNP-0|0/24|C04.557.337.539.250,C15.378.190.636.370
+.tx|MMI|4.87|Colon <insect>|C3888384|[euka]|"Colon"-text-0-"COLON"-NN-0|0/5|A03.556.124.526.356,A03.556.249.249.356
+.tx|MMI|4.87|Colon structure (body structure)|C0009368|[bpoc]|"Colon"-text-0-"COLON"-NN-0|0/5|A03.556.124.526.356,A03.556.249.249.356
+.tx|MMI|4.87|Craniopharyngioma|C0010276|[neop]|"Craniopharyngioma"-text-0-"CRANIOPHARYNGIOMA"-NNP-0|17/17|C04.557.465.625.200,C04.557.580.625.200
+.tx|MMI|4.87|Juvenile Myelomonocytic Leukemia|C0349639|[neop]|"Juvenile Myelomonocytic Leukemia"-text-0-"JUVENILE MYELOMONOCYTIC LEUKEMIA"-NNP-0|0/32|C04.557.337.539.525,C15.378.190.615.520
+.tx|MMI|4.87|Liver and Intrahepatic Biliary Tract Carcinoma|C0279000|[neop]|"Liver Cancer"-text-0-"LIVER CANCER"-NNP-0|0/12|C04.588.274.623,C06.301.623,C06.552.697
+.tx|MMI|4.87|Malignant neoplasm of liver|C0345904|[neop]|"Liver cancer"-text-0-"LIVER CANCER"-NNP-0|0/12|C04.588.274.623,C06.301.623,C06.552.697
+.tx|MMI|4.87|Mesothelioma|C0025500|[neop]|"Mesothelioma"-text-0-"MESOTHELIOMA"-NN-0|0/12|C04.557.470.035.510,C04.557.470.660.510
+.tx|MMI|4.87|Myeloid Leukemia, Chronic|C0023473|[neop]|"Chronic myelogenous leukemia"-text-0-"CHRONIC MYELOGENOUS LEUKEMIA"-NNP-0|0/28|C04.557.337.539.250,C15.378.190.636.370
+.tx|MMI|4.87|Myeloid Leukemia, Chronic|C0023473|[neop]|"Chronic myeloid leukemia"-text-0-"CHRONIC MYELOID LEUKEMIA"-NNP-0|0/24|C04.557.337.539.250,C15.378.190.636.370
+.tx|MMI|4.87|NCI CTEP SDC Chondrosarcoma Sub-Category Terminology|C3540851|[inpr]|"Chondrosarcoma"-text-0-"CHONDROSARCOMA"-NNP-0|0/14|C04.557.450.565.280,C04.557.450.795.300
+.tx|MMI|4.87|NCI CTEP SDC Mesothelioma Sub-Category Terminology|C3538785|[inpr]|"Mesothelioma"-text-0-"MESOTHELIOMA"-NN-0|0/12|C04.557.470.035.510,C04.557.470.660.510
+.tx|MMI|4.87|Salivary Glands|C0036098|[bpoc]|"Salivary gland"-text-0-"SALIVARY GLAND"-NNP-0|27/14|A03.556.500.760,A10.336.779,A14.549.760
+.tx|MMI|4.87|Squamous cell carcinoma|C0007137|[neop]|"Squamous cell carcinoma"-text-0-"SQUAMOUS CELL CARCINOMA"-NNP-0|23/23|C04.557.470.200.400,C04.557.470.700.400
+.tx|MMI|4.41|Cancer Pain|C0596240|[sosy]|"Cancer Pain"-text-0-"CANCER PAIN"-JJ-0|0/11|C10.597.617.185,C23.888.592.612.212
+.tx|MMI|4.41|Celiac Disease|C0007570|[dsyn]|"Celiac Disease"-text-0-"CELIAC DISEASE"-NNP-0|0/14|C06.405.469.637.250,C18.452.603.250
+.tx|MMI|4.21|Cerebrovascular accident|C0038454|[dsyn]|"Stroke"-text-0-"STROKE"-NN-0|6/6|C10.228.140.300.775,C14.907.253.855
+.tx|MMI|4.21|Intestinal Volvulus|C0042961|[dsyn]|"Volvulus"-text-0-"VOLVULUS"-NNP-0|8/8|C06.405.469.531.568,C23.300.970.500
+.tx|MMI|3.95|Bloom Syndrome|C0005859|[dsyn]|"Bloom Syndrome"-text-0-"BLOOM SYNDROME"-NN-0|0/14|C16.131.077.137,C18.452.284.100
+.tx|MMI|3.95|Hepatitis, Autoimmune|C0241910|[dsyn]|"Autoimmune hepatitis"-text-0-"AUTOIMMUNE HEPATITIS"-NNP-0|0/20|C06.552.380.350.050,C20.111.567
+.tx|MMI|3.95|Inflammatory Bowel Diseases|C0021390|[dsyn]|"Inflammatory bowel disease"-text-0-"INFLAMMATORY BOWEL DISEASE"-NN-0|0/26|C06.405.205.731,C06.405.469.432
+.tx|MMI|3.95|Shock, Hemorrhagic|C0036982|[patf]|"Hemorrhagic shock"-text-0-"HEMORRHAGIC SHOCK"-NN-0|0/17|C23.550.414.980,C23.550.835.650
+.tx|MMI|3.81|SARCOIDOSIS, SUSCEPTIBILITY TO, 1 (finding)|C2697310|[fndg]|"SARCOIDOSIS"-text-0-"SARCOIDOSIS"-NNP-0,"SARCOIDOSIS"-text-0-"SARCOIDOSIS"-NNS-0|19/11,7/11|C15.604.515.827
+.tx|MMI|3.81|Sarcoidosis|C0036202|[dsyn]|"Sarcoidosis"-text-0-"SARCOIDOSIS"-NNP-0,"Sarcoidosis"-text-0-"SARCOIDOSIS"-NNS-0|19/11,7/11|C15.604.515.827
+.tx|MMI|3.75|Progeria|C0033300|[dsyn]|"Progeria"-text-0-"PROGERIA"-NNP-0|19/8|C16.320.565.753,C18.452.648.753
+.tx|MMI|3.49|Breast Carcinoma|C0678222|[neop]|"Breast Carcinoma"-text-0-"BREAST CARCINOMA"-NN-0|0/16|C04.588.180,C17.800.090.500
+.tx|MMI|3.49|Chromosome Aberrations|C0008625|[comd]|"Cytogenetic Abnormalities"-text-0-"CYTOGENETIC ABNORMALITIES"-NN-0|38/25|C23.550.210,G05.365.590.175
+.tx|MMI|3.49|Congenital chromosomal disease|C0008626|[cgab, dsyn]|"Cytogenetic Abnormalities"-text-0-"CYTOGENETIC ABNORMALITIES"-NN-0|38/25|C23.550.210,G05.365.590.175
+.tx|MMI|3.49|Degenerative polyarthritis|C0029408|[dsyn]|"Osteoarthritis"-text-0-"OSTEOARTHRITIS"-NNS-0|0/14|C05.550.114.606,C05.799.613
+.tx|MMI|3.49|Influenza|C0021400|[dsyn]|"Influenza"-text-0-"INFLUENZA"-NN-0|0/9|C02.782.620.365,C08.730.310
+.tx|MMI|3.49|Influenza virus vaccine|C0021403|[imft, phsu]|"INFLUENZA"-text-0-"INFLUENZA"-NN-0|0/9|C02.782.620.365,C08.730.310
+.tx|MMI|3.49|Pemphigus Vulgaris|C0030809|[dsyn]|"Pemphigus Vulgaris"-text-0-"PEMPHIGUS VULGARIS"-NNS-0|0/18|C17.800.865.716,C20.111.736
+.tx|MMI|3.29|leukemia|C0023418|[neop]|"leukemia"-text-0-"LEUKEMIA"-NNP-0,"leukemia"-text-0-"LEUKEMIA"-NNP-0|0/8,16/8|C04.557.337
+.tx|MMI|3.14|In addition to|C0332287|[ftcn]|"With"-text-0-"WITH"-NNP-0,"With"-text-0-"WITH"-NNP-0,"With"-text-0-"WITH"-NNP-0,"With"-text-0-"WITH"-NNP-0,"With"-text-0-"WITH"-NNP-0,"With"-text-0-"WITH"-NNP-0|4/4,4/4,4/4,26/4,6/4,6/4|
+.tx|MMI|3.03|Acute Promyelocytic Leukemia|C0023487|[neop]|"Acute Promyelocytic Leukemia"-text-0-"ACUTE PROMYELOCYTIC LEUKEMIA"-NNP-0|0/28|C04.557.337.539.275.700
+.tx|MMI|3.03|Acute monocytic leukemia|C0023465|[neop]|"Acute monocytic leukemia"-text-0-"ACUTE MONOCYTIC LEUKEMIA"-NNP-0|0/24|C04.557.337.539.275.484
+.tx|MMI|3.03|Cholangiocarcinoma|C0206698|[neop]|"Cholangiocarcinoma"-text-0-"CHOLANGIOCARCINOMA"-NNP-0|0/18|C04.557.470.200.025.450
+.tx|MMI|3.03|Craniocerebral Trauma|C0018674|[inpo]|"HEAD TRAUMA"-text-0-"HEAD TRAUMA"-NN-0|0/11|C10.900.300,C26.915.300
+.tx|MMI|3.03|HIV|C0019682|[virs]|"Human Immunodeficiency Virus"-text-0-"HUMAN IMMUNODEFICIENCY VIRUS"-NNP-0|0/28|B04.820.650.589.650.350
+.tx|MMI|3.03|M5b Acute differentiated monocytic leukemia|C1318544|[neop]|"Acute Monocytic Leukemia"-text-0-"ACUTE MONOCYTIC LEUKEMIA"-NNP-0|0/24|C04.557.337.539.275.484
+.tx|MMI|2.83|Luminal region|C0524462|[spco]|"Luminal"-text-0-"LUMINAL"-JJ-0|0/7|D03.383.742.698.253.650
+.tx|MMI|2.83|Lymphoproliferative Disorders|C0024314|[neop]|"Lymphoproliferative Disorder"-text-0-"LYMPHOPROLIFERATIVE DISORDER"-NNP-0|31/28|C15.604.515,C20.683.515
+.tx|MMI|2.57|Acute myelomonocytic leukemia|C0023479|[neop]|"Acute myelomonocytic leukemia"-text-0-"ACUTE MYELOMONOCYTIC LEUKEMIA"-NNP-0|0/29|C04.557.337.539.520
+.tx|MMI|2.57|Hyperlipidemia|C0020473|[dsyn]|"Hyperlipidemia"-text-0-"HYPERLIPIDEMIA"-NNP-0|0/14|C18.452.584.500.500
+.tx|MMI|2.57|Leishmaniasis, Visceral|C0023290|[dsyn]|"Visceral leishmaniasis"-text-0-"VISCERAL LEISHMANIASIS"-JJ-0|0/22|C03.752.300.500.510
+.tx|MMI|2.57|Leukemia, Myelocytic, Acute|C0023467|[neop]|"Acute myelogenous leukemia"-text-0-"ACUTE MYELOGENOUS LEUKEMIA"-NNP-0|0/26|C04.557.337.539.275
+.tx|MMI|2.37|Breast|C0006141|[bpoc]|"Breast"-text-0-"BREAST"-NN-0,"Breast"-text-0-"BREAST"-NN-0|27/6,0/6|A01.236
+.tx|MMI|2.37|Arteriosclerosis|C0003850|[dsyn]|"ATHEROSCLEROSIS"-text-0-"ATHEROSCLEROSIS"-NNP-0|16/15|C14.907.137.126.307
+.tx|MMI|2.37|Atherosclerosis|C0004153|[dsyn]|"Atherosclerosis"-text-0-"ATHEROSCLEROSIS"-NNP-0|16/15|C14.907.137.126.307
+.tx|MMI|2.17|All|C0444868|[qnco]|"All"-text-0-"ALL"-NN-0,"All"-text-0-"ALL"-NNP-0,"All"-text-0-"ALL"-NNP-0|2/3,2/3,2/3|
+.tx|MMI|2.17|Gait normal|C0231683|[fndg]|"Normal"-text-0-"NORMAL"-NN-0,"Normal"-text-0-"NORMAL"-JJ-0,"Normal"-text-0-"NORMAL"-JJ-0|0/6,0/6,0/6|
+.tx|MMI|2.17|Lymphoma cells|C0883208|[cell]|"cell lymphoma"-text-0-"CELL LYMPHOMA"-NNP-0,"cell lymphoma"-text-0-"CELL LYMPHOMA"-NNP-0,"cell lymphoma"-text-0-"CELL LYMPHOMA"-NNP-0|2/13,16/13,7/13|
+.tx|MMI|2.17|Normal|C0205307|[qlco]|"Normal"-text-0-"NORMAL"-NN-0,"Normal"-text-0-"NORMAL"-JJ-0,"Normal"-text-0-"NORMAL"-JJ-0|0/6,0/6,0/6|
+.tx|MMI|2.17|acute|C0205178|[tmco]|"acute"-text-0-"ACUTE"-NNP-0,"acute"-text-0-"ACUTE"-NNP-0,"acute"-text-0-"ACUTE"-NNP-0|0/5,0/5,0/5|
+.tx|MMI|2.1|Adenocarcinoma of lung (disorder)|C0152013|[neop]|"lung adenocarcinoma"-text-0-"LUNG ADENOCARCINOMA"-NNP-0|0/19|x.x.x.x
+.tx|MMI|2.1|Alveolar rhabdomyosarcoma|C0206655|[neop]|"ARMS"-text-0-"ARMS"-NNS-0|0/4|A01.378.800.075
+.tx|MMI|2.1|Anemia, Hemolytic|C0002878|[dsyn]|"Hemolytic anemia"-text-0-"HEMOLYTIC ANEMIA"-NN-0|0/16|C15.378.071.141
+.tx|MMI|2.1|Attention deficit hyperactivity disorder|C1263846|[mobd]|"ADHD"-text-0-"ADHD"-NN-0|0/4|F03.625.094.150
+.tx|MMI|2.1|Autism Spectrum Disorders|C1510586|[mobd]|"Autism Spectrum Disorder"-text-0-"AUTISM SPECTRUM DISORDER"-NNP-0|0/24|F03.625.164.113
+.tx|MMI|2.1|Embryonal Carcinoma|C0206659|[neop]|"Embryonal Carcinoma"-text-0-"EMBRYONAL CARCINOMA"-NNP-0|0/19|C04.557.465.200
+.tx|MMI|2.1|Eosinophil count raised (finding)|C2240374|[lbtr]|"Eosinophilia"-text-0-"EOSINOPHILIA"-NNP-0|0/12|C15.378.553.231
+.tx|MMI|2.1|Eosinophilia|C0014457|[dsyn]|"Eosinophilia"-text-0-"EOSINOPHILIA"-NNP-0|0/12|C15.378.553.231
+.tx|MMI|2.1|Eosinophilic disorder|C1306759|[dsyn]|"Eosinophilia"-text-0-"EOSINOPHILIA"-NNP-0|0/12|C15.378.553.231
+.tx|MMI|2.1|Epilepsy|C0014544|[dsyn]|"Epilepsy"-text-0-"EPILEPSY"-NN-0|0/8|C10.228.140.490
+.tx|MMI|2.1|KIDINS220 gene|C2681631|[gngm]|"ARMS"-text-0-"ARMS"-NNS-0|0/4|A01.378.800.075
+.tx|MMI|2.1|MYELODYSPLASTIC SYNDROME|C3463824|[neop]|"Myelodysplastic Syndromes"-text-0-"MYELODYSPLASTIC SYNDROMES"-NN-0|0/25|C15.378.190.625
+.tx|MMI|2.1|Multiple Organ Failure|C0026766|[patf]|"Multiple Organ Failure"-text-0-"MULTIPLE ORGAN FAILURE"-NNP-0|0/22|C23.550.835.525
+.tx|MMI|2.1|Nasopharyngeal carcinoma|C2931822|[neop]|"Nasopharyngeal carcinoma"-text-0-"NASOPHARYNGEAL CARCINOMA"-NNP-0|0/24|x.x.x.x
+.tx|MMI|2.1|Pancreatitis, Chronic|C0149521|[dsyn]|"Chronic pancreatitis"-text-0-"CHRONIC PANCREATITIS"-NN-0|0/20|C06.689.750.830
+.tx|MMI|2.1|Spinocerebellar Ataxia 10|C1963674|[dsyn]|"Sca10"-text-0-"SCA10"-NN-0|0/5|x.x.x.x
+.tx|MMI|2.1|Squamous cell carcinoma of esophagus|C0279626|[neop]|"Esophageal Squamous Cell Carcinoma"-text-0-"ESOPHAGEAL SQUAMOUS CELL CARCINOMA"-JJ-0|0/34|x.x.x.x
+.tx|MMI|2.1|Upper arm|C0446516|[blor]|"Arms"-text-0-"ARMS"-NNS-0|0/4|A01.378.800.075
+.tx|MMI|2.1|Uveal melanoma|C0220633|[neop]|"Uveal melanoma"-text-0-"UVEAL MELANOMA"-JJ-0|0/14|x.x.x.x
+.tx|MMI|2.09|Leukemia, Myelocytic, Acute|C0023467|[neop]|"AML"-text-0-"AML"-NNP-0,"AML"-text-0-"AML"-NNP-0,"AML"-text-0-"AML"-NNP-0,"AML"-text-0-"AML"-NNP-0|24/3,0/3,0/3,0/3|
+.tx|MMI|1.9|Adenoma|C0001430|[neop]|"Adenoma"-text-0-"ADENOMA"-NNP-0|16/7|C04.557.470.035
+.tx|MMI|1.9|Benign melanocytic nevus|C1456781|[neop]|"nevus"-text-0-"NEVUS"-NNP-0|9/5|C04.557.665.560
+.tx|MMI|1.9|Cholecystectomy procedure|C0008320|[topp]|"Cholecystectomy"-text-0-"CHOLECYSTECTOMY"-NNP-0|24/15|E04.210.120.172
+.tx|MMI|1.9|Fever|C0015967|[sosy]|"Fever"-text-0-"FEVER"-JJR-0|7/5|C23.888.119.344
+.tx|MMI|1.9|Fever symptoms (finding)|C0424755|[fndg]|"Fever"-text-0-"FEVER"-JJR-0|7/5|C23.888.119.344
+.tx|MMI|1.9|Melanocytic nevus|C0027962|[neop]|"Nevus"-text-0-"NEVUS"-NNP-0|9/5|C04.557.665.560
+.tx|MMI|1.9|Nevus|C0027960|[neop]|"Nevus"-text-0-"NEVUS"-NNP-0|9/5|C04.557.665.560
+.tx|MMI|1.9|Sarcoma|C1261473|[neop]|"Sarcoma"-text-0-"SARCOMA"-NNP-0|8/7|C04.557.450.795
+.tx|MMI|1.9|anaphylaxis|C0002792|[patf]|"ANAPHYLACTIC SHOCK"-text-0-"ANAPHYLACTIC SHOCK"-NN-0|9/18|C20.543.480.099
+.tx|MMI|1.64|Blepharospasm|C0005747|[dsyn]|"Blepharospasm"-text-0-"BLEPHAROSPASM"-NN-0|0/13|C11.338.250
+.tx|MMI|1.64|Brain|C0006104|[bpoc]|"Brain"-text-0-"BRAIN"-NN-0|0/5|A08.186.211
+.tx|MMI|1.64|Cardiac Death|C0376297|[patf]|"Cardiac Death"-text-0-"CARDIAC DEATH"-NNP-0|7/13|C23.550.260
+.tx|MMI|1.64|Cardiomyopathies|C0878544|[dsyn]|"Cardiomyopathy"-text-0-"CARDIOMYOPATHY"-NN-0|8/14|C14.280.238
+.tx|MMI|1.64|Cirrhosis|C1623038|[dsyn]|"Cirrhosis"-text-0-"CIRRHOSIS"-NNS-0|0/9|C23.550.355
+.tx|MMI|1.64|Congestive heart failure|C0018802|[dsyn]|"Heart failure"-text-0-"HEART FAILURE"-NNP-0|9/13|C14.280.434
+.tx|MMI|1.64|Fibrosis|C0016059|[patf]|"Fibrosis"-text-0-"FIBROSIS"-NNS-0|0/8|C23.550.355
+.tx|MMI|1.64|Fibrosis Assessment|C4285457|[diap]|"FIBROSIS"-text-0-"FIBROSIS"-NNS-0|0/8|C23.550.355
+.tx|MMI|1.64|Heart failure|C0018801|[dsyn]|"Heart failure"-text-0-"HEART FAILURE"-NNP-0|9/13|C14.280.434
+.tx|MMI|1.64|Hepatitis|C0019158|[dsyn]|"Hepatitis"-text-0-"HEPATITIS"-NNS-0|0/9|C06.552.380
+.tx|MMI|1.64|Hepatitis A|C0019159|[dsyn]|"hepatitis"-text-0-"HEPATITIS"-NNS-0|0/9|C06.552.380
+.tx|MMI|1.64|Liver Cirrhosis|C0023890|[dsyn]|"Cirrhosis"-text-0-"CIRRHOSIS"-NNS-0|0/9|C23.550.355
+.tx|MMI|1.64|Malaria|C0024530|[dsyn]|"Malaria"-text-0-"MALARIA"-NN-0|0/7|C03.752.530
+.tx|MMI|1.64|Malaria Pathway|C2984572|[ftcn]|"Malaria"-text-0-"MALARIA"-NN-0|0/7|C03.752.530
+.tx|MMI|1.64|Mitochondrial Diseases|C0751651|[dsyn]|"mitochondrial disease"-text-0-"MITOCHONDRIAL DISEASE"-JJ-0|0/21|C18.452.660
+.tx|MMI|1.64|Plasmodium Measurement|C3541306|[lbpr]|"Malaria"-text-0-"MALARIA"-NN-0|0/7|C03.752.530
+.tx|MMI|1.64|Pulmonary Hypertension|C0020542|[patf]|"Pulmonary Hypertension"-text-0-"PULMONARY HYPERTENSION"-NN-0|0/22|C08.381.423
+.tx|MMI|1.64|Pulmonary Hypertension Adverse Event|C1963220|[fndg]|"Pulmonary hypertension"-text-0-"PULMONARY HYPERTENSION"-NN-0|0/22|C08.381.423
+.tx|MMI|1.64|Schizophrenia|C0036341|[mobd]|"Schizophrenia"-text-0-"SCHIZOPHRENIA"-NNP-0|10/13|F03.700.750
+.tx|MMI|1.64|THYROID DIAGNOSTIC RADIOPHARMACEUTICALS|C3540038|[irda]|"THYROID"-text-0-"THYROID"-NN-0|0/7|A06.407.900
+.tx|MMI|1.57|CEL gene|C1413336|[gngm]|"CELL"-text-0-"CELL"-NNP-0,"CELL"-text-0-"CELL"-NNP-0,"CELL"-text-0-"CELL"-NNP-0|23/4,26/4,6/4|A11
+.tx|MMI|1.57|Cell (compartment)|C1948049|[spco]|"Cell"-text-0-"CELL"-NNP-0,"Cell"-text-0-"CELL"-NNP-0,"Cell"-text-0-"CELL"-NNP-0|23/4,26/4,6/4|A11
+.tx|MMI|1.57|Cell Device Component|C1704653|[medd]|"Cell"-text-0-"CELL"-NNP-0,"Cell"-text-0-"CELL"-NNP-0,"Cell"-text-0-"CELL"-NNP-0|23/4,26/4,6/4|A11
+.tx|MMI|1.57|Cells|C0007634|[cell]|"Cell"-text-0-"CELL"-NNP-0,"Cell"-text-0-"CELL"-NNP-0,"Cell"-text-0-"CELL"-NNP-0|23/4,26/4,6/4|A11
+.tx|MMI|1.57|Healthy|C3898900|[qlco]|"Healthy"-text-0-"HEALTHY"-NNP-0,"Healthy"-text-0-"HEALTHY"-NN-0,"Healthy"-text-0-"HEALTHY"-NN-0|23/7,0/7,0/7|
+.tx|MMI|1.45|Age of Onset|C0206132|[qnco]|"Onset"-text-0-"ONSET"-NN-0,"Onset"-text-0-"ONSET"-RB-0|25/5,24/5|
+.tx|MMI|1.45|Control function|C2587213|[ftcn]|"Control"-text-0-"CONTROL"-NN-0,"Control"-text-0-"CONTROL"-NN-0|0/7,10/7|
+.tx|MMI|1.45|Grade|C0441800|[clas]|"Grade"-text-0-"GRADE"-NNP-0,"Grade"-text-0-"GRADE"-NNP-0|5/5,4/5|
+.tx|MMI|1.45|Healthy Control|C2986479|[qlco]|"Healthy Control"-text-0-"HEALTHY CONTROL"-NN-0,"Healthy Control"-text-0-"HEALTHY CONTROL"-NN-0|0/15,6/15|
+.tx|MMI|1.45|Histopathologic Grade|C0919553|[clas]|"Grade"-text-0-"GRADE"-NNP-0,"Grade"-text-0-"GRADE"-NNP-0|5/5,4/5|
+.tx|MMI|1.45|Hyperactive behavior|C0424295|[mobd]|"HYPER"-text-0-"HYPER"-NNP-0,"HYPER"-text-0-"HYPER"-NNP-0|0/5,0/5|
+.tx|MMI|1.45|Negation|C1518422|[ftcn]|"Not"-text-0-"NOT"-RB-0,"Not"-text-0-"NOT"-RB-0|0/3,0/3|
+.tx|MMI|1.45|Neoplastic|C1709160|[qlco]|"Neoplastic"-text-0-"NEOPLASTIC"-NN-0,"Neoplastic"-text-0-"NEOPLASTIC"-NN-0|0/10,4/10|
+.tx|MMI|1.45|Onset of (contextual qualifier)|C0332162|[qlco]|"onset"-text-0-"ONSET"-NN-0,"onset"-text-0-"ONSET"-RB-0|25/5,24/5|
+.tx|MMI|1.45|Primary|C0205225|[qlco]|"Primary"-text-0-"PRIMARY"-NNP-0,"Primary"-text-0-"PRIMARY"-NNP-0|0/7,0/7|
+.tx|MMI|1.45|School Grade|C3244287|[fndg]|"grade"-text-0-"GRADE"-NNP-0,"grade"-text-0-"GRADE"-NNP-0|5/5,4/5|
+.tx|MMI|1.45|Scientific Control|C1882979|[cnce]|"Control"-text-0-"CONTROL"-NN-0,"Control"-text-0-"CONTROL"-NN-0|0/7,10/7|
+.tx|MMI|1.45|True Control Status|C3274648|[qlco]|"Control"-text-0-"CONTROL"-NN-0,"Control"-text-0-"CONTROL"-NN-0|0/7,10/7|
+.tx|MMI|1.45|control aspects|C0243148|[qlco]|"control"-text-0-"CONTROL"-NN-0,"control"-text-0-"CONTROL"-NN-0|0/7,10/7|
+.tx|MMI|1.45|control substance|C1550141|[sbst]|"Control"-text-0-"CONTROL"-NN-0,"Control"-text-0-"CONTROL"-NN-0|0/7,10/7|
+.tx|MMI|1.44|Antiphospholipid Syndrome|C0085278|[dsyn]|"Antiphospholipid Syndrome"-text-0-"ANTIPHOSPHOLIPID SYNDROME"-NNP-0|8/25|C20.111.197
+.tx|MMI|1.44|Communicable Diseases|C0009450|[dsyn]|"Infectious Disease"-text-0-"INFECTIOUS DISEASE"-NNP-0|29/18|C01.539.221
+.tx|MMI|1.44|Infectious Disease Pathway|C3714515|[ftcn]|"Infectious Disease"-text-0-"INFECTIOUS DISEASE"-NNP-0|29/18|C01.539.221
+.tx|MMI|1.44|Pulmonary Edema|C0034063|[dsyn]|"Wet Lung"-text-0-"WET LUNG"-NNP-0|10/8|C08.381.742
+.tx|MMI|1.44|Respiratory Distress Syndrome, Adult|C0035222|[dsyn]|"wet lung"-text-0-"WET LUNG"-NNP-0|10/8|C08.381.742
+.tx|MMI|1.18|Head|C0018670|[blor]|"Head"-text-0-"HEAD"-NN-0|0/4|A01.456
+.tx|MMI|1.18|Head - Component of Device|C1706305|[mnob]|"Head"-text-0-"HEAD"-NN-0|0/4|A01.456
+.tx|MMI|1.18|Infection|C3714514|[patf]|"Infection"-text-0-"INFECTION"-NN-0|10/9|C01.539
+.tx|MMI|1.18|Lung|C0024109|[bpoc]|"Lung"-text-0-"LUNG"-NN-0|0/4|A04.411
+.tx|MMI|1.18|Pancreas|C0030274|[bpoc]|"Pancreas"-text-0-"PANCREAS"-NNS-0|0/8|A03.734
+.tx|MMI|1.18|Patients|C0030705|[podg]|"Patients"-text-0-"PATIENTS"-NNS-0|0/8|M01.643
+.tx|MMI|1.18|Structure of parenchyma of lung|C0819757|[tisu]|"LUNG"-text-0-"LUNG"-NN-0|0/4|A04.411
+.tx|MMI|1.05|Chronic Lymphocytic Leukemia|C0023434|[neop]|"CLL"-text-0-"CLL"-NN-0,"CLL"-text-0-"CLL"-NN-0|30/3,0/3|
+.tx|MMI|1.05|Diffuse Large B-Cell Lymphoma|C0079744|[neop]|"DLBCL"-text-0-"DLBCL"-NNP-0,"DLBCL"-text-0-"DLBCL"-NNP-0|68/5,0/5|
+.tx|MMI|1.05|SF3B1 wt Allele|C3273937|[gngm]|"MDS"-text-0-"MDS"-NNP-0,"MDS"-text-0-"MDS"-NNS-0|9/3,0/3|
+.tx|MMI|1.05|YWHAE wt Allele|C3539662|[gngm]|"MDS"-text-0-"MDS"-NNP-0,"MDS"-text-0-"MDS"-NNS-0|9/3,0/3|
+.tx|MMI|0.98|Donor person|C0013018|[popg]|"Donors"-text-0-"DONORS"-NNP-0|31/6|M01.898
+.tx|MMI|0.98|Encounter due to being a donor|C1527169|[fndg]|"Donors"-text-0-"DONORS"-NNP-0|31/6|M01.898
+.tx|MMI|0.98|Heart Diseases|C0018799|[dsyn]|"Cardiac Diseases"-text-0-"CARDIAC DISEASES"-NNP-1|9/16|C14.280
+.tx|MMI|0.98|Neck|C0027530|[blor]|"Neck"-text-0-"NECK"-NN-0|9/4|A01.598
+.tx|MMI|0.98|Patients|C0030705|[podg]|"Patient"-text-0-"PATIENT"-NN-0|8/7|M01.643
+.tx|MMI|0.98|dendritic spine neck|C3159206|[celc]|"neck"-text-0-"NECK"-NN-0|9/4|A01.598
+.tx|MMI|0.72|10-propargyl-10-deazaaminopterin|C0879404|[orch, phsu]|"PDX"-text-0-"PDX"-NNP-0|0/3|
+.tx|MMI|0.72|ABL1 wt Allele|C1704928|[gngm]|"ABL"-text-0-"ABL"-NN-0|23/3|
+.tx|MMI|0.72|AR wt Allele|C1705240|[gngm]|"SBMA"-text-0-"SBMA"-NN-0|0/4|
+.tx|MMI|0.72|Acute lymphocytic leukemia|C0023449|[neop]|"acute lymphoblastic leukaemia"-text-0-"ACUTE LYMPHOBLASTIC LEUKAEMIA"-NNP-0|0/29|
+.tx|MMI|0.72|Acute pancreatitis|C0001339|[dsyn]|"Acute pancreatitis"-text-0-"ACUTE PANCREATITIS"-NNP-0|7/18|
+.tx|MMI|0.72|Adenocarcinoma Of Esophagus|C0279628|[neop]|"esophageal adenocarcinoma"-text-0-"ESOPHAGEAL ADENOCARCINOMA"-JJ-0|0/25|
+.tx|MMI|0.72|Adenocarcinoma of the large intestine|C1319315|[neop]|"colorectal adenocarcinoma"-text-0-"COLORECTAL ADENOCARCINOMA"-NN-0|0/25|
+.tx|MMI|0.72|Brain Astrocytoma|C3695127|[neop]|"Brain Astrocytoma"-text-0-"BRAIN ASTROCYTOMA"-NN-0|0/17|
+.tx|MMI|0.72|Bulbo-Spinal Atrophy, X-Linked|C1839259|[dsyn]|"SBMA"-text-0-"SBMA"-NN-0|0/4|
+.tx|MMI|0.72|CHROMOSOME Xq26.3 DUPLICATION SYNDROME|C3891556|[dsyn]|"XLAG"-text-0-"XLAG"-NNP-0|14/4|
+.tx|MMI|0.72|CISH protein, human|C1742862|[bacs, aapp]|"CIS"-text-0-"CIS"-NNS-0|0/3|
+.tx|MMI|0.72|Central Diabetes Insipidus|C0687720|[dsyn]|"CDI"-text-0-"CDI"-NN-0|0/3|
+.tx|MMI|0.72|Cervical Adenocarcinoma|C0279672|[neop]|"Cervical Adenocarcinoma"-text-0-"CERVICAL ADENOCARCINOMA"-JJ-0|0/23|
+.tx|MMI|0.72|Changed status|C0443172|[qnco]|"changes"-text-0-"CHANGES"-NNS-0|21/7|
+.tx|MMI|0.72|Changing|C0392747|[ftcn]|"changes"-text-0-"CHANGES"-NNS-0|21/7|
+.tx|MMI|0.72|Child development inventory|C3484121|[inpr]|"CDI"-text-0-"CDI"-NN-0|0/3|
+.tx|MMI|0.72|Colon Carcinoma|C0699790|[neop]|"Colon Carcinoma"-text-0-"COLON CARCINOMA"-NN-0|0/15|
+.tx|MMI|0.72|Compact Disk Interactive|C0282601|[mnob]|"CDI"-text-0-"CDI"-NN-0|0/3|
+.tx|MMI|0.72|Container status - Missing|C1551393|[fndg]|"Missing"-text-0-"MISSING"-NN-0|0/7|
+.tx|MMI|0.72|Cytotoxic T-Lymphocytes|C0039195|[cell]|"CTL"-text-0-"CTL"-NN-0|0/3|
+.tx|MMI|0.72|Diabetes|C0011847|[dsyn]|"Diabetes"-text-0-"DIABETES"-NNS-0|7/8|
+.tx|MMI|0.72|Diabetes Mellitus|C0011849|[dsyn]|"diabetes"-text-0-"DIABETES"-NNS-0|7/8|
+.tx|MMI|0.72|Diffuse|C0205219|[spco]|"Diffuse"-text-0-"DIFFUSE"-NNP-0|0/7|
+.tx|MMI|0.72|Endometrial Endometrioid Adenocarcinoma|C1336905|[neop]|"Endometrioid Endometrial Cancer"-text-0-"ENDOMETRIOID ENDOMETRIAL CANCER"-NNP-0|0/31|
+.tx|MMI|0.72|Endometrial adenocarcinoma|C1153706|[neop]|"Endometrial adenocarcinoma"-text-0-"ENDOMETRIAL ADENOCARCINOMA"-NNP-0|0/26|
+.tx|MMI|0.72|Enteral|C1304890|[spco]|"enteric"-text-0-"ENTERIC"-NNP-0|0/7|
+.tx|MMI|0.72|Event Seriousness - Significant|C1546944|[qlco]|"Significant"-text-0-"SIGNIFICANT"-NNP-0|4/11|
+.tx|MMI|0.72|FRIEDREICH ATAXIA 1|C1856689|[dsyn]|"FRDA"-text-0-"FRDA"-NNP-0|0/4|
+.tx|MMI|0.72|Focal cortical dysplasia|C2938983|[cgab]|"Focal cortical dysplasia"-text-0-"FOCAL CORTICAL DYSPLASIA"-JJ-0|0/24|
+.tx|MMI|0.72|From|C1517320|[qlco]|"From"-text-0-"FROM"-NNP-0|18/4|
+.tx|MMI|0.72|Gastric (qualifier value)|C1704242|[qlco]|"Gastric"-text-0-"GASTRIC"-NNP-0|0/7|
+.tx|MMI|0.72|Gastrointestinal Stromal Tumors|C0238198|[neop]|"GIST"-text-0-"GIST"-NN-0|0/4|
+.tx|MMI|0.72|Genus Cis|C1504308|[euka]|"Cis"-text-0-"CIS"-NNS-0|0/3|
+.tx|MMI|0.72|Gland|C1285092|[bpoc]|"Gland"-text-0-"GLAND"-NNP-0|10/5|
+.tx|MMI|0.72|Hallopeau-Siemens Disease|C0079474|[dsyn]|"RDEB"-text-0-"RDEB"-NN-0|0/4|
+.tx|MMI|0.72|Hemorrhagic Fevers, Viral|C0019104|[dsyn]|"hemorrhagic fever"-text-0-"HEMORRHAGIC FEVER"-NN-0|7/17|
+.tx|MMI|0.72|Hepatitis C Virus Infection|C4288963|[dsyn]|"HCV Infection"-text-0-"HCV INFECTION"-NNP-0|0/13|
+.tx|MMI|0.72|Hollings Cancer Center|C3539633|[prog]|"HCC"-text-0-"HCC"-NN-0|0/3|
+.tx|MMI|0.72|Intralobular part of terminal lactiferous duct|C0929370|[bpoc]|"ITD"-text-0-"ITD"-NN-0|5/3|
+.tx|MMI|0.72|Known|C0205309|[qlco]|"Known"-text-0-"KNOWN"-NNP-0|3/5|
+.tx|MMI|0.72|Large cell lung carcinoma|C0345958|[neop]|"large cell lung cancer"-text-0-"LARGE CELL LUNG CANCER"-NNP-0|0/22|
+.tx|MMI|0.72|Late|C0205087|[tmco]|"Late"-text-0-"LATE"-JJ-0|19/4|
+.tx|MMI|0.72|Leukemia, Myelocytic, Acute|C0023467|[neop]|"acute myeloid leukaemia"-text-0-"ACUTE MYELOID LEUKAEMIA"-NNP-0|0/23|
+.tx|MMI|0.72|Lissencephaly, X-Linked, 2|C1846171|[dsyn]|"XLAG"-text-0-"XLAG"-NNP-0|14/4|
+.tx|MMI|0.72|Liver carcinoma|C2239176|[neop]|"HCC"-text-0-"HCC"-NN-0|0/3|
+.tx|MMI|0.72|Low Mitosis-Karyorrhexis Index|C3890211|[qnco]|"Low"-text-0-"LOW"-RB-0|0/3|
+.tx|MMI|0.72|Lung Sarcomatoid Carcinoma|C1708781|[neop]|"Lung Sarcomatoid Carcinoma"-text-0-"LUNG SARCOMATOID CARCINOMA"-NNP-0|0/26|
+.tx|MMI|0.72|Lymphoma, T-Cell, Cutaneous|C0079773|[neop]|"CTCL"-text-0-"CTCL"-NN-0|0/4|
+.tx|MMI|0.72|MTTP wt Allele|C3890208|[gngm]|"ABL"-text-0-"ABL"-NN-0|23/3|
+.tx|MMI|0.72|MYOTONIC DYSTROPHY 1|C3250443|[dsyn]|"DM1"-text-0-"DM1"-NN-0|0/3|
+.tx|MMI|0.72|Machado-Joseph Disease|C0024408|[dsyn]|"SCA3"-text-0-"SCA3"-NN-0|0/4|
+.tx|MMI|0.72|Malignant - descriptor|C0205282|[qlco]|"malignant"-text-0-"MALIGNANT"-NNP-0|4/9|
+.tx|MMI|0.72|Malignant myoepithelioma|C0334699|[neop]|"myoepithelial carcinoma"-text-0-"MYOEPITHELIAL CARCINOMA"-NNP-0|0/23|
+.tx|MMI|0.72|Mammary Ductal Carcinoma|C0021367|[neop]|"breast ductal carcinoma"-text-0-"BREAST DUCTAL CARCINOMA"-NN-0|0/23|
+.tx|MMI|0.72|Metastatic melanoma|C0278883|[neop]|"Metastatic melanoma"-text-0-"METASTATIC MELANOMA"-NN-0|0/19|
+.tx|MMI|0.72|Missing|C1705492|[qlco]|"Missing"-text-0-"MISSING"-NN-0|0/7|
+.tx|MMI|0.72|Missing Study Animal|C3272743|[qlco]|"MISSING"-text-0-"MISSING"-NN-0|0/7|
+.tx|MMI|0.72|Monocytoid B-cell lymphoma|C0855139|[neop]|"Nodal Marginal Zone Lymphoma"-text-0-"NODAL MARGINAL ZONE LYMPHOMA"-JJ-0|0/28|
+.tx|MMI|0.72|Mucosa-Associated Lymphoid Tissue Lymphoma|C0242647|[neop]|"nodal marginal zone lymphoma"-text-0-"NODAL MARGINAL ZONE LYMPHOMA"-JJ-0|0/28|
+.tx|MMI|0.72|Nonpenetrating Wounds|C0043253|[inpo]|"Blunt force Trauma"-text-0-"BLUNT FORCE TRAUMA"-NN-0|0/18|
+.tx|MMI|0.72|Not Applicable|C1272460|[qlco]|"Not Applicable"-text-0-"NOT APPLICABLE"-NNP-0|0/14|
+.tx|MMI|0.72|PARAGANGLIOMA AND GASTRIC STROMAL SARCOMA|C1847319|[dsyn]|"GIST"-text-0-"GIST"-NN-0|0/4|
+.tx|MMI|0.72|PREGNANCY LOSS, RECURRENT, SUSCEPTIBILITY TO, 1|C3280670|[fndg]|"RPL"-text-0-"RPL"-NN-0|0/3|
+.tx|MMI|0.72|Package Type Not Applicable|C4049872|[ftcn]|"Not Applicable"-text-0-"NOT APPLICABLE"-NNP-0|0/14|
+.tx|MMI|0.72|Pancreatic adenocarcinoma|C0281361|[neop]|"Pancreatic adenocarcinoma"-text-0-"PANCREATIC ADENOCARCINOMA"-NN-0|0/25|
+.tx|MMI|0.72|Patient Derived Xenograft|C4050317|[emod]|"PDX"-text-0-"PDX"-NNP-0|0/3|
+.tx|MMI|0.72|Poorly differentiated|C0205617|[qlco]|"Poorly differentiated"-text-0-"POORLY DIFFERENTIATED"-NNP-0|0/21|
+.tx|MMI|0.72|Pralatrexate|C1721300|[orch, phsu]|"PDX"-text-0-"PDX"-NNP-0|0/3|
+.tx|MMI|0.72|Precursor T-Cell Lymphoblastic Leukemia-Lymphoma|C1961099|[neop]|"acute T cell leukemia"-text-0-"ACUTE T CELL LEUKEMIA"-NNP-0|0/21|
+.tx|MMI|0.72|Preliminary diagnosis qualifier value|C0332134|[qlco]|"pdx"-text-0-"PDX"-NNP-0|0/3|
+.tx|MMI|0.72|Pustular psoriasis|C0152081|[dsyn]|"Pustular psoriasis"-text-0-"PUSTULAR PSORIASIS"-NNP-0|12/18|
+.tx|MMI|0.72|Respiratory Distress Syndrome, Adult|C0035222|[dsyn]|"ARDS"-text-0-"ARDS"-NNS-0|0/4|
+.tx|MMI|0.72|Rhabdomyosarcoma, Embryonal|C0206656|[neop]|"ERMS"-text-0-"ERMS"-NNS-0|0/4|
+.tx|MMI|0.72|SARS2 gene|C1425041|[gngm]|"SYS"-text-0-"SYS"-NNS-0|0/3|
+.tx|MMI|0.72|SMN1 wt Allele|C4284041|[gngm]|"SMA"-text-0-"SMA"-NNP-0|0/3|
+.tx|MMI|0.72|Significant|C0750502|[idcn]|"Significant"-text-0-"SIGNIFICANT"-NNP-0|4/11|
+.tx|MMI|0.72|Small|C0700321|[qnco]|"Small"-text-0-"SMALL"-NNP-0|0/5|
+.tx|MMI|0.72|Small Nuclear Ribonucleoprotein Polypeptide F|C1367790|[bacs, aapp]|"Sma"-text-0-"SMA"-NNP-0|0/3|
+.tx|MMI|0.72|Smoker|C0337664|[fndg]|"smokers"-text-0-"SMOKERS"-NNS-0|11/7|
+.tx|MMI|0.72|Spinal Muscular Atrophy|C0026847|[dsyn]|"SMA"-text-0-"SMA"-NNP-0|0/3|
+.tx|MMI|0.72|Spinocerebellar Ataxia Type 6 (disorder)|C0752124|[dsyn]|"SCA6"-text-0-"SCA6"-NN-0|0/4|
+.tx|MMI|0.72|Splenic Marginal Zone B-Cell Lymphoma|C0349632|[neop]|"splenic marginal zone lymphoma"-text-0-"SPLENIC MARGINAL ZONE LYMPHOMA"-NN-0|0/30|
+.tx|MMI|0.72|Sporadic Burkitt Lymphoma|C1336077|[neop]|"Sporadic Burkitt Lymphoma"-text-0-"SPORADIC BURKITT LYMPHOMA"-NN-0|0/25|
+.tx|MMI|0.72|Squamous cell lung carcinoma|C0149782|[neop]|"lung squamous cell carcinoma"-text-0-"LUNG SQUAMOUS CELL CARCINOMA"-NNP-0|0/28|
+.tx|MMI|0.72|Statistical Significance|C0237881|[qnco]|"significant"-text-0-"SIGNIFICANT"-NNP-0|4/11|
+.tx|MMI|0.72|Stomach|C0038351|[bpoc]|"Gastric"-text-0-"GASTRIC"-NNP-0|0/7|
+.tx|MMI|0.72|Systemic|C0205373|[ftcn]|"Systemic"-text-0-"SYSTEMIC"-NN-0|0/8|
+.tx|MMI|0.72|TSPYL2 gene|C1540100|[gngm]|"CTCL"-text-0-"CTCL"-NN-0|0/4|
+.tx|MMI|0.72|TSPYL2 wt Allele|C3539724|[gngm]|"CTCL"-text-0-"CTCL"-NN-0|0/4|
+.tx|MMI|0.72|Transitional cell carcinoma of bladder|C0279680|[neop]|"Urothelial Bladder carcinoma"-text-0-"UROTHELIAL BLADDER CARCINOMA"-NNP-0|0/28|
+.tx|MMI|0.72|Zone|C1710706|[spco]|"Zone"-text-0-"ZONE"-NNP-0|20/4|
+.tx|MMI|0.72|benign|C0205183|[qlco]|"benign"-text-0-"BENIGN"-NNP-0|7/6|
+.tx|MMI|0.72|breast adenocarcinoma|C0858252|[neop]|"breast adenocarcinoma"-text-0-"BREAST ADENOCARCINOMA"-NN-0|0/21|
+.tx|MMI|0.72|hemorrhagic infarct|C0333549|[patf]|"hemorrhagic infarct"-text-0-"HEMORRHAGIC INFARCT"-NNP-0|18/19|
+.tx|MMI|0.72|hypopharyngeal squamous cell carcinoma|C0280321|[neop]|"hypopharyngeal squamous cell carcinoma"-text-0-"HYPOPHARYNGEAL SQUAMOUS CELL CARCINOMA"-JJ-0|0/38|
+.tx|MMI|0.72|keratoderma|C0022579|[cgab]|"keratoderma"-text-0-"KERATODERMA"-NNP-0|27/11|
+.tx|MMI|0.72|low|C0205251|[qlco]|"low"-text-0-"LOW"-RB-0|0/3|
+.tx|MMI|0.72|low confidentiality|C1550472|[inpr]|"low"-text-0-"LOW"-RB-0|0/3|
+.tx|MMI|0.72|low exposure|C4048187|[qlco]|"low"-text-0-"LOW"-RB-0|0/3|
+.tx|MMI|0.72|lymphoblast|C0229613|[cell]|"lymphoblastic"-text-0-"LYMPHOBLASTIC"-NN-0|2/13|
+.tx|MMI|0.72|ovarian|C0205065|[bpoc]|"ovarian"-text-0-"OVARIAN"-NNP-0|0/7|
+.tx|MMI|0.72|secondary acute myeloid leukemia|C0280449|[neop]|"secondary acute Myeloid leukaemia"-text-0-"SECONDARY ACUTE MYELOID LEUKAEMIA"-NN-0|0/33|
+.tx|MMI|0.72|storage disease|C0267971|[dsyn]|"storage disease"-text-0-"STORAGE DISEASE"-NN-0|20/15|
+.tx|MMI|0.72|traumatic|C0332663|[ftcn]|"traumatic"-text-0-"TRAUMATIC"-NN-0|0/9|
+.tx|MMI|0.52|AMYOTROPHIC LATERAL SCLEROSIS AND/OR FRONTOTEMPORAL DEMENTIA 1|C1862937|[dsyn]|"FTDALS1"-text-0-"FTDALS1"-NN-0|0/7|
+.tx|MMI|0.52|Antimicrobial Intermediate Susceptibility Result|C2827755|[lbtr]|"INTERMEDIATE"-text-0-"INTERMEDIATE"-NNP-0|47/12|
+.tx|MMI|0.52|Body tissue|C0040300|[tisu]|"tissue"-text-0-"TISSUE"-NNP-0|14/6|A10
+.tx|MMI|0.52|Bristol Stool Type 2|C4085652|[fndg]|"Type 2"-text-0-"TYPE 2"-NN-0|0/6|
+.tx|MMI|0.52|Burkitt Lymphoma|C0006413|[neop]|"b-all"-text-0-"B-ALL"-NNP-0|0/5|
+.tx|MMI|0.52|Chromosome inversion|C0021943|[comd]|"inv"-text-0-"INV"-NNP-0|9/3|
+.tx|MMI|0.52|Cutaneous|C0221912|[spco]|"Cutaneous"-text-0-"CUTANEOUS"-NNP-0|8/9|
+.tx|MMI|0.52|Cutaneous Route of Drug Administration|C1522447|[ftcn]|"Cutaneous"-text-0-"CUTANEOUS"-NNP-0|8/9|
+.tx|MMI|0.52|Deficiency of mevalonate kinase|C0342731|[dsyn]|"HIDS"-text-0-"HIDS"-NNP-0|20/4|
+.tx|MMI|0.52|Early|C1279919|[tmco]|"Early"-text-0-"EARLY"-NNP-0|22/5|
+.tx|MMI|0.52|Extranodal|C1517067|[spco]|"Extranodal"-text-0-"EXTRANODAL"-JJ-0|0/10|
+.tx|MMI|0.52|Febrile illness|C0743841|[dsyn]|"Febrile illness"-text-0-"FEBRILE ILLNESS"-NNP-0|6/15|
+.tx|MMI|0.52|Frontotemporal dementia|C0338451|[dsyn]|"FTD"-text-0-"FTD"-NN-0|7/3|
+.tx|MMI|0.52|Gene Mutation|C0596611|[genf]|"gene mutations"-text-0-"GENE MUTATIONS"-NNP-0|19/14|
+.tx|MMI|0.52|Hepatocellular|C2697585|[qlco]|"Hepatocellular"-text-0-"HEPATOCELLULAR"-NNP-0|10/14|
+.tx|MMI|0.52|Hyperimmunoglobulinemia D|C0398691|[dsyn]|"HIDS"-text-0-"HIDS"-NNP-0|20/4|
+.tx|MMI|0.52|INVS gene|C1425144|[gngm]|"INV"-text-0-"INV"-NNP-0|9/3|
+.tx|MMI|0.52|Immunologic Deficiency Syndromes|C0021051|[dsyn]|"Immune deficiency"-text-0-"IMMUNE DEFICIENCY"-NNP-0|31/17|
+.tx|MMI|0.52|Intermediate|C0205103|[spco]|"Intermediate"-text-0-"INTERMEDIATE"-NNP-0|47/12|
+.tx|MMI|0.52|Intermediate|C0205103|[spco]|"Between"-text-0-"BETWEEN"-NNP-0|60/7|
+.tx|MMI|0.52|Intermediate Mitosis-Karyorrhexis Index|C3889971|[qnco]|"Intermediate"-text-0-"INTERMEDIATE"-NNP-0|47/12|
+.tx|MMI|0.52|Large|C0549177|[qnco]|"Large"-text-0-"LARGE"-NNP-0|8/5|
+.tx|MMI|0.52|Myelomonocytic leukemia|C0027019|[neop]|"Myelomonocytic leukemia"-text-0-"MYELOMONOCYTIC LEUKEMIA"-NNP-0|15/23|
+.tx|MMI|0.52|Observation Interpretation - intermediate|C1550465|[lbtr]|"Intermediate"-text-0-"INTERMEDIATE"-NNP-0|47/12|
+.tx|MMI|0.52|Ovarian Serous Adenocarcinoma|C1335177|[neop]|"Serous Ovarian adenocarcinoma"-text-0-"SEROUS OVARIAN ADENOCARCINOMA"-NNP-0|22/29|
+.tx|MMI|0.52|Ovarian Serous Adenocarcinoma|C1335177|[neop]|"Serous ovarian cancer"-text-0-"SEROUS OVARIAN CANCER"-NNP-0|11/21|
+.tx|MMI|0.52|PITX1 gene|C1418595|[gngm]|"BFT"-text-0-"BFT"-NNP-0|20/3|
+.tx|MMI|0.52|Post|C0687676|[tmco]|"After"-text-0-"AFTER"-NNP-0|18/5|
+.tx|MMI|0.52|Precursor B-cell lymphoblastic leukemia|C1292769|[neop]|"B-ALL"-text-0-"B-ALL"-NNP-0|0/5|
+.tx|MMI|0.52|Recurrent|C2945760|[tmco]|"Recurrent"-text-0-"RECURRENT"-NNP-0|9/9|
+.tx|MMI|0.52|Simple|C0205352|[qlco]|"Simple"-text-0-"SIMPLE"-NNP-0|6/6|
+.tx|MMI|0.52|Status post|C0231290|[tmco]|"after"-text-0-"AFTER"-NNP-0|18/5|
+.tx|MMI|0.52|TEL-AML1 fusion protein|C0531832|[bacs, aapp]|"TEL-AML1"-text-0-"TEL-AML1"-NNP-0|20/8|
+.tx|MMI|0.52|Tissue Specimen Code|C1547928|[inpr]|"Tissue"-text-0-"TISSUE"-NNP-0|14/6|A10
+.tx|MMI|0.52|Type 1|C0441729|[clas]|"Type I"-text-0-"TYPE I"-NNP-0|4/6|
+.tx|MMI|0.52|Type 2|C0441730|[clas]|"Type 2"-text-0-"TYPE 2"-NN-0|0/6|
+.tx|MMI|0.52|diabetic|C0241863|[fndg]|"diabetic"-text-0-"DIABETIC"-NN-0|7/8|
+.tx|MMI|0.52|epithelial|C0221908|[qlco]|"epithelial"-text-0-"EPITHELIAL"-NNP-0|8/10|
+.tx|MMI|0.52|homeobox protein PITX1|C0754353|[bacs, aapp]|"bft"-text-0-"BFT"-NNP-0|20/3|
+.tx|MMI|0.52|mutant|C0596988|[comd]|"mutant"-text-0-"MUTANT"-NNP-0|9/6|
+.tx|MMI|0.52|patient condition|C0683521|[fndg]|"Disease patient"-text-0-"DISEASE PATIENT"-NNP-0|12/15|
+.tx|MMI|0.52|phlegmonous|C0443278|[ftcn]|"phlegmonous"-text-0-"PHLEGMONOUS"-NNP-0|6/11|
+.tx|MMI|0.52|skin lesion|C0037284|[dsyn]|"skin lesion"-text-0-"SKIN LESION"-NNP-0|14/11|
+.tx|MMI|0.5|Negation|C1518422|[ftcn]|"Non"-text-0-"NON"-NNP-0|10/3|
