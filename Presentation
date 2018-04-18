@@ -1,2 +1,14 @@
+MetaROOT
+Anney Che
+Kimberley LeBlanc
+Takako Takeda
+Preeti G. Kochar
+
 What is Metadata?
-Metadata is data about data. It is the descriptive information (like identity, time, location, etc.) that explains the nature and details of information. When thoroughly collected with standardized ontology, metadata enables you to understand, use, and share your own data now and in the future, and helps other researchers discover, access, use, repurpose, and cite your data in the long-term. It also facilitates long-term archival preservation of the data.
+Metadata is data about data: 
+Essential information (like identity, time, location, etc.) about the data. 
+When described with standardized ontology, metadata enables other researchers to discover, access, use, repurpose, and cite your data 
+
+Sequences e.g. in SRA Data
+BioProject: Metadata about the study
+BioSample: Metadata about an individual sample of the study
