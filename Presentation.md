@@ -107,9 +107,9 @@ preferredName|CUI#|[semantic type]|Input term| semantic group
 
 2. Use this output file to convert input term in bioSample attribu te in disease section to preferred term ("NORMALIZE")
 
-Future:
-Analyze output:  from BioProject text using MeSH on demand
+## Future:
+1. Analyze output:  from BioProject text using MeSH on demand
 
-CEDAR 
+2. CEDAR has BioSample resources:
 
-https://nihdatascienceapril18.slack.com/files/U9YKN847Q/FA8AHTTPC/screen_shot_2018-04-17_at_12.18.16_pm.png
+![BioSample Form](https://nihdatascienceapril18.slack.com/files/U9YKN847Q/FA8AHTTPC/screen_shot_2018-04-17_at_12.18.16_pm.png)
