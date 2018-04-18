@@ -1,7 +1,6 @@
-on a use case
 MetaROOT
 Anney Che
-Kimberley LeBlanc
+Kimberley Leblanc
 Takako Takeda
 Preeti G. Kochar
 
@@ -26,6 +25,6 @@ For BioProject: use MeSH on Demand for a use case
 Polycystic ovarian syndrome
 Edirect search: esearch -db bioproject -query "polycystic ovarian syndrome" | efetch -format docsum | xtract -pattern DocumentSummary -element Project_Acc Project_Description > Downloads/PCOS_BioProject_Descriptions_v2
 
-Strategy
+Strategy:
 For BioSample: use MetaMap on attribute field entries
 Edirect search: ./esearch -db bioSample -query "human [orgn]" | ./efetch -format docsum | ./xtract -pattern DocumentSummary -element Accession Attribute@attribute_name Attribute
