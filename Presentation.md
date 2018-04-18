@@ -46,6 +46,7 @@ female and male mixture
 female, male
 female/male
 female, pooled
+
 m
 male
 male and female
@@ -104,3 +105,9 @@ DISO|Disorders|T046|Pathologic Function [patf]
 preferredName|CUI#|[semantic type]|Input term| semantic group 
 
 2. Use this output file to convert input term in bioSample attribu te in disease section to preferred term ("NORMALIZE")
+
+Future:
+Analyze output:  from BioProject text using MeSH on demand
+
+CEDAR 
+
