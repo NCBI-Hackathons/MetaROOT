@@ -8,6 +8,7 @@
 # What is Metadata?
 Metadata is data about data: 
 Essential information (like identity, time, location, etc.) about the data. 
+
 When described with standardized ontology, metadata enables other researchers to discover, access, use, repurpose, and cite your data 
 
 # Data: 
