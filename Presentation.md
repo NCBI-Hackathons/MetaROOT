@@ -38,10 +38,10 @@ use MetaMap on attribute field entries
 # Analysis:
 ## unique sex attributes in current human biosample submissions:
     both
-  f
-  female
-  female*
-  female and male
+    f
+    female
+    female*
+    female and male
   female and male mixture
   female, male
   female/male
