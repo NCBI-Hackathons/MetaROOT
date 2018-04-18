@@ -112,4 +112,4 @@ preferredName|CUI#|[semantic type]|Input term| semantic group
 
 2. CEDAR has BioSample resources:
 
-![BioSample Form](https://nihdatascienceapril18.slack.com/files/U9YKN847Q/FA8AHTTPC/screen_shot_2018-04-17_at_12.18.16_pm.png)
+![BioSample Form](screen_shot_2018-04-17_at_12.18.16_pm.png)
