@@ -47,8 +47,7 @@ use MetaMap on attribute field entries
     male
     male and female
     male/female
-    male, pooled
-    men
+    male, pooled    men
     missing
     mixed
     mixed (males and females)
@@ -87,14 +86,12 @@ preferredName|CUI#|[semantic type]|Input term
 
 File c : meta_code.txt (only for disease)
 DISO|Disorders|T#|semantic group [semantic type]
-
 DISO|Disorders|T020|Acquired Abnormality [acab]
 DISO|Disorders|T190|Anatomical Abnormality [anab]
 DISO|Disorders|T049|Cell or Molecular Dysfunction [comd]
 DISO|Disorders|T019|Congenital Abnormality [cgab]
 DISO|Disorders|T047|Disease or Syndrome [dsyn]
 DISO|Disorders|T050|Experimental Model of Disease [emod]
-
 DISO|Disorders|T037|Injury or Poisoning [inpo]
 DISO|Disorders|T048|Mental or Behavioral Dysfunction [mobd]
 DISO|Disorders|T191|Neoplastic Process [neop]
