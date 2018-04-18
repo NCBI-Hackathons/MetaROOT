@@ -37,41 +37,42 @@ use MetaMap on attribute field entries
 
 # Analysis:
 ## unique sex attributes in current human biosample submissions:
-both
-f
-female
-female*
-female and male
-female and male mixture
-female, male
-female/male
-female, pooled
-
-m
-male
-male and female
-male/female
-male, pooled
-men
-missing
-mixed
-mixed (males and females)
-mixture of female and male
-na
-n/a
-nd
-not applicable
-not available
-not collected
-not determined
-not known
-pooled
-pooled (6)
-pooled male and female
+  both
+  f
+  female
+  female*
+  female and male
+  female and male mixture
+  female, male
+  female/male
+  female, pooled
+  m
+  male
+  male and female
+  male/female
+  male, pooled
+  men
+  missing
+  mixed
+  mixed (males and females)
+  mixture of female and male
+  na
+  n/a
+  nd
+  not applicable
+  not available
+  not collected
+  not determined
+  not known
+  pooled
+  pooled (6)
+  pooled male and female
 unknown
 
-# Analysis
-Case 1-- Disease
+# Analysis:
+## Diseases
+16971 entries have disease field filled out in 2046497 human biosamples
+
 File a: biosample_diseases.mmi   (MetaMap Lite output which was filtered by only disease )
 
 tx|MMI|score|preferredName|CUI#|[semantic type]|matched term-locatiion-0-"Imput term"-NNP-0|0/length of the input term|Mesh code
@@ -111,3 +112,4 @@ Analyze output:  from BioProject text using MeSH on demand
 
 CEDAR 
 
+https://nihdatascienceapril18.slack.com/files/U9YKN847Q/FA8AHTTPC/screen_shot_2018-04-17_at_12.18.16_pm.png
