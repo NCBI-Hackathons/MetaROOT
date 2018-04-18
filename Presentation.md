@@ -72,7 +72,7 @@ use MetaMap on attribute field entries
 # Analysis:
 ## Diseases
 16971 entries have disease field filled out in 2046497 human biosamples
-![BioSample Form](screen_shot_2018-04-18_at_12.18.16_pm.png)
+![Diseases in BioSample](screen_shot_2018-04-18_at_3.54.40_pm.png)
 
 File a: biosample_diseases.mmi   (MetaMap Lite output which was filtered by only disease )
 
