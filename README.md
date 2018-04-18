@@ -10,8 +10,8 @@ Most biomedical metadata is collected in a heavily variable manner, and is not s
 # Why should we solve it?
 Though many fields are beginning to develop standards for what metadata to collect across different data types, this area still needs a lot of work and tools to help make it easier for scientists and researchers to know what metadata variables to collect and how to collect them. Improving and standardizing metadata collection could revolutionize the the knowledge gained from the paucity of metadata being produced. 
 
-# What is MetaROOT?
-The Center for Expanded Data Annotation and Retrieval (CEDAR) has created tools for collecting, editing and analyzing metadata, but it requires significant manual input from the user. 
+# What is ?
+
 
 # Software Workflow Diagram
 
