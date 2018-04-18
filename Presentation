@@ -13,10 +13,11 @@ When described with standardized ontology, metadata enables other researchers to
 Data: Sequences e.g. in SRA, TSA, WGS
 
 BioProject: Metadata about the study
+Accession Number e.g. PRJNA450707
 Title and text summary  
 
-BioSample: Metadata about an individual sample of the studyBioSample: SAMN05771540
-Field Identifier: SAMN05771540 Sample name: P4-2; SRA: SRS1702951
+BioSample: Metadata about an individual sample of the study
+Field Identifier: e.g. SAMN05771540 Sample name: P4-2; SRA: SRS1702951
 Attributes about each sample: Sex, Age, Isolate, tissue, disease, cell line, cell type......
 (Author can add own attribute)
 
