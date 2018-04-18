@@ -20,6 +20,7 @@ Title and text summary
 
 # BioSample: 
 ## Metadata about an individual sample of the study
+
 Field Identifier: e.g. SAMN05771540 Sample name: P4-2; SRA: SRS1702951
 Attributes about each sample: Sex, Age, Isolate, tissue, disease, cell line, cell type......
 (Author can add own attribute)
@@ -68,6 +69,7 @@ pooled (6)
 pooled male and female
 unknown
 
+# Analysis
 Case 1-- Disease
 File a: biosample_diseases.mmi   (MetaMap Lite output which was filtered by only disease )
 
