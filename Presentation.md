@@ -1,6 +1,6 @@
 # MetaROOT
 ## Anney Che
-## Kimberley Leblanc
+## Kimberley LeBlanc
 ## Takako Takeda
 ## Preeti G. Kochar
 
