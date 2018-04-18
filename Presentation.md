@@ -25,12 +25,7 @@ Field Identifier: e.g. SAMN05771540 Sample name: P4-2; SRA: SRS1702951
 Attributes about each sample: Sex, Age, Isolate, tissue, disease, cell line, cell type......
 (Author can add own attribute)
 
-# Strategy: For BioProject
-use MeSH on Demand for a use case 
-Polycystic ovarian syndrome
-Edirect search: esearch -db bioproject -query "polycystic ovarian syndrome" | efetch -format docsum | xtract -pattern DocumentSummary -element Project_Acc Project_Description > Downloads/PCOS_BioProject_Descriptions_v2
-
-# Strategy: For BioSample
+# Strategy: For Analyzing Metadata in Human BioSample
 use MetaMap on attribute field entries
 ## Edirect search: 
 ./esearch -db bioSample -query "human [orgn]" | ./efetch -format docsum | ./xtract -pattern DocumentSummary -element Accession Attribute@attribute_name Attribute
