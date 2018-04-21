@@ -25,53 +25,51 @@ Field Identifier: e.g. SAMN05771540 Sample name: P4-2; SRA: SRS1702951
 Attributes about each sample: Sex, Age, Isolate, tissue, disease, cell line, cell type......
 (Author can add own attribute)
 
-# Strategy: For BioProject
-use MeSH on Demand for a use case 
-Polycystic ovarian syndrome
-Edirect search: esearch -db bioproject -query "polycystic ovarian syndrome" | efetch -format docsum | xtract -pattern DocumentSummary -element Project_Acc Project_Description > Downloads/PCOS_BioProject_Descriptions_v2
-
-# Strategy: For BioSample
+# Strategy: For Analyzing Metadata in Human BioSample
 use MetaMap on attribute field entries
 ## Edirect search: 
 ./esearch -db bioSample -query "human [orgn]" | ./efetch -format docsum | ./xtract -pattern DocumentSummary -element Accession Attribute@attribute_name Attribute
 
+![Schema](scheme.zip)
+
 # Analysis:
 ## unique sex attributes in current human biosample submissions:
-both
-f
-female
-female*
-female and male
-female and male mixture
-female, male
-female/male
-female, pooled
+    both
+    f
+    female
+    female*
+    female and male
+    female and male mixture
+    female, male
+    female/male
+    female, pooled
+    m
+    male
+    male and female
+    male/female
+    male, pooled    men
+    missing
+    mixed
+    mixed (males and females)
+    mixture of female and male
+    na
+    n/a
+    nd
+    not applicable
+    not available
+    not collected
+    not determined
+    not known
+    pooled
+    pooled (6)
+    pooled male and female
+    unknown
 
-m
-male
-male and female
-male/female
-male, pooled
-men
-missing
-mixed
-mixed (males and females)
-mixture of female and male
-na
-n/a
-nd
-not applicable
-not available
-not collected
-not determined
-not known
-pooled
-pooled (6)
-pooled male and female
-unknown
+# Analysis:
+## Diseases
+16971 entries have disease field filled out in 2046497 human biosamples
+![Diseases in BioSample](screen_shot_2018-04-18_at_3.54.40_pm.png)
 
-# Analysis
-Case 1-- Disease
 File a: biosample_diseases.mmi   (MetaMap Lite output which was filtered by only disease )
 
 tx|MMI|score|preferredName|CUI#|[semantic type]|matched term-locatiion-0-"Imput term"-NNP-0|0/length of the input term|Mesh code
@@ -88,14 +86,12 @@ preferredName|CUI#|[semantic type]|Input term
 
 File c : meta_code.txt (only for disease)
 DISO|Disorders|T#|semantic group [semantic type]
-
 DISO|Disorders|T020|Acquired Abnormality [acab]
 DISO|Disorders|T190|Anatomical Abnormality [anab]
 DISO|Disorders|T049|Cell or Molecular Dysfunction [comd]
 DISO|Disorders|T019|Congenital Abnormality [cgab]
 DISO|Disorders|T047|Disease or Syndrome [dsyn]
 DISO|Disorders|T050|Experimental Model of Disease [emod]
-
 DISO|Disorders|T037|Injury or Poisoning [inpo]
 DISO|Disorders|T048|Mental or Behavioral Dysfunction [mobd]
 DISO|Disorders|T191|Neoplastic Process [neop]
@@ -106,8 +102,9 @@ preferredName|CUI#|[semantic type]|Input term| semantic group
 
 2. Use this output file to convert input term in bioSample attribu te in disease section to preferred term ("NORMALIZE")
 
-Future:
-Analyze output:  from BioProject text using MeSH on demand
+## Future:
+1. Analyze output:  from BioProject text using MeSH on demand
 
-CEDAR 
+2. CEDAR has BioSample resources:
 
+![BioSample Form](screen_shot_2018-04-17_at_12.18.16_pm.png)
