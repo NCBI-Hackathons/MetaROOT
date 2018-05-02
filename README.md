@@ -1,5 +1,5 @@
-# MetaMetaMap
-Using metamap to make sequencing metadata machine readable (and learnable!)
+# MetaROOT
+Using MetaMapLite to standardize metadata terminology and make sequencing metadata machine readable!
 
 # What is Metadata?
 Metadata is data about data. It is the descriptive information (like identity, time, location, etc.) that explains the nature and details of information. When thoroughly collected with standardized ontology, metadata enables you to understand, use, and share your own data now and in the future, and helps other researchers discover, access, use, repurpose, and cite your data in the long-term. It also facilitates long-term archival preservation of the data.
@@ -10,7 +10,7 @@ Most biomedical metadata is collected in a heavily variable manner, and is not s
 # Why should we solve it?
 Though many fields are beginning to develop standards for what metadata to collect across different data types, this area still needs a lot of work and tools to help make it easier for scientists and researchers to know what metadata variables to collect and how to collect them. Improving and standardizing metadata collection could revolutionize the the knowledge gained from the paucity of metadata being produced. 
 
-# What is ?
+# What is MetaROOT?
 
 
 # Software Workflow Diagram
