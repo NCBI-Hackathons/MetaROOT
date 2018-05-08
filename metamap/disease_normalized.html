@@ -97,13 +97,13 @@ var chartLegendGap = 5;
 var chart2 = dc.pieChart("#disease");
 var chart3 = dc.pieChart("#disease_norm");
 var ndx;
-d3.tsv("diseases_normalized_whole.tab", function(error, samples) {
+d3.tsv("esearch_biosample_w_disease_1000_mapped.txt", function(error, samples) {
 
   	ndx = crossfilter(samples);
   	var	AttrNameDimension  = ndx.dimension(function(d) {return d.AttrName;}),
-	  	AttrValDimension  = ndx.dimension(function(d) {return d.AttrVal;}),
-	  	AttrValNormalDimension  = ndx.dimension(function(d) {return d.AttrValNorm;}),
-	  	grpByAttrName = getGrp (AttrNameDimension),
+	  	AttrValDimension  = ndx.dimension(function(d) {return d.EnteredTerm;}),
+	  	AttrValNormalDimension  = ndx.dimension(function(d) {return d.PreferredTerm;}),
+	  	//grpByAttrName = getGrp (AttrNameDimension),
 		grpByAttrVal = getGrp (AttrValDimension);
   		grpByAttrValNorm = getGrp (AttrValNormalDimension);
   	
@@ -114,7 +114,7 @@ d3.tsv("diseases_normalized_whole.tab", function(error, samples) {
   	$('#attrValTitle').text('Disease Terms Before Normalize (Number of Unique Terms: '+numberDis+')');
   	drawChart(chart3, AttrValNormalDimension, grpByAttrValNorm,'pie');
   	$('#attrValNormTitle').text('Disease Terms After Normalize (Number of Unique Terms: '+numberDisNormalized+')');
-  	drawDataTable(['Acc','AttrName','AttrVal', 'AttrValNorm']);
+  	drawDataTable(['Acc','AttrName','EnteredTerm', 'PreferredTerm']);
 });
 
 function drawChart(chart, dim, grp, charttype){
