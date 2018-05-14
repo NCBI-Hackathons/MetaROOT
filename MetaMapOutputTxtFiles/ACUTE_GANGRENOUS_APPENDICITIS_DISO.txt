@@ -1,0 +1,1 @@
+ACUTE_GANGRENOUS_APPENDICITIS.txt|MMI|5.18|Acute gangrenous appendicitis|C0267625|[dsyn]|["Acute gangrenous appendicitis"-tx-1-"ACUTE GANGRENOUS APPENDICITIS"-noun-0]|TX|0/29|

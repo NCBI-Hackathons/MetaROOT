@@ -1,0 +1,1 @@
+TYPE_2_DIABETES.txt|MMI|17.80|Diabetes Mellitus, Non-Insulin-Dependent|C0011860|[dsyn]|["Type II Diabetes"-tx-1-"TYPE 2 DIABETES"-noun-0]|TX|0/15|C18.452.394.750.149;C19.246.300

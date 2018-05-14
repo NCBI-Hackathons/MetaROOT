@@ -1,0 +1,3 @@
+THERAPY-RELATED_AML.txt|MMI|16.25|Leukemia, Myelocytic, Acute|C0023467|[neop]|["AML"-tx-1-"AML"-noun-0]|TX|16/3|C04.557.337.539.275
+THERAPY-RELATED_AML.txt|MMI|3.48|Related personal status|C0445223|[fndg]|["Related"-tx-1-"RELATED"-adj-0]|TX|8/7|
+THERAPY-RELATED_AML.txt|MMI|3.48|Therapy Object (animal model)|C1363945|[fndg]|["Therapy"-tx-1-"THERAPY"-noun-0]|TX|0/7|

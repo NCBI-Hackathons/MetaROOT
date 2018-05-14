@@ -1,0 +1,1 @@
+AML.txt|MMI|17.80|Leukemia, Myelocytic, Acute|C0023467|[neop]|["AML"-tx-1-"AML"-noun-0]|TX|0/3|C04.557.337.539.275

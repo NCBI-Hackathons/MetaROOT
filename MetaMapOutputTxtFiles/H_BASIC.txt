@@ -1,0 +1,4 @@
+H.txt|MMI|20.95|Protons|C0033727|[elii]|["H+"-tx-1-"H"-noun-0]|TX|0/1|D01.248.497.300.459.700;D01.268.406.750;D01.362.340.750;G01.249.765
+H.txt|MMI|5.18|/hour|C0564385|[qnco]|["/h"-tx-1-"H"-noun-0]|TX|0/1|
+H.txt|MMI|5.18|H NOS Antibodies|C0369286|[aapp,imft]|["H NOS"-tx-1-"H"-noun-0]|TX|0/1|
+H.txt|MMI|5.18|Hepatic Involvement|C0441932|[clas]|["H+"-tx-1-"H"-noun-0]|TX|0/1|

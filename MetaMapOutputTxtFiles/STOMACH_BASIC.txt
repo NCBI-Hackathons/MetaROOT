@@ -1,0 +1,4 @@
+STOMACH.txt|MMI|14.64|Stomach|C0038351|[bpoc]|["STOMACH"-tx-1-"STOMACH"-noun-0]|TX|0/7|A03.556.875.875
+STOMACH.txt|MMI|5.18|Entire stomach|C1278920|[bpoc]|["Stomach"-tx-1-"STOMACH"-noun-0]|TX|0/7|
+STOMACH.txt|MMI|5.18|Gastric Tissue|C1517454|[tisu]|["STOMACH"-tx-1-"STOMACH"-noun-0]|TX|0/7|
+STOMACH.txt|MMI|5.18|Stomach structure|C3714551|[bpoc]|["Stomach"-tx-1-"STOMACH"-noun-0]|TX|0/7|

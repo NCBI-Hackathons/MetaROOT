@@ -1,0 +1,2 @@
+DUCTAL_CARCINOMA.txt|MMI|20.95|Ductal Carcinoma|C1176475|[neop]|["Ductal Carcinoma"-tx-1-"DUCTAL CARCINOMA"-noun-0]|TX|0/16|C04.557.470.200.025.232;C04.557.470.615.132
+DUCTAL_CARCINOMA.txt|MMI|5.18|Ductal Breast Carcinoma|C1527349|[neop]|["Ductal Carcinoma"-tx-1-"DUCTAL CARCINOMA"-noun-0]|TX|0/16|

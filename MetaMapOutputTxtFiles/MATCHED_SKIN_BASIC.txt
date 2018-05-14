@@ -1,0 +1,5 @@
+MATCHED_SKIN.txt|MMI|6.83|Skin|C1123023|[bdsy]|["SKIN"-tx-1-"SKIN"-noun-0]|TX|8/4|A17.815
+MATCHED_SKIN.txt|MMI|3.68|Entire skin|C1278993|[bdsy]|["Skin"-tx-1-"SKIN"-noun-0]|TX|8/4|
+MATCHED_SKIN.txt|MMI|3.68|Skin Specimen|C0444099|[bdsu]|["Skin"-tx-1-"SKIN"-noun-0]|TX|8/4|
+MATCHED_SKIN.txt|MMI|3.50|MATCHING|C0150103|[resa]|["matched"-tx-1-"MATCHED"-adj-0]|TX|0/7|
+MATCHED_SKIN.txt|MMI|3.50|Match|C1708943|[qlco]|["Matched"-tx-1-"MATCHED"-adj-0]|TX|0/7|

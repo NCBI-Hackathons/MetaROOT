@@ -1,0 +1,1 @@
+SCA10.txt|MMI|14.64|Spinocerebellar Ataxia 10|C1963674|[dsyn]|["SCA10"-tx-1-"SCA10"-noun-0]|TX|0/5|x.x.x.x

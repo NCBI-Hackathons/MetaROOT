@@ -1,0 +1,2 @@
+POLYCYSTIC_KIDNEY.txt|MMI|20.95|Polycystic Kidney Diseases|C0022680|[dsyn]|["KIDNEY, POLYCYSTIC"-tx-1-"POLYCYSTIC KIDNEY"-noun-0]|TX|0/17|C12.777.419.403.875;C13.351.968.419.403.875
+POLYCYSTIC_KIDNEY.txt|MMI|5.18|Polycystic Kidney - body part|C1567435|[anab]|["Polycystic Kidney"-tx-1-"POLYCYSTIC KIDNEY"-noun-0]|TX|0/17|

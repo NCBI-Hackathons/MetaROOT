@@ -1,0 +1,2 @@
+COLON_CANCER.txt|MMI|5.18|Colon Carcinoma|C0699790|[neop]|["COLON CANCER"-tx-1-"COLON CANCER"-noun-0]|TX|0/12|
+COLON_CANCER.txt|MMI|5.18|Malignant tumor of colon|C0007102|[neop]|["-- Colon Cancer"-tx-1-"COLON CANCER"-noun-0]|TX|0/12|

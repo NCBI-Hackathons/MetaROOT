@@ -1,0 +1,1 @@
+SCA6.txt|MMI|5.18|Spinocerebellar Ataxia Type 6 (disorder)|C0752124|[dsyn]|["SCA6"-tx-1-"SCA6"-noun-0]|TX|0/4|

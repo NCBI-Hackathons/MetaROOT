@@ -1,0 +1,2 @@
+NO_DISEASE.txt|MMI|5.18|No Evidence of Coronary Artery Disease|C3275117|[fndg]|["NO DISEASE"-tx-1-"NO DISEASE"-noun-0]|TX|0/10|
+NO_DISEASE.txt|MMI|5.18|No disease|C0497153|[fndg]|["No disease"-tx-1-"NO DISEASE"-noun-0]|TX|0/10|

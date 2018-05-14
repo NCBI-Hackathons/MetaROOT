@@ -1,0 +1,2 @@
+TERMINAL_HEART_FAILURE.txt|MMI|10.06|Heart failure|C0018801|[dsyn]|["Failure, Heart"-tx-1-"HEART FAILURE"-noun-0]|TX|9/13|C14.280.434
+TERMINAL_HEART_FAILURE.txt|MMI|3.75|Congestive heart failure|C0018802|[dsyn]|["Heart Failure"-tx-1-"HEART FAILURE"-noun-0]|TX|9/13|

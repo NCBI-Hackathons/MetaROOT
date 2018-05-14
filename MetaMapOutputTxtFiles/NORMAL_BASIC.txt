@@ -1,0 +1,4 @@
+NORMAL.txt|MMI|5.18|Gait normal|C0231683|[fndg]|["Normal"-tx-1-"NORMAL"-adj-0]|TX|0/6|
+NORMAL.txt|MMI|5.18|Mean Percent of Normal|C2347086|[qnco]|["% Normal"-tx-1-"NORMAL"-adj-0]|TX|0/6|
+NORMAL.txt|MMI|5.18|Normal|C0205307|[qlco]|["NORMAL"-tx-1-"NORMAL"-adj-0]|TX|0/6|
+NORMAL.txt|MMI|5.18|Percent normal|C0439166|[qnco]|["% normal"-tx-1-"NORMAL"-adj-0]|TX|0/6|

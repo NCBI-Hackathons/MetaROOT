@@ -1,0 +1,2 @@
+FLT3-ITD_MUTANT_ACUTE_MYELOID_LEUKEMIA.txt|MMI|16.30|Leukemia, Myelocytic, Acute|C0023467|[neop]|["Acute myeloid leukaemia"-tx-1-"ACUTE MYELOID LEUKEMIA"-noun-0]|TX|16/22|C04.557.337.539.275
+FLT3-ITD_MUTANT_ACUTE_MYELOID_LEUKEMIA.txt|MMI|3.46|mutant|C0596988|[comd]|["Mutant"-tx-1-"MUTANT"-adj-0]|TX|9/6|

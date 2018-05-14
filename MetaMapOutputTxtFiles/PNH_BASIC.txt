@@ -1,0 +1,1 @@
+PNH.txt|MMI|5.18|Paroxysmal nocturnal hemoglobinuria|C0024790|[dsyn]|["PNH"-tx-1-"PNH"-noun-0]|TX|0/3|

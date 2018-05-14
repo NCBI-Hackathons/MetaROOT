@@ -1,0 +1,3 @@
+NOT_COLLECTED.txt|MMI|3.68|Collected|C1516695|[idcn]|["Collected"-tx-1-"COLLECTED"-verb-0]|TX|4/9|
+NOT_COLLECTED.txt|MMI|3.68|Collection (action)|C1516698|[ftcn]|["Collected"-tx-1-"COLLECTED"-verb-0]|TX|4/9|
+NOT_COLLECTED.txt|MMI|3.68|Negation|C1518422|[ftcn]|["Not"-tx-1-"NOT"-adv-0]|TX|0/3|

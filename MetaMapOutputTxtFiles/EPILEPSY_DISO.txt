@@ -1,0 +1,1 @@
+EPILEPSY.txt|MMI|14.64|Epilepsy|C0014544|[dsyn]|["EPILEPSY"-tx-1-"EPILEPSY"-noun-0]|TX|0/8|C10.228.140.490

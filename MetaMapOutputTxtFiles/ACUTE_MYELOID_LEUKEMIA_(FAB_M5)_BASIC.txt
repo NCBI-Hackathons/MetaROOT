@@ -1,0 +1,1 @@
+ACUTE_MYELOID_LEUKEMIA_(FAB_M5).txt|MMI|3.84|Acute monocytic/monoblastic leukemia|C3831784|[neop]|["Acute Myeloid Leukemia M5"-tx-1-"ACUTE MYELOID LEUKEMIA M5"-noun-0]|TX|0/22,28/2|

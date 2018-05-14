@@ -1,0 +1,2 @@
+MESOTHELIOMA.txt|MMI|17.80|Mesothelioma|C0025500|[neop]|["MESOTHELIOMA"-tx-1-"MESOTHELIOMA"-noun-0]|TX|0/12|C04.557.470.035.510;C04.557.470.660.510
+MESOTHELIOMA.txt|MMI|5.18|Mesothelioma (malignant, clinical disorder) (disorder)|C1290375|[neop]|["Mesothelioma"-tx-1-"MESOTHELIOMA"-noun-0]|TX|0/12|

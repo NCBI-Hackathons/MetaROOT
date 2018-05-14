@@ -1,0 +1,3 @@
+NON-SMALL_CELL_LUNG_CANCER.txt|MMI|27.26|Non-Small Cell Lung Carcinoma|C0007131|[neop]|["Lung cancer, non-small cell"-tx-1-"NON-SMALL CELL LUNG CANCER"-noun-0]|TX|0/26|C04.588.894.797.520.109.220.249;C08.381.540.140.500;C08.785.520.100.220.500
+NON-SMALL_CELL_LUNG_CANCER.txt|MMI|5.18|NCI CTEP SDC Non-Small Cell Lung Cancer Sub-Category Terminology|C3539721|[inpr]|["Non-Small Cell Lung Cancer"-tx-1-"NON-SMALL CELL LUNG CANCER"-noun-0]|TX|0/26|
+NON-SMALL_CELL_LUNG_CANCER.txt|MMI|5.18|Non-Small Cell Lung Cancer Pathway|C2984258|[cnce]|["Non-small cell lung cancer"-tx-1-"NON-SMALL CELL LUNG CANCER"-noun-0]|TX|0/26|

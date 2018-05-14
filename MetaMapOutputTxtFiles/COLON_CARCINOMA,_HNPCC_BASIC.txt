@@ -1,0 +1,2 @@
+COLON_CARCINOMA,_HNPCC.txt|MMI|12.94|MLH1 protein, human|C0252642|[aapp,bacs]|["HNPCC"-tx-1-"HNPCC"-noun-0]|TX|17/5|x.x.x.x
+COLON_CARCINOMA,_HNPCC.txt|MMI|3.75|Colon Carcinoma|C0699790|[neop]|["COLON CARCINOMA"-tx-1-"COLON CARCINOMA"-noun-0]|TX|0/15|

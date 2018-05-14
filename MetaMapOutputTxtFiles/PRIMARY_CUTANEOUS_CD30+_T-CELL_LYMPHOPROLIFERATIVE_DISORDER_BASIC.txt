@@ -1,0 +1,1 @@
+PRIMARY_CUTANEOUS_CD30+_T-CELL_LYMPHOPROLIFERATIVE_DISORDER.txt|MMI|5.18|Primary cutaneous CD30+ T-cell lymphoproliferative disorder|C1371159|[neop]|["Primary Cutaneous CD30+ T-Cell Lymphoproliferative Disorder"-tx-1-"PRIMARY CUTANEOUS CD30 T-CELL LYMPHOPROLIFERATIVE DISORDER"-noun-0]|TX|0/22,24/35|

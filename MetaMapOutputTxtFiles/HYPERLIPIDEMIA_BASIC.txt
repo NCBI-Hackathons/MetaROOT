@@ -1,0 +1,2 @@
+HYPERLIPIDEMIA.txt|MMI|17.80|Hyperlipidemia|C0020473|[dsyn]|["Hyperlipidaemia, NOS"-tx-1-"HYPERLIPIDEMIA"-noun-0]|TX|0/14|C18.452.584.500.500
+HYPERLIPIDEMIA.txt|MMI|5.18|Serum lipids high (finding)|C0428465|[fndg]|["Hyperlipidemia"-tx-1-"HYPERLIPIDEMIA"-noun-0]|TX|0/14|

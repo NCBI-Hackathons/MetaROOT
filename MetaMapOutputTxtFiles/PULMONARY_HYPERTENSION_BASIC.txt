@@ -1,0 +1,2 @@
+PULMONARY_HYPERTENSION.txt|MMI|11.49|Pulmonary Hypertension|C0020542|[patf]|["Hypertension, pulmonary"-tx-1-"PULMONARY HYPERTENSION"-noun-0]|TX|0/22|C08.381.423
+PULMONARY_HYPERTENSION.txt|MMI|5.18|Pulmonary Hypertension Adverse Event|C1963220|[fndg]|["Pulmonary hypertension"-tx-1-"PULMONARY HYPERTENSION"-noun-0]|TX|0/22|

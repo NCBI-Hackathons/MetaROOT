@@ -1,0 +1,1 @@
+LEUKEMIA.txt|MMI|11.49|leukemia|C0023418|[neop]|["LEUKAEMIA"-tx-1-"LEUKEMIA"-noun-0]|TX|0/8|C04.557.337

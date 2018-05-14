@@ -1,0 +1,1 @@
+DM1.txt|MMI|5.18|MYOTONIC DYSTROPHY 1|C3250443|[dsyn]|["DM1"-tx-1-"DM1"-noun-0]|TX|0/3|

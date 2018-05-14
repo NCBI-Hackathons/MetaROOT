@@ -1,0 +1,2 @@
+COLON_CARCINOMA,_PRIMARY.txt|MMI|3.78|Primary Carcinoma|C1335475|[neop]|["Primary Carcinoma"-tx-1-"CARCINOMA PRIMARY"-noun-0]|TX|6/9,17/7|
+COLON_CARCINOMA,_PRIMARY.txt|MMI|3.75|Colon Carcinoma|C0699790|[neop]|["COLON CARCINOMA"-tx-1-"COLON CARCINOMA"-noun-0]|TX|0/15|

@@ -1,0 +1,1 @@
+SMALL_CELL_LUNG_CANCER.txt|MMI|27.26|Small cell carcinoma of lung|C0149925|[neop]|["Lung cancer, small cell"-tx-1-"SMALL CELL LUNG CANCER"-noun-0]|TX|0/22|C04.588.894.797.520.109.220.624;C08.381.540.140.750;C08.785.520.100.220.750

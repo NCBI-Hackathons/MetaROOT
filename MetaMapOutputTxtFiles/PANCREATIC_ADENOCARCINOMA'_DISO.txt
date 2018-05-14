@@ -1,0 +1,1 @@
+PANCREATIC_ADENOCARCINOMA'.txt|MMI|5.18|Adenocarcinoma of pancreas|C0281361|[neop]|["Pancreatic Adenocarcinoma"-tx-1-"PANCREATIC ADENOCARCINOMA"-noun-0]|TX|0/25|

@@ -1,0 +1,1 @@
+LUNG_ADENOCARCINOMA.txt|MMI|14.64|Adenocarcinoma of lung (disorder)|C0152013|[neop]|["Lung Adenocarcinoma"-tx-1-"LUNG ADENOCARCINOMA"-noun-0]|TX|0/19|x.x.x.x

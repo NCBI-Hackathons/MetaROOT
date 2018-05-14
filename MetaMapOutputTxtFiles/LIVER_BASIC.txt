@@ -1,0 +1,4 @@
+LIVER.txt|MMI|8.34|Liver|C0023884|[bpoc]|["LIVER"-tx-1-"LIVER"-noun-0]|TX|0/5|A03.620
+LIVER.txt|MMI|5.18|Entire liver|C1278929|[bpoc]|["Liver"-tx-1-"LIVER"-noun-0]|TX|0/5|
+LIVER.txt|MMI|5.18|Liver Flavor|C2346688|[food]|["LIVER"-tx-1-"LIVER"-noun-0]|TX|0/5|
+LIVER.txt|MMI|5.18|Liver parenchyma|C0736268|[bpoc]|["LIVER"-tx-1-"LIVER"-noun-0]|TX|0/5|

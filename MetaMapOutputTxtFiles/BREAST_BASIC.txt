@@ -1,0 +1,2 @@
+BREAST.txt|MMI|8.34|Breast|C0006141|[bpoc]|["BREAST"-tx-1-"BREAST"-noun-0]|TX|0/6|A01.236
+BREAST.txt|MMI|5.18|Entire breast|C1268990|[bpoc]|["Breast"-tx-1-"BREAST"-noun-0]|TX|0/6|

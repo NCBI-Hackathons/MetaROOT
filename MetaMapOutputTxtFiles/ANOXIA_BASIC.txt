@@ -1,0 +1,2 @@
+ANOXIA.txt|MMI|14.64|Anoxia|C0003130|[patf]|["ANOXIA"-tx-1-"ANOXIA"-noun-0]|TX|0/6|C23.888.852.079
+ANOXIA.txt|MMI|5.18|Anoxia <insect>|C3888241|[euka]|["Anoxia"-tx-1-"ANOXIA"-noun-0]|TX|0/6|

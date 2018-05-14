@@ -1,0 +1,1 @@
+UVEAL_MELANOMA.txt|MMI|14.64|Uveal melanoma|C0220633|[neop]|["MELANOMA, UVEAL"-tx-1-"UVEAL MELANOMA"-noun-0]|TX|0/14|x.x.x.x

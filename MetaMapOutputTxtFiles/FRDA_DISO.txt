@@ -1,0 +1,1 @@
+FRDA.txt|MMI|14.64|FRIEDREICH ATAXIA 1|C1856689|[dsyn]|["FRDA"-tx-1-"FRDA"-noun-0]|TX|0/4|x.x.x.x

@@ -1,0 +1,1 @@
+TRISOMY_12.txt|MMI|5.18|Trisomy 12|C0432408|[dsyn]|["Trisomy 12"-tx-1-"TRISOMY 12"-noun-0]|TX|0/10|

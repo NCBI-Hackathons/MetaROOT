@@ -1,0 +1,5 @@
+NO.txt|MMI|17.80|Nitric Oxide|C0028128|[bacs,inch,phsu]|["NO"-tx-1-"NO"-noun-0]|TX|0/2|D01.339.387;D01.625.550.500;D01.625.700.500;D01.650.550.587.600
+NO.txt|MMI|5.18|Negation|C1518422|[ftcn]|["No"-tx-1-"NO"-noun-0]|TX|0/2|
+NO.txt|MMI|5.18|Nitric Oxide Measurement|C3810607|[lbpr]|["NO"-tx-1-"NO"-noun-0]|TX|0/2|
+NO.txt|MMI|5.18|No - yes/no indicator|C1549444|[idcn]|["No"-tx-1-"NO"-noun-0]|TX|0/2|
+NO.txt|MMI|5.18|no|C1298908|[idcn]|["NO"-tx-1-"NO"-noun-0]|TX|0/2|

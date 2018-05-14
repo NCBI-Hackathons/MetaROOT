@@ -1,0 +1,1 @@
+ANAPLASTIC_THYROID_CANCER.txt|MMI|17.80|Anaplastic thyroid carcinoma|C0238461|[neop]|["Anaplastic Thyroid Cancer"-tx-1-"ANAPLASTIC THYROID CANCER"-noun-0]|TX|0/25|C04.557.470.200.725

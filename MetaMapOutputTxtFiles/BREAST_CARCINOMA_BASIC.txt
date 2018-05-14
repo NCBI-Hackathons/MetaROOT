@@ -1,0 +1,2 @@
+BREAST_CARCINOMA.txt|MMI|14.64|Breast Carcinoma|C0678222|[neop]|["BREAST CARCINOMA"-tx-1-"BREAST CARCINOMA"-noun-0]|TX|0/16|C04.588.180;C17.800.090.500
+BREAST_CARCINOMA.txt|MMI|5.18|Malignant neoplasm of breast|C0006142|[neop]|["Breast Carcinoma"-tx-1-"BREAST CARCINOMA"-noun-0]|TX|0/16|

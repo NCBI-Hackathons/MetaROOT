@@ -1,0 +1,7 @@
+AML_WITH_INV(3)(Q21Q26.2)_RPN1-EVI1.txt|MMI|16.21|Leukemia, Myelocytic, Acute|C0023467|[neop]|["AML"-tx-1-"AML"-noun-0]|TX|0/3|C04.557.337.539.275
+AML_WITH_INV(3)(Q21Q26.2)_RPN1-EVI1.txt|MMI|16.07|Chromosome inversion|C0021943|[comd]|["inv"-tx-1-"INV"-adj-0]|TX|9/3|C23.550.210.190;G05.355.600.805.500;G05.365.590.175.190;G05.365.590.770.500
+AML_WITH_INV(3)(Q21Q26.2)_RPN1-EVI1.txt|MMI|3.45|Evi-1 protein|C0082512|[aapp,bacs]|["EVI-1"-tx-1-"EVI1"-noun-0]|TX|31/4|
+AML_WITH_INV(3)(Q21Q26.2)_RPN1-EVI1.txt|MMI|3.45|INVS gene|C1425144|[gngm]|["INV"-tx-1-"INV"-adj-0]|TX|9/3|
+AML_WITH_INV(3)(Q21Q26.2)_RPN1-EVI1.txt|MMI|3.45|PSMD2 gene|C1419032|[gngm]|["Rpn1"-tx-1-"RPN1"-noun-0]|TX|26/4|
+AML_WITH_INV(3)(Q21Q26.2)_RPN1-EVI1.txt|MMI|3.45|RPN1 gene|C1419697|[gngm]|["RPN1"-tx-1-"RPN1"-noun-0]|TX|26/4|
+AML_WITH_INV(3)(Q21Q26.2)_RPN1-EVI1.txt|MMI|3.45|ribophorin I|C0140512|[aapp,enzy,rcpt]|["RPN1"-tx-1-"RPN1"-noun-0]|TX|26/4|

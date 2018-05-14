@@ -1,0 +1,4 @@
+ERMS.txt|MMI|24.11|Rhabdomyosarcoma, Embryonal|C0206656|[neop]|["ERMS"-tx-1-"ERMS"-noun-0]|TX|0/4|C04.557.450.590.550.660.675;C04.557.450.795.550.660.675
+ERMS.txt|MMI|5.18|ETS Translocation Variant 5|C3273435|[aapp]|["ERM"-tx-1-"ERMS"-noun-0]|TX|0/4|
+ERMS.txt|MMI|5.18|ETV5 gene|C1414477|[gngm]|["ERM"-tx-1-"ERMS"-noun-0]|TX|0/4|
+ERMS.txt|MMI|5.18|ETV5 wt Allele|C3273434|[gngm]|["ERM"-tx-1-"ERMS"-noun-0]|TX|0/4|

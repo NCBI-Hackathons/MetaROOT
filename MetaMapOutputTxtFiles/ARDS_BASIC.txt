@@ -1,0 +1,1 @@
+ARDS.txt|MMI|11.49|Respiratory Distress Syndrome, Adult|C0035222|[dsyn]|["ARDS"-tx-1-"ARDS"-noun-0]|TX|0/4|C08.381.840;C08.618.840

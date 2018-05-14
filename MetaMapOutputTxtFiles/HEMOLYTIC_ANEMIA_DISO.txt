@@ -1,0 +1,1 @@
+HEMOLYTIC_ANEMIA.txt|MMI|14.64|Anemia, Hemolytic|C0002878|[dsyn]|["Haemolytic anaemia"-tx-1-"HEMOLYTIC ANEMIA"-noun-0]|TX|0/16|C15.378.071.141

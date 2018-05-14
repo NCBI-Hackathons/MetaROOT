@@ -1,0 +1,1 @@
+NONE_(HEALTHY_CONTROL).txt|MMI|3.75|Healthy Control|C2986479|[qlco]|["Healthy Control"-tx-1-"HEALTHY CONTROL"-noun-0]|TX|6/15|

@@ -1,0 +1,2 @@
+STEROID-RESISTANT_NEPHROTIC_SYNDROME.txt|MMI|5.18|Steroid resistant nephrotic syndrome of childhood|C3266102|[dsyn]|["Steroid-Resistant Nephrotic Syndrome"-tx-1-"STEROID-RESISTANT NEPHROTIC SYNDROME"-noun-0]|TX|0/36|
+STEROID-RESISTANT_NEPHROTIC_SYNDROME.txt|MMI|5.18|Steroid-resistant nephrotic syndrome|C0403397|[dsyn]|["Nephrotic syndrome, steroid-resistant"-tx-1-"STEROID-RESISTANT NEPHROTIC SYNDROME"-noun-0]|TX|0/36|

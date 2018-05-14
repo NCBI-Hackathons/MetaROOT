@@ -1,0 +1,1 @@
+JUVENILE_MYELOMONOCYTIC_LEUKEMIA.txt|MMI|17.80|Juvenile Myelomonocytic Leukemia|C0349639|[neop]|["Juvenile myelomonocytic leukaemia"-tx-1-"JUVENILE MYELOMONOCYTIC LEUKEMIA"-noun-0]|TX|0/32|C04.557.337.539.525;C15.378.190.615.520

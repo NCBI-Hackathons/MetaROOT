@@ -1,0 +1,2 @@
+WELL-DIFFERENTIATED_LIPOSARCOMA.txt|MMI|17.80|Atypical Lipoma|C1266129|[neop]|["Well Differentiated Liposarcoma"-tx-1-"WELL-DIFFERENTIATED LIPOSARCOMA"-noun-0]|TX|0/31|C04.557.450.550.400
+WELL-DIFFERENTIATED_LIPOSARCOMA.txt|MMI|5.18|Liposarcoma, well differentiated|C1370889|[neop]|["Liposarcoma, well differentiated"-tx-1-"WELL-DIFFERENTIATED LIPOSARCOMA"-noun-0]|TX|0/31|

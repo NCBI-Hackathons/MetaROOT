@@ -1,0 +1,3 @@
+ESOPAGEAL_CANCER.txt|MMI|3.68|Cancer Genus|C0998265|[euka]|["Cancer"-tx-1-"CANCER"-noun-0]|TX|10/6|
+ESOPAGEAL_CANCER.txt|MMI|3.68|Malignant Neoplasms|C0006826|[neop]|["CANCER"-tx-1-"CANCER"-noun-0]|TX|10/6|
+ESOPAGEAL_CANCER.txt|MMI|3.68|Primary malignant neoplasm|C1306459|[neop]|["Cancer"-tx-1-"CANCER"-noun-0]|TX|10/6|

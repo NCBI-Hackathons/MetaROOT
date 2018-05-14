@@ -1,0 +1,2 @@
+NODAL_MARGINAL_ZONE_LYMPHOMA.txt|MMI|24.11|Mucosa-Associated Lymphoid Tissue Lymphoma|C0242647|[neop]|["Nodal marginal zone lymphoma"-tx-1-"NODAL MARGINAL ZONE LYMPHOMA"-noun-0]|TX|0/28|C04.557.386.480.150.570;C15.604.515.569.480.150.570;C20.683.515.761.480.150.570
+NODAL_MARGINAL_ZONE_LYMPHOMA.txt|MMI|5.18|Monocytoid B-cell lymphoma|C0855139|[neop]|["Nodal Marginal Zone Lymphoma"-tx-1-"NODAL MARGINAL ZONE LYMPHOMA"-noun-0]|TX|0/28|

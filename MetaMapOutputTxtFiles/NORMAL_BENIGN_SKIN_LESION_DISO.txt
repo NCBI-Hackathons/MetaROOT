@@ -1,0 +1,4 @@
+NORMAL_BENIGN_SKIN_LESION.txt|MMI|3.70|Skin appearance normal (finding)|C0558145|[fndg]|["Normal Skin"-tx-1-"NORMAL SKIN"-noun-0]|TX|0/6,14/4|
+NORMAL_BENIGN_SKIN_LESION.txt|MMI|3.68|Skin lesion|C0037284|[dsyn]|["SKIN LESION"-tx-1-"SKIN LESION"-noun-0]|TX|14/11|
+NORMAL_BENIGN_SKIN_LESION.txt|MMI|3.61|Lesion|C0221198|[fndg]|["Lesion"-tx-1-"LESION"-noun-0]|TX|19/6|
+NORMAL_BENIGN_SKIN_LESION.txt|MMI|3.47|Gait normal|C0231683|[fndg]|["Normal"-tx-1-"NORMAL"-adj-0]|TX|0/6|

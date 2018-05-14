@@ -1,0 +1,3 @@
+SUSPECTED_LYSOSOMAL_STORAGE_DISEASE.txt|MMI|13.27|Lysosomal Storage Diseases|C0085078|[dsyn]|["Lysosomal Storage Disease"-tx-1-"LYSOSOMAL STORAGE DISEASE"-noun-0]|TX|10/25|C16.320.565.595;C18.452.648.595
+SUSPECTED_LYSOSOMAL_STORAGE_DISEASE.txt|MMI|3.47|Suspected diagnosis|C0332147|[qlco]|["Suspected"-tx-1-"SUSPECTED"-adj-0]|TX|0/9|
+SUSPECTED_LYSOSOMAL_STORAGE_DISEASE.txt|MMI|3.47|Suspected qualifier|C0750491|[idcn]|["Suspected"-tx-1-"SUSPECTED"-adj-0]|TX|0/9|

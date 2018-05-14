@@ -1,0 +1,7 @@
+BONE_MARROW_CELLS_FROM_HEALTHY_DONORS.txt|MMI|9.99|Bone Marrow Cells|C0005955|[cell]|["Bone Marrow Cells"-tx-1-"BONE MARROW CELLS"-noun-0]|TX|0/17|A11.148;A15.378.316
+BONE_MARROW_CELLS_FROM_HEALTHY_DONORS.txt|MMI|3.76|Encounter for being a bone marrow donor|C1313934|[fndg]|["Bone marrow donors"-tx-1-"BONE MARROW DONORS"-noun-0]|TX|0/11,31/6|
+BONE_MARROW_CELLS_FROM_HEALTHY_DONORS.txt|MMI|3.60|Cells|C0007634|[cell]|["Cells"-tx-1-"CELLS"-noun-0]|TX|12/5|A11
+BONE_MARROW_CELLS_FROM_HEALTHY_DONORS.txt|MMI|3.60|Cells [Chemical/Ingredient]|C3282337|[cell]|["Cells"-tx-1-"CELLS"-noun-0]|TX|12/5|
+BONE_MARROW_CELLS_FROM_HEALTHY_DONORS.txt|MMI|3.46|Donor person|C0013018|[popg]|["Donors"-tx-1-"DONORS"-noun-0]|TX|31/6|
+BONE_MARROW_CELLS_FROM_HEALTHY_DONORS.txt|MMI|3.46|Encounter due to being a donor|C1527169|[fndg]|["Donors"-tx-1-"DONORS"-noun-0]|TX|31/6|
+BONE_MARROW_CELLS_FROM_HEALTHY_DONORS.txt|MMI|3.46|Healthy|C3898900|[qlco]|["Healthy"-tx-1-"HEALTHY"-adj-0]|TX|23/7|

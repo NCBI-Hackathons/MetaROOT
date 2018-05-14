@@ -1,0 +1,2 @@
+DILATED_CARDIOMYOPATHY.txt|MMI|14.64|Cardiomyopathy, Dilated|C0007193|[dsyn]|["Cardiomyopathy, Dilated"-tx-1-"DILATED CARDIOMYOPATHY"-noun-0]|TX|0/22|C14.280.195.160;C14.280.238.070
+DILATED_CARDIOMYOPATHY.txt|MMI|5.18|Dilated Cardiomyopathy Pathway|C2984282|[ftcn]|["Dilated cardiomyopathy"-tx-1-"DILATED CARDIOMYOPATHY"-noun-0]|TX|0/22|

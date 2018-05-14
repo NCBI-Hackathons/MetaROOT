@@ -1,0 +1,1 @@
+HYPOPHARYNGEAL_SQUAMOUS_CELL_CARCINOMA.txt|MMI|5.18|hypopharyngeal squamous cell carcinoma|C0280321|[neop]|["Hypopharyngeal Squamous Cell Carcinoma"-tx-1-"HYPOPHARYNGEAL SQUAMOUS CELL CARCINOMA"-noun-0]|TX|0/38|

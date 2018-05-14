@@ -1,0 +1,1 @@
+ACUTE_PROMYELOCYTIC_LEUKEMIA.txt|MMI|20.95|Acute Promyelocytic Leukemia|C0023487|[neop]|["Acute promyelocytic leukaemia"-tx-1-"ACUTE PROMYELOCYTIC LEUKEMIA"-noun-0]|TX|0/28|C04.557.337.539.275.700

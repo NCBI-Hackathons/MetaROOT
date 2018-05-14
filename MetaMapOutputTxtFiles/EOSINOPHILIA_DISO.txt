@@ -1,0 +1,2 @@
+EOSINOPHILIA.txt|MMI|14.64|Eosinophilia|C0014457|[dsyn]|["EOSINOPHILIA"-tx-1-"EOSINOPHILIA"-noun-0]|TX|0/12|C15.378.553.231
+EOSINOPHILIA.txt|MMI|5.18|Eosinophilic disorder|C1306759|[dsyn]|["Eosinophilia"-tx-1-"EOSINOPHILIA"-noun-0]|TX|0/12|

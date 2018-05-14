@@ -1,0 +1,1 @@
+BECKER'S_NEVUS.txt|MMI|3.78|Pigmented hairy epidermal nevus|C0263579|[neop]|["Becker's naevus"-tx-1-"BECKER NEVUS"-noun-0]|TX|0/6,9/5|

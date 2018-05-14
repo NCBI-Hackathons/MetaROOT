@@ -1,0 +1,2 @@
+LUMINAL_BREAST_CANCER.txt|MMI|13.22|Breast Carcinoma|C0678222|[neop]|["Breast Cancer"-tx-1-"BREAST CANCER"-noun-0]|TX|8/13|C04.588.180;C17.800.090.500
+LUMINAL_BREAST_CANCER.txt|MMI|3.75|Malignant neoplasm of breast|C0006142|[neop]|["-- Breast Cancer"-tx-1-"BREAST CANCER"-noun-0]|TX|8/13|

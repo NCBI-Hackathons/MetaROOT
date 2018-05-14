@@ -1,0 +1,1 @@
+GENERALIZED_PUSTULAR_PSORIASIS.txt|MMI|5.18|Generalized pustular psoriasis|C0343055|[dsyn]|["Generalised pustular psoriasis"-tx-1-"GENERALIZED PUSTULAR PSORIASIS"-noun-0]|TX|0/30|

@@ -1,0 +1,2 @@
+MDS.txt|MMI|5.18|SF3B1 wt Allele|C3273937|[gngm]|["MDS"-tx-1-"MDS"-noun-0]|TX|0/3|
+MDS.txt|MMI|5.18|YWHAE wt Allele|C3539662|[gngm]|["MDS"-tx-1-"MDS"-noun-0]|TX|0/3|

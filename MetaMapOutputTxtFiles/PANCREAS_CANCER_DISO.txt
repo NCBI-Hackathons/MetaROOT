@@ -1,0 +1,2 @@
+PANCREAS_CANCER.txt|MMI|14.64|Pancreatic carcinoma|C0235974|[neop]|["Pancreas Cancer"-tx-1-"PANCREAS_CANCER"-noun-0]|TX|0/15|x.x.x.x
+PANCREAS_CANCER.txt|MMI|5.18|Malignant neoplasm of pancreas|C0346647|[neop]|["Cancer, Pancreas"-tx-1-"PANCREAS_CANCER"-noun-0]|TX|0/15|

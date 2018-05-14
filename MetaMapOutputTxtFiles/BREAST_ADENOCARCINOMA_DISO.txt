@@ -1,0 +1,1 @@
+BREAST_ADENOCARCINOMA.txt|MMI|5.18|breast adenocarcinoma|C0858252|[neop]|["Breast Adenocarcinoma"-tx-1-"BREAST ADENOCARCINOMA"-noun-0]|TX|0/21|

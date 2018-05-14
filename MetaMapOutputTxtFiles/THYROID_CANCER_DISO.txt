@@ -1,0 +1,2 @@
+THYROID_CANCER.txt|MMI|5.18|Malignant neoplasm of thyroid|C0007115|[neop]|["-- Thyroid Cancer"-tx-1-"THYROID_CANCER"-noun-0]|TX|0/14|
+THYROID_CANCER.txt|MMI|5.18|Thyroid carcinoma|C0549473|[neop]|["Cancer, Thyroid"-tx-1-"THYROID_CANCER"-noun-0]|TX|0/14|

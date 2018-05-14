@@ -1,0 +1,2 @@
+NOT_APPLICABLE.txt|MMI|5.18|Not Applicable|C1272460|[qlco]|["NOT APPLICABLE"-tx-1-"NOT APPLICABLE"-adj-0]|TX|0/14|
+NOT_APPLICABLE.txt|MMI|5.18|Package Type Not Applicable|C4049872|[ftcn]|["Not Applicable"-tx-1-"NOT APPLICABLE"-adj-0]|TX|0/14|

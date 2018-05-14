@@ -1,0 +1,1 @@
+MYOEPITHELIAL_CARCINOMA_OF_SALIVARY_GLAND.txt|MMI|3.85|Salivary gland carcinoma|C0948750|[neop]|["Carcinoma of Salivary Gland"-tx-1-"CARCINOMA OF SALIVARY GLAND"-noun-0]|TX|14/27|

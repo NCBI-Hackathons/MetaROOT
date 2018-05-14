@@ -1,0 +1,1 @@
+HLH.txt|MMI|17.80|Lymphohistiocytosis, Hemophagocytic|C0024291|[dsyn]|["HLH"-tx-1-"HLH"-noun-0]|TX|0/3|C15.604.250.410.575

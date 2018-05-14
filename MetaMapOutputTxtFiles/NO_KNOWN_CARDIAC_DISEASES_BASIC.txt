@@ -1,0 +1,7 @@
+NO_KNOWN_CARDIAC_DISEASES.txt|MMI|16.08|Nitric Oxide|C0028128|[bacs,inch,phsu]|["NO"-tx-1-"NO"-noun-0]|TX|0/2|D01.339.387;D01.625.550.500;D01.625.700.500;D01.650.550.587.600
+NO_KNOWN_CARDIAC_DISEASES.txt|MMI|6.83|Heart Diseases|C0018799|[dsyn]|["Cardiac Diseases"-tx-1-"CARDIAC DISEASES"-noun-1]|TX|9/16|C14.280
+NO_KNOWN_CARDIAC_DISEASES.txt|MMI|3.47|Known|C0205309|[qlco]|["Known"-tx-1-"KNOWN"-adj-0]|TX|3/5|
+NO_KNOWN_CARDIAC_DISEASES.txt|MMI|3.47|Negation|C1518422|[ftcn]|["No"-tx-1-"NO"-noun-0]|TX|0/2|
+NO_KNOWN_CARDIAC_DISEASES.txt|MMI|3.47|Nitric Oxide Measurement|C3810607|[lbpr]|["NO"-tx-1-"NO"-noun-0]|TX|0/2|
+NO_KNOWN_CARDIAC_DISEASES.txt|MMI|3.47|No - yes/no indicator|C1549444|[idcn]|["No"-tx-1-"NO"-noun-0]|TX|0/2|
+NO_KNOWN_CARDIAC_DISEASES.txt|MMI|3.47|no|C1298908|[idcn]|["NO"-tx-1-"NO"-noun-0]|TX|0/2|

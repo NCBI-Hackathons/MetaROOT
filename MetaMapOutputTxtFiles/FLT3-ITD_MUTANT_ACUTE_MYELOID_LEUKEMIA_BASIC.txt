@@ -1,0 +1,6 @@
+FLT3-ITD_MUTANT_ACUTE_MYELOID_LEUKEMIA.txt|MMI|16.30|Leukemia, Myelocytic, Acute|C0023467|[neop]|["Acute myeloid leukaemia"-tx-1-"ACUTE MYELOID LEUKEMIA"-noun-0]|TX|16/22|C04.557.337.539.275
+FLT3-ITD_MUTANT_ACUTE_MYELOID_LEUKEMIA.txt|MMI|12.92|FLT3 protein, human|C0251006|[aapp,rcpt]|["FLT-3"-tx-1-"FLT3"-noun-0]|TX|0/4|x.x.x.x
+FLT3-ITD_MUTANT_ACUTE_MYELOID_LEUKEMIA.txt|MMI|3.68|Acute Myeloid Leukemia Pathway|C2984331|[ftcn]|["Acute myeloid leukemia"-tx-1-"ACUTE MYELOID LEUKEMIA"-noun-0]|TX|16/22|
+FLT3-ITD_MUTANT_ACUTE_MYELOID_LEUKEMIA.txt|MMI|3.68|NCI CTEP SDC Acute Myeloid Leukemia Sub-Category Terminology|C3541370|[inpr]|["Acute Myeloid Leukemia"-tx-1-"ACUTE MYELOID LEUKEMIA"-noun-0]|TX|16/22|
+FLT3-ITD_MUTANT_ACUTE_MYELOID_LEUKEMIA.txt|MMI|3.46|Intralobular part of terminal lactiferous duct|C0929370|[bpoc]|["ITD"-tx-1-"ITD"-noun-0]|TX|5/3|
+FLT3-ITD_MUTANT_ACUTE_MYELOID_LEUKEMIA.txt|MMI|3.46|mutant|C0596988|[comd]|["Mutant"-tx-1-"MUTANT"-adj-0]|TX|9/6|

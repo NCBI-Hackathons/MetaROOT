@@ -1,0 +1,1 @@
+BRAIN_ASTROCYTOMA.txt|MMI|5.18|Astrocytoma of brain|C3695127|[neop]|["Brain Astrocytoma"-tx-1-"BRAIN ASTROCYTOMA"-noun-0]|TX|0/17|

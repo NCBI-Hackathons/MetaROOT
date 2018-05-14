@@ -1,0 +1,1 @@
+CHOLANGIOCARCINOMA.txt|MMI|20.95|Cholangiocarcinoma|C0206698|[neop]|["Cholangiocarcinoma"-tx-1-"CHOLANGIOCARCINOMA"-noun-0]|TX|0/18|C04.557.470.200.025.450

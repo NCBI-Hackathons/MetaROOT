@@ -1,0 +1,1 @@
+CERVICAL_ADENOCARCINOMA.txt|MMI|5.18|Cervical Adenocarcinoma|C0279672|[neop]|["Cervical Adenocarcinoma"-tx-1-"CERVICAL ADENOCARCINOMA"-noun-0]|TX|0/23|

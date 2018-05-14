@@ -1,0 +1,1 @@
+ADENOMYOEPITHELIOMA_OF_THE_BREAST.txt|MMI|5.18|Breast Adenomyoepithelioma|C1510795|[neop]|["Adenomyoepithelioma of the Breast"-tx-1-"ADENOMYOEPITHELIOMA OF THE BREAST"-noun-0]|TX|0/33|

@@ -1,0 +1,1 @@
+HEAD_TRAUMA.txt|MMI|11.49|Craniocerebral Trauma|C0018674|[inpo]|["HEAD TRAUMA"-tx-1-"HEAD TRAUMA"-noun-0]|TX|0/11|C10.900.300;C26.915.300

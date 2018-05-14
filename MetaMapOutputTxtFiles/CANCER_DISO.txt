@@ -1,0 +1,2 @@
+CANCER.txt|MMI|5.18|Malignant Neoplasms|C0006826|[neop]|["CANCER"-tx-1-"CANCER"-noun-0]|TX|0/6|
+CANCER.txt|MMI|5.18|Primary malignant neoplasm|C1306459|[neop]|["Cancer"-tx-1-"CANCER"-noun-0]|TX|0/6|

@@ -1,0 +1,1 @@
+BIPHENOTYPIC_B_MYELOMONOCYTIC_LEUKEMIA.txt|MMI|3.68|Myelomonocytic leukemia|C0027019|[neop]|["Myelomonocytic leukemia"-tx-1-"MYELOMONOCYTIC LEUKEMIA"-noun-0]|TX|15/23|

@@ -1,0 +1,3 @@
+LUNG_CANCER.txt|MMI|5.18|Carcinoma of lung|C0684249|[neop]|["-- Lung Cancer"-tx-1-"LUNG CANCER"-noun-0]|TX|0/11|
+LUNG_CANCER.txt|MMI|5.18|Malignant neoplasm of lung|C0242379|[neop]|["Lung Cancer"-tx-1-"LUNG CANCER"-noun-0]|TX|0/11|
+LUNG_CANCER.txt|MMI|5.18|Primary malignant neoplasm of lung|C1306460|[neop]|["Lung cancer"-tx-1-"LUNG CANCER"-noun-0]|TX|0/11|

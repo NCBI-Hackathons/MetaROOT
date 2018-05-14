@@ -1,0 +1,2 @@
+NORMAL_NON_SMOKERS.txt|MMI|3.75|Non-smoker|C0337672|[fndg]|["non smokers"-tx-1-"NON SMOKERS"-noun-0]|TX|7/11|
+NORMAL_NON_SMOKERS.txt|MMI|3.48|Gait normal|C0231683|[fndg]|["Normal"-tx-1-"NORMAL"-adj-1]|TX|0/6|

@@ -1,0 +1,1 @@
+POORLY_DIFFERENTIATED_SEROUS_OVARIAN_ADENOCARCINOMA.txt|MMI|3.72|Ovarian Serous Adenocarcinoma|C1335177|[neop]|["Serous Ovarian adenocarcinoma"-tx-1-"SEROUS OVARIAN ADENOCARCINOMA"-noun-0]|TX|22/29|

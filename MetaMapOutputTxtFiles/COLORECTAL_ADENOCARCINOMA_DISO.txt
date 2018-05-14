@@ -1,0 +1,1 @@
+COLORECTAL_ADENOCARCINOMA.txt|MMI|5.18|Adenocarcinoma of large intestine|C1319315|[neop]|["Colorectal Adenocarcinoma"-tx-1-"COLORECTAL ADENOCARCINOMA"-noun-0]|TX|0/25|

@@ -1,0 +1,1 @@
+SEVERE_ACUTE_PANCREATITIS.txt|MMI|3.75|Acute pancreatitis|C0001339|[dsyn]|["Acute Pancreatitis"-tx-1-"ACUTE PANCREATITIS"-noun-0]|TX|7/18|

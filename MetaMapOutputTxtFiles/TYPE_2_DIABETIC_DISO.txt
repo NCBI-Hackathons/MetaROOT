@@ -1,0 +1,1 @@
+TYPE_2_DIABETIC.txt|MMI|3.63|diabetic|C0241863|[fndg]|["DIABETIC"-tx-1-"DIABETIC"-adj-0]|TX|7/8|

@@ -1,0 +1,3 @@
+LUNG.txt|MMI|8.34|Lung|C0024109|[bpoc]|["LUNG"-tx-1-"LUNG"-noun-0]|TX|0/4|A04.411
+LUNG.txt|MMI|5.18|Entire lung|C1278908|[bpoc]|["Lung"-tx-1-"LUNG"-noun-0]|TX|0/4|
+LUNG.txt|MMI|5.18|Structure of parenchyma of lung|C0819757|[tisu]|["LUNG"-tx-1-"LUNG"-noun-0]|TX|0/4|

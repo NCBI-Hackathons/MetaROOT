@@ -1,0 +1,1 @@
+ACUTE_T_CELL_LEUKEMIA.txt|MMI|20.95|Precursor T-Cell Lymphoblastic Leukemia-Lymphoma|C1961099|[neop]|["Acute T Cell Leukemia"-tx-1-"ACUTE T CELL LEUKEMIA"-noun-0]|TX|0/21|C04.557.337.428.600.620;C15.604.515.560.600.620;C20.683.515.528.600.620

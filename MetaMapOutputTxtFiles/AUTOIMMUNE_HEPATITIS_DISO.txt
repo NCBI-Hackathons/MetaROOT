@@ -1,0 +1,1 @@
+AUTOIMMUNE_HEPATITIS.txt|MMI|17.80|Hepatitis, Autoimmune|C0241910|[dsyn]|["Autoimmune Hepatitis"-tx-1-"AUTOIMMUNE HEPATITIS"-noun-0]|TX|0/20|C06.552.380.350.050;C20.111.567

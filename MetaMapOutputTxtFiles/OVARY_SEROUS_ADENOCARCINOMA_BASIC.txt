@@ -1,0 +1,1 @@
+OVARY_SEROUS_ADENOCARCINOMA.txt|MMI|3.96|Ovarian Serous Adenocarcinoma|C1335177|[neop]|["Ovarian Serous Adenocarcinoma"-tx-1-"OVARY SEROUS ADENOCARCINOMA"-noun-0]|TX|0/27|

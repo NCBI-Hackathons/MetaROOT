@@ -1,0 +1,1 @@
+NO_KNOWN_CARDIAC_DISEASES.txt|MMI|6.83|Heart Diseases|C0018799|[dsyn]|["Cardiac Diseases"-tx-1-"CARDIAC DISEASES"-noun-1]|TX|9/16|C14.280

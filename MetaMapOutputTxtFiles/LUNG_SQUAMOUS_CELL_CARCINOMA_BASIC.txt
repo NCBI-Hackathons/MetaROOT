@@ -1,0 +1,1 @@
+LUNG_SQUAMOUS_CELL_CARCINOMA.txt|MMI|5.18|Squamous cell carcinoma of lung|C0149782|[neop]|["lung squamous cell carcinoma"-tx-1-"LUNG SQUAMOUS CELL CARCINOMA"-noun-0]|TX|0/28|

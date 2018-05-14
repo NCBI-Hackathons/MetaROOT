@@ -1,0 +1,1 @@
+NORMAL.txt|MMI|5.18|Gait normal|C0231683|[fndg]|["Normal"-tx-1-"NORMAL"-adj-0]|TX|0/6|

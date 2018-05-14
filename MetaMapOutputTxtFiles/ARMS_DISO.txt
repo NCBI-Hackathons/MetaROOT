@@ -1,0 +1,1 @@
+ARMS.txt|MMI|24.11|Alveolar rhabdomyosarcoma|C0206655|[neop]|["ARMS"-tx-1-"ARMS"-noun-0]|TX|0/4|C04.557.450.590.550.660.665;C04.557.450.795.550.660.665

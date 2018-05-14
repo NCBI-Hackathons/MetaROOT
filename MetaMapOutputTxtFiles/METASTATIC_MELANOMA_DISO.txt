@@ -1,0 +1,1 @@
+METASTATIC_MELANOMA.txt|MMI|5.18|Metastatic melanoma|C0278883|[neop]|["Metastatic Melanoma"-tx-1-"METASTATIC MELANOMA"-noun-0]|TX|0/19|

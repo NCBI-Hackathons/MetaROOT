@@ -1,0 +1,2 @@
+OVARIAN_EPITHELIAL-SEROUS_CARCINOMA.txt|MMI|13.27|Epithelial ovarian cancer|C0677886|[neop]|["ovarian epithelial carcinoma"-tx-1-"OVARIAN EPITHELIAL CARCINOMA"-noun-0]|TX|0/18,26/9|x.x.x.x
+OVARIAN_EPITHELIAL-SEROUS_CARCINOMA.txt|MMI|3.81|Ovarian Serous Adenocarcinoma|C1335177|[neop]|["Ovarian Serous Carcinoma"-tx-1-"OVARIAN SEROUS CARCINOMA"-noun-0]|TX|0/7,19/16|

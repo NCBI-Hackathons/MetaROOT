@@ -1,0 +1,1 @@
+LUNG_SARCOMATOID_CARCINOMA.txt|MMI|5.18|Lung Sarcomatoid Carcinoma|C1708781|[neop]|["Lung Sarcomatoid Carcinoma"-tx-1-"LUNG SARCOMATOID CARCINOMA"-noun-0]|TX|0/26|
