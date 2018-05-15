@@ -1,5 +1,7 @@
 #!/bin/bash
 
+TAB=$'\t'
+
 sourceDir="/Users/leblanckh/gitProjects/metametamap/MetaMapOutputTxtFiles"
 outputDir="/Users/leblanckh/gitProjects/metametamap/MetaMapMapped"
 
@@ -12,13 +14,13 @@ echo "" > $basicFile
 echo "" > $scoreFile
 
 for file in ${sourceDir}/*DISO.txt ; do
-  cat $file | sed s/\.txt// | sed "s/|/        /g" | tee -a $disoFile
+  cat $file | sed s/\.txt// | sed "s/|/$TAB/g" | tee -a $disoFile
 done
 
 for file in ${sourceDir}/*BASIC.txt ; do
-  cat $file | sed s/\.txt// | sed "s/|/        /g" | tee -a $basicFile
+  cat $file | sed s/\.txt// | sed "s/|/$TAB/g" | tee -a $basicFile
 done
 
 for file in ${sourceDir}/*SCORE.txt ; do
-  cat $file | sed s/\.txt// | sed "s/|/        /g" | tee -a $scoreFile
+  cat $file | sed s/\.txt// | sed "s/|/$TAB/g" | tee -a $scoreFile
 done
