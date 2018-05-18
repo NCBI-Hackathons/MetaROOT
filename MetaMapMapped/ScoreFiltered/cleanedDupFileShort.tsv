@@ -1,0 +1,25 @@
+B-CELL_LYMPHOMA,_UNCLASSIFIABLE,_WITH_FEATURES_INTERMEDIATE_BETWEEN_DLBCL_AND_BL	MMI	19.39	B-Cell Lymphomas	C0079731	[neop]	["B cell lymphoma"-tx-1-"B-CELL LYMPHOMA"-noun-0]	TX	0/15	C04.557.386.480.150;C15.604.515.569.480.150;C20.683.515.761.480.150
+BECKER'S_NEVUS	MMI	3.78	Pigmented hairy epidermal nevus	C0263579	[neop]	["Becker's naevus"-tx-1-"BECKER NEVUS"-noun-0]	TX	0/6,9/5	
+BECKERS_NEVUS_SYNDROME	MMI	13.65	Becker Nevus Syndrome	C1858042	[dsyn]	["BECKER NEVUS SYNDROME"-tx-1-"BECKERS NEVUS SYNDROME"-noun-0]	TX	0/22	x.x.x.x
+BLADDER_CANCER	MMI	5.18	Carcinoma of bladder	C0699885	[neop]	["Bladder Cancer"-tx-1-"BLADDER CANCER"-noun-0]	TX	0/14	
+BLADDER_CANCER	MMI	5.18	Carcinoma of bladder	C0699885	[neop]	["Bladder Cancer"-tx-1-"BLADDER CANCER"-noun-0]	TX	0/14	
+BLADDER_CANCER	MMI	5.18	Malignant neoplasm of urinary bladder	C0005684	[neop]	["BLADDER CANCER"-tx-1-"BLADDER CANCER"-noun-0]	TX	0/14	
+BLADDER_CANCER	MMI	5.18	Malignant neoplasm of urinary bladder	C0005684	[neop]	["BLADDER CANCER"-tx-1-"BLADDER CANCER"-noun-0]	TX	0/14	
+BLUNT_FORCE_TRAUMA_(BFT)	MMI	8.34	Nonpenetrating Wounds	C0043253	[inpo]	["Blunt force Trauma"-tx-1-"BLUNT FORCE TRAUMA"-noun-0]	TX	0/18	C26.974
+BONE_MARROW_CELLS_FROM_HEALTHY_DONORS	MMI	3.76	Encounter for being a bone marrow donor	C1313934	[fndg]	["Bone marrow donors"-tx-1-"BONE MARROW DONORS"-noun-0]	TX	0/11,31/6	
+BONE_MARROW_CELLS_FROM_HEALTHY_DONORS	MMI	3.46	Encounter due to being a donor	C1527169	[fndg]	["Donors"-tx-1-"DONORS"-noun-0]	TX	31/6	
+BREAST_CANCER	MMI	14.64	Breast Carcinoma	C0678222	[neop]	["Breast Cancer"-tx-1-"BREAST CANCER"-noun-0]	TX	0/13	C04.588.180;C17.800.090.500
+BREAST_CANCER	MMI	14.64	Breast Carcinoma	C0678222	[neop]	["Breast Cancer"-tx-1-"BREAST CANCER"-noun-0]	TX	0/13	C04.588.180;C17.800.090.500
+BREAST_CANCER	MMI	5.18	Malignant neoplasm of breast	C0006142	[neop]	["-- Breast Cancer"-tx-1-"BREAST CANCER"-noun-0]	TX	0/13	
+BREAST_CANCER	MMI	5.18	Malignant neoplasm of breast	C0006142	[neop]	["-- Breast Cancer"-tx-1-"BREAST CANCER"-noun-0]	TX	0/13	
+BREAST_CARCINOMA	MMI	14.64	Breast Carcinoma	C0678222	[neop]	["BREAST CARCINOMA"-tx-1-"BREAST CARCINOMA"-noun-0]	TX	0/16	C04.588.180;C17.800.090.500
+BREAST_CARCINOMA	MMI	5.18	Malignant neoplasm of breast	C0006142	[neop]	["Breast Carcinoma"-tx-1-"BREAST CARCINOMA"-noun-0]	TX	0/16	
+BREAST_DUCTAL_CARCINOMA	MMI	24.11	Mammary Ductal Carcinoma	C0021367	[neop]	["breast ductal carcinoma"-tx-1-"BREAST DUCTAL CARCINOMA"-noun-0]	TX	0/23	C04.557.470.200.025.232.500;C04.557.470.615.132.500;C04.588.180.390;C17.800.090.500.390
+CANCER	MMI	5.18	Malignant Neoplasms	C0006826	[neop]	["CANCER"-tx-1-"CANCER"-noun-0]	TX	0/6	
+CANCER	MMI	5.18	Primary malignant neoplasm	C1306459	[neop]	["Cancer"-tx-1-"CANCER"-noun-0]	TX	0/6	
+CANCER_PAIN	MMI	5.18	cancer pain	C0596240	[sosy]	["cancer pain"-tx-1-"CANCER PAIN"-noun-0]	TX	0/11	
+CERVICAL_CANCER	MMI	5.18	Cervix carcinoma	C0302592	[neop]	["CERVICAL CANCER"-tx-1-"CERVICAL CANCER"-noun-0]	TX	0/15	
+CERVICAL_CANCER	MMI	5.18	Cervix carcinoma	C0302592	[neop]	["CERVICAL CANCER"-tx-1-"CERVICAL CANCER"-noun-0]	TX	0/15	
+CERVICAL_CANCER	MMI	5.18	Malignant tumor of cervix	C0007847	[neop]	["Cervical cancer"-tx-1-"CERVICAL CANCER"-noun-0]	TX	0/15	
+CERVICAL_CANCER	MMI	5.18	Malignant tumor of cervix	C0007847	[neop]	["Cervical cancer"-tx-1-"CERVICAL CANCER"-noun-0]	TX	0/15	
+CERVICAL_CANCER	MMI	5.18	cervical cancer	C4048328	[neop]	["CERVICAL CANCER"-tx-1-"CERVICAL CANCER"-noun-0]	TX	0/15	

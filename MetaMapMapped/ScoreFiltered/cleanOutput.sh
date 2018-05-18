@@ -1,9 +1,9 @@
 #!/bin/bash
 
 #simple script to use sed to clean output
-workingDir="/work/other_git_repos/metametamap/MetaMapMapped"
-file2clean="MappedDuplicates.tsv"
-outputFile="clean2.tsv"
+workingDir="/Users/leblanckh/gitProjects/metametamap/MetaMapMapped/"
+file2clean="sortedMappedDup.tsv"
+outputFile="round2DupFile.tsv"
 
 
 
@@ -12,5 +12,6 @@ pushd $workingDir
 #The first sed strips out all lines that match on anything<TAB>AA
 #The second sed deletes the first part of lines that start with a number followed by a :  
 #(e.g. 288:blah blah blah --> blah blah blah)
-sed '/.*\tAA/d' $file2clean | sed 's/^[0-9]*:\(.*$\)/\1/' > $outputFile
+sed '/.*	AA/d' $file2clean | sed 's/^[0-9]*:\(.*$\)/\1/' > $outputFile
+#sed '/.*\tAA/d' $file2clean | sed 's/^[0-9]*:\(.*$\)/\1/' > $outputFile
 popd
