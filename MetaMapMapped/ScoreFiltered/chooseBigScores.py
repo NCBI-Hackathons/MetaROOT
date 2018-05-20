@@ -3,8 +3,8 @@
 
 #workingDir="/work/other_git_repos/metametamap/MetaMapMapped"
 #workingDir="/Users/leblanckh/gitProjects/metametamap/MetaMapMapped/"
-inputFilePath="/Users/leblanckh/gitProjects/metametamap/MetaMapMapped/round2DupFile.tsv"
-outputFilePath="/Users/leblanckh/gitProjects/metametamap/MetaMapMapped/round2_score_lines.tsv"
+inputFilePath="/Users/leblanckh/gitProjects/metametamap/MetaMapMapped/ScoreFiltered/round3DupFile.tsv"
+outputFilePath="/Users/leblanckh/gitProjects/metametamap/MetaMapMapped/ScoreFiltered/round3_score_lines.tsv"
 
 inputFile=open(inputFilePath,"r")
 outputFile=open(outputFilePath,"w")
