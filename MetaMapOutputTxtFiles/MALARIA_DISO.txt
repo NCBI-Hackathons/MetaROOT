@@ -1,0 +1,1 @@
+MALARIA.txt|MMI|11.49|Malaria|C0024530|[dsyn]|["MALARIA"-tx-1-"MALARIA"-noun-0]|TX|0/7|C03.752.530

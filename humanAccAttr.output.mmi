@@ -1,0 +1,123 @@
+SAMN06842814-biomaterial_provider|MMI|0.52|Institutes|C0021622|[orgt]|"institute"-text-0-"Institute"-NNP-0|8/9|
+SAMN06842814-biomaterial_provider|MMI|0.52|Institution (social concept)|C1272753|[idcn]|"Institute"-text-0-"Institute"-NNP-0|8/9|
+SAMN06842812-sex|MMI|1.64|Female Phenotype|C1705498|[qlco]|"Female"-text-0-"female"-NN-0|0/6|x.x.x
+SAMN06842812-sex|MMI|1.64|Female, Self-Report|C1705497|[qlco]|"Female"-text-0-"female"-NN-0|0/6|x.x.x
+SAMN06842812-sex|MMI|1.64|Females|C0086287|[orga]|"Female"-text-0-"female"-NN-0|0/6|x.x.x
+SAMN06842812-sex|MMI|1.64|Woman|C0043210|[popg]|"female"-text-0-"female"-NN-0|0/6|x.x.x
+SAMN06842813-population|MMI|0.72|Negation|C1518422|[ftcn]|"Not"-text-0-"Not"-RB-0|0/3|
+SAMN06842809-population|MMI|0.72|Negation|C1518422|[ftcn]|"Not"-text-0-"Not"-RB-0|0/3|
+SAMN06842810-karyotype|MMI|5.79|Aneuploidy|C0002938|[comd]|"Aneuploidy"-text-0-"aneuploidy"-NN-1|21/10|C23.550.210.050,G05.365.590.175.050,G05.700.131
+SAMN06842810-karyotype|MMI|0.52|Act Relationship Subset - previous|C1552607|[tmco]|"previous"-text-0-"previous"-JJ-0|3/8|
+SAMN06842810-karyotype|MMI|0.52|Previous|C0205156|[tmco]|"Previous"-text-0-"previous"-JJ-0|3/8|
+SAMEA104592359-investigation type|MMI|8.09|Surveys|C0038951|[inpr]|"Survey"-text-0-"survey"-NN-0|8/6|E05.318.308.980,L01.280.960,N05.715.360.300.800,N06.850.520.308.980
+SAMN06842810-population|MMI|0.72|European race|C1535514|[popg]|"European"-text-0-"European"-JJ-0|0/8|
+SAMN06842810-population|MMI|0.72|ethnic european|C0239307|[popg]|"European"-text-0-"European"-JJ-0|0/8|
+SAMN06842811-sex|MMI|1.64|Male Gender, Self Report|C1706180|[qlco]|"Male"-text-0-"male"-NN-0|0/4|x.x.x
+SAMN06842811-sex|MMI|1.64|Male Phenotype|C1706428|[qlco]|"Male"-text-0-"male"-NN-0|0/4|x.x.x
+SAMN06842811-sex|MMI|1.64|Male, Self-Reported|C1706429|[orga]|"Male"-text-0-"male"-NN-0|0/4|x.x.x
+SAMN06842811-sex|MMI|1.64|Males|C0086582|[orga]|"Male"-text-0-"male"-NN-0|0/4|x.x.x
+SAMN06842808-ethnicity|MMI|0.72|European race|C1535514|[popg]|"European"-text-0-"European"-JJ-0|0/8|
+SAMN06842808-ethnicity|MMI|0.72|ethnic european|C0239307|[popg]|"European"-text-0-"European"-JJ-0|0/8|
+SAMN06842810-race|MMI|0.72|European race|C1535514|[popg]|"European"-text-0-"European"-JJ-0|0/8|
+SAMN06842810-race|MMI|0.72|ethnic european|C0239307|[popg]|"European"-text-0-"European"-JJ-0|0/8|
+SAMEA104592359-environment (biome)|MMI|4.67|Homo sapiens|C0086418|[humn]|"Homo sapiens"-text-0-"Homo sapiens"-NN-0|0/12|B01.050.150.900.649.801.400.112.400.400
+SAMN06842814-race|MMI|0.72|Negation|C1518422|[ftcn]|"Not"-text-0-"Not"-RB-0|0/3|
+SAMN06842810-cell_line|MMI|0.72|lymphoblastoid cell line|C0682526|[cell]|"lymphoblastoid cell line"-text-0-"Lymphoblastoid Cell Line"-NNP-0|0/24|
+SAMN06842808-population|MMI|0.72|European race|C1535514|[popg]|"European"-text-0-"European"-JJ-0|0/8|
+SAMN06842808-population|MMI|0.72|ethnic european|C0239307|[popg]|"European"-text-0-"European"-JJ-0|0/8|
+SAMN06842815-biomaterial_provider|MMI|0.52|Institutes|C0021622|[orgt]|"institute"-text-0-"Institute"-NNP-0|8/9|
+SAMN06842815-biomaterial_provider|MMI|0.52|Institution (social concept)|C1272753|[idcn]|"Institute"-text-0-"Institute"-NNP-0|8/9|
+SAMN06842813-ethnicity|MMI|0.72|Negation|C1518422|[ftcn]|"Not"-text-0-"Not"-RB-0|0/3|
+SAMN06842808-race|MMI|0.72|European race|C1535514|[popg]|"European"-text-0-"European"-JJ-0|0/8|
+SAMN06842808-race|MMI|0.72|ethnic european|C0239307|[popg]|"European"-text-0-"European"-JJ-0|0/8|
+SAMN06842816-karyotype|MMI|5.79|Aneuploidy|C0002938|[comd]|"Aneuploidy"-text-0-"aneuploidy"-NN-1|21/10|C23.550.210.050,G05.365.590.175.050,G05.700.131
+SAMN06842816-karyotype|MMI|0.52|Act Relationship Subset - previous|C1552607|[tmco]|"previous"-text-0-"previous"-JJ-0|3/8|
+SAMN06842816-karyotype|MMI|0.52|Previous|C0205156|[tmco]|"Previous"-text-0-"previous"-JJ-0|3/8|
+SAMN06842811-biomaterial_provider|MMI|0.52|Institutes|C0021622|[orgt]|"institute"-text-0-"Institute"-NNP-0|8/9|
+SAMN06842811-biomaterial_provider|MMI|0.52|Institution (social concept)|C1272753|[idcn]|"Institute"-text-0-"Institute"-NNP-0|8/9|
+SAMN06842808-biomaterial_provider|MMI|0.52|Institutes|C0021622|[orgt]|"institute"-text-0-"Institute"-NNP-0|8/9|
+SAMN06842808-biomaterial_provider|MMI|0.52|Institution (social concept)|C1272753|[idcn]|"Institute"-text-0-"Institute"-NNP-0|8/9|
+SAMN06842812-karyotype|MMI|5.79|Aneuploidy|C0002938|[comd]|"Aneuploidy"-text-0-"aneuploidy"-NN-1|21/10|C23.550.210.050,G05.365.590.175.050,G05.700.131
+SAMN06842812-karyotype|MMI|0.52|Act Relationship Subset - previous|C1552607|[tmco]|"previous"-text-0-"previous"-JJ-0|3/8|
+SAMN06842812-karyotype|MMI|0.52|Previous|C0205156|[tmco]|"Previous"-text-0-"previous"-JJ-0|3/8|
+SAMN06842810-sex|MMI|1.64|Female Phenotype|C1705498|[qlco]|"Female"-text-0-"female"-NN-0|0/6|x.x.x
+SAMN06842810-sex|MMI|1.64|Female, Self-Report|C1705497|[qlco]|"Female"-text-0-"female"-NN-0|0/6|x.x.x
+SAMN06842810-sex|MMI|1.64|Females|C0086287|[orga]|"Female"-text-0-"female"-NN-0|0/6|x.x.x
+SAMN06842810-sex|MMI|1.64|Woman|C0043210|[popg]|"female"-text-0-"female"-NN-0|0/6|x.x.x
+SAMN06842816-cell_line|MMI|0.72|ES Cell Line|C1512140|[cell]|"Embryonic Stem Cell Line"-text-0-"embryonic stem cell line"-JJ-0|3/24|
+SAMN06842810-ethnicity|MMI|0.72|European race|C1535514|[popg]|"European"-text-0-"European"-JJ-0|0/8|
+SAMN06842810-ethnicity|MMI|0.72|ethnic european|C0239307|[popg]|"European"-text-0-"European"-JJ-0|0/8|
+SAMEA104592359-environment (feature)|MMI|0.72|Array Feature|C1706388|[cnce]|"Feature"-text-0-"feature"-NN-0|10/7|
+SAMEA104592359-environment (feature)|MMI|0.72|Characteristics|C1521970|[qlco]|"Feature"-text-0-"feature"-NN-0|10/7|
+SAMEA104592359-environment (feature)|MMI|0.72|Feature|C2348519|[qlco]|"Feature"-text-0-"feature"-NN-0|10/7|
+SAMEA104592359-environment (feature)|MMI|0.72|Image Feature|C2346469|[qlco]|"Feature"-text-0-"feature"-NN-0|10/7|
+SAMEA104592359-environment (feature)|MMI|0.52|microbial|C0599840|[orgm]|"microbial"-text-0-"microbial"-JJ-0|0/9|
+SAMN06842811-tissue|MMI|0.72|lymphoblastoid cell line|C0682526|[cell]|"lymphoblastoid cell line"-text-0-"Lymphoblastoid Cell Line"-NNP-0|0/24|
+SAMEA104592359-geographic location (country and/or sea)|MMI|1.64|United Kingdom|C0041700|[geoa]|"United Kingdom"-text-0-"United Kingdom"-NNP-0|0/14|Z01.542.363
+SAMN06842814-ethnicity|MMI|0.72|Negation|C1518422|[ftcn]|"Not"-text-0-"Not"-RB-0|0/3|
+SAMN06842808-sex|MMI|1.64|Female Phenotype|C1705498|[qlco]|"Female"-text-0-"female"-NN-0|0/6|x.x.x
+SAMN06842808-sex|MMI|1.64|Female, Self-Report|C1705497|[qlco]|"Female"-text-0-"female"-NN-0|0/6|x.x.x
+SAMN06842808-sex|MMI|1.64|Females|C0086287|[orga]|"Female"-text-0-"female"-NN-0|0/6|x.x.x
+SAMN06842808-sex|MMI|1.64|Woman|C0043210|[popg]|"female"-text-0-"female"-NN-0|0/6|x.x.x
+SAMN06842812-tissue|MMI|0.72|lymphoblastoid cell line|C0682526|[cell]|"lymphoblastoid cell line"-text-0-"Lymphoblastoid Cell Line"-NNP-0|0/24|
+SAMN06842810-tissue|MMI|0.72|lymphoblastoid cell line|C0682526|[cell]|"lymphoblastoid cell line"-text-0-"Lymphoblastoid Cell Line"-NNP-0|0/24|
+SAMN06842816-tissue|MMI|0.72|ES Cell Line|C1512140|[cell]|"Embryonic Stem Cell Line"-text-0-"embryonic stem cell line"-JJ-0|3/24|
+SAMN06842815-tissue|MMI|0.72|lymphoblastoid cell line|C0682526|[cell]|"lymphoblastoid cell line"-text-0-"Lymphoblastoid Cell Line"-NNP-0|0/24|
+SAMN06842816-isolate|MMI|0.72|ES Cell Line|C1512140|[cell]|"Embryonic Stem Cell Line"-text-0-"embryonic stem cell line"-JJ-0|3/24|
+SAMN06842815-population|MMI|2.1|Asians|C0078988|[popg]|"Asian"-text-0-"Asian"-JJ-0|0/5|M01.686.508.200
+SAMN06842815-karyotype|MMI|0.72|Chromosome rearrangements|C0742411|[comd]|"Chromosome rearrangements"-text-0-"chromosome rearrangements"-NN-0|57/25|
+SAMN06842815-karyotype|MMI|0.52|Random|C0439605|[qlco]|"Random"-text-0-"random"-JJ-0|50/6|
+SAMN06842815-karyotype|MMI|0.52|Randomization|C0034656|[resa]|"RANDOM"-text-0-"random"-JJ-0|50/6|
+SAMN06842812-cell_line|MMI|0.72|lymphoblastoid cell line|C0682526|[cell]|"lymphoblastoid cell line"-text-0-"Lymphoblastoid Cell Line"-NNP-0|0/24|
+SAMN06842813-race|MMI|0.72|Negation|C1518422|[ftcn]|"Not"-text-0-"Not"-RB-0|0/3|
+SAMN06842809-race|MMI|0.72|Negation|C1518422|[ftcn]|"Not"-text-0-"Not"-RB-0|0/3|
+SAMN06842814-population|MMI|0.72|Negation|C1518422|[ftcn]|"Not"-text-0-"Not"-RB-0|0/3|
+SAMN06842812-biomaterial_provider|MMI|0.52|Institutes|C0021622|[orgt]|"institute"-text-0-"Institute"-NNP-0|8/9|
+SAMN06842812-biomaterial_provider|MMI|0.52|Institution (social concept)|C1272753|[idcn]|"Institute"-text-0-"Institute"-NNP-0|8/9|
+SAMN06842816-sex|MMI|1.64|Male Gender, Self Report|C1706180|[qlco]|"Male"-text-0-"male"-NN-0|0/4|x.x.x
+SAMN06842816-sex|MMI|1.64|Male Phenotype|C1706428|[qlco]|"Male"-text-0-"male"-NN-0|0/4|x.x.x
+SAMN06842816-sex|MMI|1.64|Male, Self-Reported|C1706429|[orga]|"Male"-text-0-"male"-NN-0|0/4|x.x.x
+SAMN06842816-sex|MMI|1.64|Males|C0086582|[orga]|"Male"-text-0-"male"-NN-0|0/4|x.x.x
+SAMEA104592359-human-associated environmental package|MMI|4.87|Homo sapiens|C0086418|[humn]|"Human"-text-0-"human"-JJ-0|0/5|B01.050.150.900.649.801.400.112.400.400
+SAMN06842813-biomaterial_provider|MMI|0.52|Institutes|C0021622|[orgt]|"institute"-text-0-"Institute"-NNP-0|8/9|
+SAMN06842813-biomaterial_provider|MMI|0.52|Institution (social concept)|C1272753|[idcn]|"Institute"-text-0-"Institute"-NNP-0|8/9|
+SAMN06842815-ethnicity|MMI|2.1|Asians|C0078988|[popg]|"Asian"-text-0-"Asian"-JJ-0|0/5|M01.686.508.200
+SAMN06842810-biomaterial_provider|MMI|0.52|Institutes|C0021622|[orgt]|"institute"-text-0-"Institute"-NNP-0|8/9|
+SAMN06842810-biomaterial_provider|MMI|0.52|Institution (social concept)|C1272753|[idcn]|"Institute"-text-0-"Institute"-NNP-0|8/9|
+SAMN06842815-sex|MMI|1.64|Male Gender, Self Report|C1706180|[qlco]|"Male"-text-0-"male"-NN-0|0/4|x.x.x
+SAMN06842815-sex|MMI|1.64|Male Phenotype|C1706428|[qlco]|"Male"-text-0-"male"-NN-0|0/4|x.x.x
+SAMN06842815-sex|MMI|1.64|Male, Self-Reported|C1706429|[orga]|"Male"-text-0-"male"-NN-0|0/4|x.x.x
+SAMN06842815-sex|MMI|1.64|Males|C0086582|[orga]|"Male"-text-0-"male"-NN-0|0/4|x.x.x
+SAMN06842815-cell_line|MMI|0.72|lymphoblastoid cell line|C0682526|[cell]|"lymphoblastoid cell line"-text-0-"Lymphoblastoid Cell Line"-NNP-0|0/24|
+SAMN06842811-karyotype|MMI|5.79|Aneuploidy|C0002938|[comd]|"Aneuploidy"-text-0-"aneuploidy"-NN-1|21/10|C23.550.210.050,G05.365.590.175.050,G05.700.131
+SAMN06842811-karyotype|MMI|0.52|Act Relationship Subset - previous|C1552607|[tmco]|"previous"-text-0-"previous"-JJ-0|3/8|
+SAMN06842811-karyotype|MMI|0.52|Previous|C0205156|[tmco]|"Previous"-text-0-"previous"-JJ-0|3/8|
+SAMN06842809-biomaterial_provider|MMI|0.52|Institutes|C0021622|[orgt]|"institute"-text-0-"Institute"-NNP-0|8/9|
+SAMN06842809-biomaterial_provider|MMI|0.52|Institution (social concept)|C1272753|[idcn]|"Institute"-text-0-"Institute"-NNP-0|8/9|
+SAMN06842813-sex|MMI|1.64|Male Gender, Self Report|C1706180|[qlco]|"Male"-text-0-"male"-NN-0|0/4|x.x.x
+SAMN06842813-sex|MMI|1.64|Male Phenotype|C1706428|[qlco]|"Male"-text-0-"male"-NN-0|0/4|x.x.x
+SAMN06842813-sex|MMI|1.64|Male, Self-Reported|C1706429|[orga]|"Male"-text-0-"male"-NN-0|0/4|x.x.x
+SAMN06842813-sex|MMI|1.64|Males|C0086582|[orga]|"Male"-text-0-"male"-NN-0|0/4|x.x.x
+SAMN06842816-biomaterial_provider|MMI|0.52|Institutes|C0021622|[orgt]|"institute"-text-0-"Institute"-NNP-0|8/9|
+SAMN06842816-biomaterial_provider|MMI|0.52|Institution (social concept)|C1272753|[idcn]|"Institute"-text-0-"Institute"-NNP-0|8/9|
+SAMN06842812-population|MMI|0.72|Peruvian|C1553375|[popg]|"Peruvian"-text-0-"Peruvian"-JJ-0|0/8|
+SAMN06842812-ethnicity|MMI|0.72|Peruvian|C1553375|[popg]|"Peruvian"-text-0-"Peruvian"-JJ-0|0/8|
+SAMN06842815-race|MMI|2.1|Asians|C0078988|[popg]|"Asian"-text-0-"Asian"-JJ-0|0/5|M01.686.508.200
+SAMN06842809-sex|MMI|1.64|Male Gender, Self Report|C1706180|[qlco]|"Male"-text-0-"male"-NN-0|0/4|x.x.x
+SAMN06842809-sex|MMI|1.64|Male Phenotype|C1706428|[qlco]|"Male"-text-0-"male"-NN-0|0/4|x.x.x
+SAMN06842809-sex|MMI|1.64|Male, Self-Reported|C1706429|[orga]|"Male"-text-0-"male"-NN-0|0/4|x.x.x
+SAMN06842809-sex|MMI|1.64|Males|C0086582|[orga]|"Male"-text-0-"male"-NN-0|0/4|x.x.x
+SAMN06842812-race|MMI|0.72|Peruvian|C1553375|[popg]|"Peruvian"-text-0-"Peruvian"-JJ-0|0/8|
+SAMN06842814-sex|MMI|1.64|Female Phenotype|C1705498|[qlco]|"Female"-text-0-"female"-NN-0|0/6|x.x.x
+SAMN06842814-sex|MMI|1.64|Female, Self-Report|C1705497|[qlco]|"Female"-text-0-"female"-NN-0|0/6|x.x.x
+SAMN06842814-sex|MMI|1.64|Females|C0086287|[orga]|"Female"-text-0-"female"-NN-0|0/6|x.x.x
+SAMN06842814-sex|MMI|1.64|Woman|C0043210|[popg]|"female"-text-0-"female"-NN-0|0/6|x.x.x
+SAMN06842809-ethnicity|MMI|0.72|Negation|C1518422|[ftcn]|"Not"-text-0-"Not"-RB-0|0/3|
+SAMEA104592359-project name|MMI|5.33|Carcinoma of lung|C0684249|[neop]|"LUNG CANCER"-text-2-"lung cancer"-NN-0|61/11|C04.588.894.797.520,C08.381.540,C08.785.520
+SAMEA104592359-project name|MMI|5.33|Malignant neoplasm of lung|C0242379|[neop]|"Lung Cancer"-text-2-"lung cancer"-NN-0|61/11|C04.588.894.797.520,C08.381.540,C08.785.520
+SAMEA104592359-project name|MMI|4.67|Homo sapiens|C0086418|[humn]|"Human"-text-0-"human"-JJ-0|4/5|B01.050.150.900.649.801.400.112.400.400
+SAMEA104592359-project name|MMI|2.1|Indicators|C0021212|[irda]|"Indicators"-text-0-"indicators"-NNS-0|47/10|D27.720.470.410
+SAMEA104592359-project name|MMI|1.18|Lung|C0024109|[bpoc]|"Lung"-text-0-"lung"-NN-0|10/4|A04.411
+SAMEA104592359-project name|MMI|1.18|Structure of parenchyma of lung|C0819757|[tisu]|"LUNG"-text-0-"lung"-NN-0|10/4|A04.411
+SAMEA104592359-project name|MMI|0.52|potential|C3245505|[qlco]|"potential"-text-0-"potential"-JJ-0|37/9|
+SAMN06842811-cell_line|MMI|0.72|lymphoblastoid cell line|C0682526|[cell]|"lymphoblastoid cell line"-text-0-"Lymphoblastoid Cell Line"-NNP-0|0/24|

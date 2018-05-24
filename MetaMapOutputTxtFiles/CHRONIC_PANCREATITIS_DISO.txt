@@ -1,0 +1,2 @@
+CHRONIC_PANCREATITIS.txt|MMI|14.64|Hereditary pancreatitis|C0238339|[dsyn]|["PANCREATITIS, CHRONIC"-tx-1-"CHRONIC PANCREATITIS"-noun-0]|TX|0/20|x.x.x.x
+CHRONIC_PANCREATITIS.txt|MMI|14.64|Pancreatitis, Chronic|C0149521|[dsyn]|["Chronic Pancreatitis"-tx-1-"CHRONIC PANCREATITIS"-noun-0]|TX|0/20|C06.689.750.830

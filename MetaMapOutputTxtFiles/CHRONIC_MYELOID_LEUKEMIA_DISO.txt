@@ -1,0 +1,1 @@
+CHRONIC_MYELOID_LEUKEMIA.txt|MMI|17.80|Myeloid Leukemia, Chronic|C0023473|[neop]|["Chronic myeloid leukaemia"-tx-1-"CHRONIC MYELOID LEUKEMIA"-noun-0]|TX|0/24|C04.557.337.539.250;C15.378.190.636.370

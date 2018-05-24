@@ -1,0 +1,3 @@
+MALARIA.txt|MMI|11.49|Malaria|C0024530|[dsyn]|["MALARIA"-tx-1-"MALARIA"-noun-0]|TX|0/7|C03.752.530
+MALARIA.txt|MMI|5.18|Malaria Pathway|C2984572|[ftcn]|["Malaria"-tx-1-"MALARIA"-noun-0]|TX|0/7|
+MALARIA.txt|MMI|5.18|Plasmodium Measurement|C3541306|[lbpr]|["Malaria"-tx-1-"MALARIA"-noun-0]|TX|0/7|

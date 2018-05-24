@@ -1,0 +1,4 @@
+SEVERE_ACUTE_PANCREATITIS.txt|MMI|3.75|Acute pancreatitis|C0001339|[dsyn]|["Acute Pancreatitis"-tx-1-"ACUTE PANCREATITIS"-noun-0]|TX|7/18|
+SEVERE_ACUTE_PANCREATITIS.txt|MMI|3.63|Borg Category-Ratio 10 Perceived Exertion Score 5|C4050466|[inpr]|["Severe"-tx-1-"SEVERE"-noun-0]|TX|0/6|
+SEVERE_ACUTE_PANCREATITIS.txt|MMI|3.63|Severe (severity modifier)|C0205082|[qlco]|["SEVERE"-tx-1-"SEVERE"-noun-0]|TX|0/6|
+SEVERE_ACUTE_PANCREATITIS.txt|MMI|3.63|Severe Extremity Pain|C4050465|[inpr]|["Severe"-tx-1-"SEVERE"-noun-0]|TX|0/6|

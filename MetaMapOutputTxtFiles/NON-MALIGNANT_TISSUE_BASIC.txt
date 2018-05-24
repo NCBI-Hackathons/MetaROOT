@@ -1,0 +1,3 @@
+NON-MALIGNANT_TISSUE.txt|MMI|3.63|Body tissue|C0040300|[tisu]|["TISSUE"-tx-1-"TISSUE"-noun-0]|TX|14/6|A10
+NON-MALIGNANT_TISSUE.txt|MMI|3.63|Tissue Specimen Code|C1547928|[inpr]|["Tissue"-tx-1-"TISSUE"-noun-0]|TX|14/6|
+NON-MALIGNANT_TISSUE.txt|MMI|3.53|Non-Malignant|C1518371|[qlco]|["Non-Malignant"-tx-1-"NON-MALIGNANT"-adj-0]|TX|0/13|

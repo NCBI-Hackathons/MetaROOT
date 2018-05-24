@@ -1,0 +1,2 @@
+COLON_CARCINOMA,_SPORADIC.txt|MMI|3.75|Colon Carcinoma|C0699790|[neop]|["COLON CARCINOMA"-tx-1-"COLON CARCINOMA"-noun-0]|TX|0/15|
+COLON_CARCINOMA,_SPORADIC.txt|MMI|3.48|Isolated cases|C1853237|[fndg]|["Sporadic"-tx-1-"SPORADIC"-adj-0]|TX|17/8|

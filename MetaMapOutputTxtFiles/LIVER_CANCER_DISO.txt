@@ -1,0 +1,2 @@
+LIVER_CANCER.txt|MMI|5.18|Liver and Intrahepatic Biliary Tract Carcinoma|C0279000|[neop]|["Liver Cancer"-tx-1-"LIVER CANCER"-noun-0]|TX|0/12|
+LIVER_CANCER.txt|MMI|5.18|Malignant neoplasm of liver|C0345904|[neop]|["Cancer, Liver"-tx-1-"LIVER CANCER"-noun-0]|TX|0/12|

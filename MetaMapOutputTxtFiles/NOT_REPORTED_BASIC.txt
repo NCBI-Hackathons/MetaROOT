@@ -1,0 +1,3 @@
+NOT_REPORTED.txt|MMI|3.68|Negation|C1518422|[ftcn]|["Not"-tx-1-"NOT"-adv-0]|TX|0/3|
+NOT_REPORTED.txt|MMI|3.68|Report (document)|C0684224|[inpr]|["Reported"-tx-1-"REPORTED"-verb-0]|TX|4/8|
+NOT_REPORTED.txt|MMI|3.68|Reporting|C0700287|[hlca]|["Reported"-tx-1-"REPORTED"-verb-0]|TX|4/8|

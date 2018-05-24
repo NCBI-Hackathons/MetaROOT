@@ -1,0 +1,1 @@
+NON-DISEASED.txt|MMI|3.68|Negation|C1518422|[ftcn]|["Non"-tx-1-"NON"-adj-0]|TX|0/3|

@@ -1,0 +1,4 @@
+NA.txt|MMI|5.18|No Application Type|C1546968|[idcn]|["NA"-tx-1-"NA"-noun-0]|TX|0/2|
+NA.txt|MMI|5.18|Not Applicable|C1272460|[qlco]|["{NA}"-tx-1-"NA"-noun-0]|TX|0/2|
+NA.txt|MMI|5.18|Package Type Not Applicable|C4049872|[ftcn]|["NA"-tx-1-"NA"-noun-0]|TX|0/2|
+NA.txt|MMI|5.18|Sodium Cation|C0597484|[elii]|["Na+"-tx-1-"NA"-noun-0]|TX|0/2|

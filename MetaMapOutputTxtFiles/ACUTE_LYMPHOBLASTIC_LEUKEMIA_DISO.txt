@@ -1,0 +1,2 @@
+ACUTE_LYMPHOBLASTIC_LEUKEMIA.txt|MMI|17.80|Precursor Cell Lymphoblastic Leukemia Lymphoma|C1961102|[neop]|["Acute Lymphoblastic Leukemia"-tx-1-"ACUTE LYMPHOBLASTIC LEUKEMIA"-noun-0]|TX|0/28|C04.557.337.428.600;C15.604.515.560.600;C20.683.515.528.600
+ACUTE_LYMPHOBLASTIC_LEUKEMIA.txt|MMI|5.18|Acute lymphocytic leukemia|C0023449|[neop]|["Acute lymphoblastic leukaemia"-tx-1-"ACUTE LYMPHOBLASTIC LEUKEMIA"-noun-0]|TX|0/28|

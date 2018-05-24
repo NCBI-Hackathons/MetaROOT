@@ -1,0 +1,1 @@
+UNAFFECTED.txt|MMI|5.18|Unaffected|C2986417|[cnce]|["Unaffected"-tx-1-"UNAFFECTED"-adj-0]|TX|0/10|

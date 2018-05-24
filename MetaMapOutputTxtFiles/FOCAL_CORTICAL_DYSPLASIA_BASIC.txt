@@ -1,0 +1,1 @@
+FOCAL_CORTICAL_DYSPLASIA.txt|MMI|5.18|Focal cortical dysplasia|C2938983|[cgab,dsyn]|["Focal cortical dysplasia"-tx-1-"FOCAL CORTICAL DYSPLASIA"-noun-0]|TX|0/24|

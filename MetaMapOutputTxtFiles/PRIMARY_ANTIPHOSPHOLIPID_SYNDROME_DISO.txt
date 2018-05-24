@@ -1,0 +1,1 @@
+PRIMARY_ANTIPHOSPHOLIPID_SYNDROME.txt|MMI|5.18|Primary antiphospholipid syndrome|C0409980|[dsyn]|["Primary antiphospholipid syndrome"-tx-1-"PRIMARY ANTIPHOSPHOLIPID SYNDROME"-noun-0]|TX|0/33|

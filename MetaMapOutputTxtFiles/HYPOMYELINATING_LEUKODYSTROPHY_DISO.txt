@@ -1,0 +1,1 @@
+HYPOMYELINATING_LEUKODYSTROPHY.txt|MMI|5.18|Leukodystrophy, hypomyelinating|C2677112|[fndg]|["Leukodystrophy, hypomyelinating"-tx-1-"HYPOMYELINATING LEUKODYSTROPHY"-noun-0]|TX|0/30|

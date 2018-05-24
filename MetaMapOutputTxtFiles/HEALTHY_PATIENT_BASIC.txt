@@ -1,0 +1,5 @@
+HEALTHY_PATIENT.txt|MMI|6.83|Patients|C0030705|[podg]|["*^patient"-tx-1-"PATIENT"-noun-0]|TX|8/7|M01.643
+HEALTHY_PATIENT.txt|MMI|3.68|Abortion consent:Finding:Point in time:^Patient:Document|C2360836|[clna]|["Patient"-tx-1-"PATIENT"-noun-0]|TX|8/7|
+HEALTHY_PATIENT.txt|MMI|3.68|Hysterectomy consent:Finding:Point in time:^Patient:Document|C2360838|[clna]|["Patient"-tx-1-"PATIENT"-noun-0]|TX|8/7|
+HEALTHY_PATIENT.txt|MMI|3.68|Sterilization consent:Finding:Point in time:^Patient:Document|C2360840|[clna]|["Patient"-tx-1-"PATIENT"-noun-0]|TX|8/7|
+HEALTHY_PATIENT.txt|MMI|3.50|Healthy|C3898900|[qlco]|["Healthy"-tx-1-"HEALTHY"-adj-0]|TX|0/7|

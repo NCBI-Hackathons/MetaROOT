@@ -1,0 +1,1 @@
+OTHER_FEBRILE_ILLNESS.txt|MMI|3.75|Disorder characterized by fever|C0743841|[dsyn]|["Febrile illness"-tx-1-"FEBRILE ILLNESS"-noun-0]|TX|6/15|

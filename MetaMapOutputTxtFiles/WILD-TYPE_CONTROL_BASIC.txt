@@ -1,0 +1,6 @@
+WILD-TYPE_CONTROL.txt|MMI|3.63|Control function|C2587213|[ftcn]|["Control"-tx-1-"CONTROL"-noun-0]|TX|10/7|
+WILD-TYPE_CONTROL.txt|MMI|3.63|Scientific Control|C1882979|[cnce]|["Control"-tx-1-"CONTROL"-noun-0]|TX|10/7|
+WILD-TYPE_CONTROL.txt|MMI|3.63|True Control Status|C3274648|[qlco]|["Control"-tx-1-"CONTROL"-noun-0]|TX|10/7|
+WILD-TYPE_CONTROL.txt|MMI|3.63|control aspects|C0243148|[qlco]|["control"-tx-1-"CONTROL"-noun-0]|TX|10/7|
+WILD-TYPE_CONTROL.txt|MMI|3.63|control substance|C1550141|[sbst]|["Control"-tx-1-"CONTROL"-noun-0]|TX|10/7|
+WILD-TYPE_CONTROL.txt|MMI|3.53|Wild Type|C1883559|[gngm]|["Wildtype"-tx-1-"WILD-TYPE"-adj-0]|TX|0/9|

@@ -1,0 +1,1 @@
+NON-NEOPLASTIC.txt|MMI|5.18|Non-Neoplastic Disorder|C1709246|[dsyn]|["NON-NEOPLASTIC"-tx-1-"NON-NEOPLASTIC"-adj-0]|TX|0/14|

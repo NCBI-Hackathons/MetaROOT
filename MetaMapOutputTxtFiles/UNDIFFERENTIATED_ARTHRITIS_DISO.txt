@@ -1,0 +1,1 @@
+UNDIFFERENTIATED_ARTHRITIS.txt|MMI|5.18|Undifferentiated inflammatory arthritis|C1562028|[dsyn]|["Undifferentiated Arthritis"-tx-1-"UNDIFFERENTIATED ARTHRITIS"-noun-0]|TX|0/26|

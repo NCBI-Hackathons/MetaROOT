@@ -1,0 +1,1 @@
+ENDOMETRIOID_ENDOMETRIAL_CANCER.txt|MMI|5.18|Endometrial Endometrioid Adenocarcinoma|C1336905|[neop]|["Endometrioid Endometrial Cancer"-tx-1-"ENDOMETRIOID ENDOMETRIAL CANCER"-noun-0]|TX|0/31|

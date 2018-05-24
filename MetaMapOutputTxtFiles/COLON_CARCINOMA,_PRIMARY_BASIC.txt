@@ -1,0 +1,8 @@
+COLON_CARCINOMA,_PRIMARY.txt|MMI|16.09|Colon structure (body structure)|C0009368|[bpoc]|["COLON"-tx-1-"COLON"-noun-0]|TX|0/5|A03.556.124.526.356;A03.556.249.249.356
+COLON_CARCINOMA,_PRIMARY.txt|MMI|3.78|Primary Carcinoma|C1335475|[neop]|["Primary Carcinoma"-tx-1-"CARCINOMA PRIMARY"-noun-0]|TX|6/9,17/7|
+COLON_CARCINOMA,_PRIMARY.txt|MMI|3.75|Colon Carcinoma|C0699790|[neop]|["COLON CARCINOMA"-tx-1-"COLON CARCINOMA"-noun-0]|TX|0/15|
+COLON_CARCINOMA,_PRIMARY.txt|MMI|3.48|Colon <insect>|C3888384|[euka]|["Colon"-tx-1-"COLON"-noun-0]|TX|0/5|
+COLON_CARCINOMA,_PRIMARY.txt|MMI|3.48|Entire colon|C1281569|[bpoc]|["Colon"-tx-1-"COLON"-noun-0]|TX|0/5|
+COLON_CARCINOMA,_PRIMARY.txt|MMI|3.48|Primary|C0205225|[qlco]|["Primary"-tx-1-"PRIMARY"-adj-0]|TX|17/7|
+COLON_CARCINOMA,_PRIMARY.txt|MMI|3.48|Primary operation|C0439631|[topp]|["Primary"-tx-1-"PRIMARY"-adj-0]|TX|17/7|
+COLON_CARCINOMA,_PRIMARY.txt|MMI|3.48|True primary (qualifier value)|C0439612|[tmco]|["Primary"-tx-1-"PRIMARY"-adj-0]|TX|17/7|

@@ -1,0 +1,3 @@
+MISSING.txt|MMI|5.18|Container status - Missing|C1551393|[fndg]|["Missing"-tx-1-"MISSING"-noun-0]|TX|0/7|
+MISSING.txt|MMI|5.18|Missing|C1705492|[qlco]|["Missing"-tx-1-"MISSING"-noun-0]|TX|0/7|
+MISSING.txt|MMI|5.18|Missing Study Animal|C3272743|[qlco]|["MISSING"-tx-1-"MISSING"-noun-0]|TX|0/7|

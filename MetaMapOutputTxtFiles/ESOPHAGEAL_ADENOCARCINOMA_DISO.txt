@@ -1,0 +1,1 @@
+ESOPHAGEAL_ADENOCARCINOMA.txt|MMI|14.64|Adenocarcinoma Of Esophagus|C0279628|[neop]|["Oesophageal Adenocarcinoma NOS"-tx-1-"ESOPHAGEAL ADENOCARCINOMA"-noun-0]|TX|0/25|x.x.x.x

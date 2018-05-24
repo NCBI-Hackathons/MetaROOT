@@ -1,0 +1,1 @@
+RRMS.txt|MMI|3.98|RNA Recognition Motif|C1522002|[aapp,bacs]|["RRM"-tx-1-"RRMS"-noun-0]|TX|0/4|

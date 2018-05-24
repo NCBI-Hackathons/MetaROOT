@@ -1,0 +1,2 @@
+PARATYPHI_INFECTION.txt|MMI|9.99|Communicable Diseases|C0009450|[dsyn]|["Infection, NOS"-tx-1-"INFECTION"-noun-0]|TX|10/9|C01.539.221
+PARATYPHI_INFECTION.txt|MMI|6.83|Infection|C3714514|[patf]|["INFECTION"-tx-1-"INFECTION"-noun-0]|TX|10/9|C01.539

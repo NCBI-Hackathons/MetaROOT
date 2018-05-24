@@ -1,0 +1,1 @@
+SECONDARY_ACUTE_MYELOID_LEUKAEMIA.txt|MMI|5.18|secondary acute myeloid leukemia|C0280449|[neop]|["secondary acute Myeloid leukaemia"-tx-1-"SECONDARY ACUTE MYELOID LEUKAEMIA"-noun-0]|TX|0/33|

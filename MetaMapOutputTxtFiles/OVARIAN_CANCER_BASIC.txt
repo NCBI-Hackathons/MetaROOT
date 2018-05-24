@@ -1,0 +1,2 @@
+OVARIAN_CANCER.txt|MMI|5.18|Malignant neoplasm of ovary|C1140680|[neop]|["OVARIAN CANCER"-tx-1-"OVARIAN CANCER"-noun-0]|TX|0/14|
+OVARIAN_CANCER.txt|MMI|5.18|Ovarian Carcinoma|C0029925|[neop]|["ovarian cancer"-tx-1-"OVARIAN CANCER"-noun-0]|TX|0/14|

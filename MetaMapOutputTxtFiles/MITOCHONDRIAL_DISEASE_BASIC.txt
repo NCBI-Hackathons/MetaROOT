@@ -1,0 +1,1 @@
+MITOCHONDRIAL_DISEASE.txt|MMI|11.49|Mitochondrial Diseases|C0751651|[dsyn]|["Disease, Mitochondrial"-tx-1-"MITOCHONDRIAL DISEASE"-noun-0]|TX|0/21|C18.452.660

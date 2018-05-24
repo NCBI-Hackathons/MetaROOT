@@ -1,0 +1,229 @@
+AMYOTROPHIC LATERAL SCLEROSIS AND/OR FRONTOTEMPORAL DEMENTIA 1	C1862937	[dsyn]		FTDALS1	FTDALS1
+Acute Promyelocytic Leukemia	C0023487	[neop]		Acute Promyelocytic Leukemia	ACUTE PROMYELOCYTIC LEUKEMIA
+Acute lymphocytic leukemia	C0023449	[neop]		Acute lymphoblastic leukemia	ACUTE LYMPHOBLASTIC LEUKEMIA
+Acute lymphocytic leukemia	C0023449	[neop]		acute lymphoblastic leukaemia	ACUTE LYMPHOBLASTIC LEUKAEMIA
+Acute monocytic leukemia	C0023465	[neop]		Acute monocytic leukemia	ACUTE MONOCYTIC LEUKEMIA
+Acute myelomonocytic leukemia	C0023479	[neop]		Acute myelomonocytic leukemia	ACUTE MYELOMONOCYTIC LEUKEMIA
+Acute pancreatitis	C0001339	[dsyn]		Acute pancreatitis	ACUTE PANCREATITIS
+Adenocarcinoma	C0001418	[neop]		Adenocarcinoma	ADENOCARCINOMA
+Adenocarcinoma Of Esophagus	C0279628	[neop]		esophageal adenocarcinoma	ESOPHAGEAL ADENOCARCINOMA
+Adenocarcinoma of lung (disorder)	C0152013	[neop]		lung adenocarcinoma	LUNG ADENOCARCINOMA
+Adenocarcinoma of the large intestine	C1319315	[neop]		colorectal adenocarcinoma	COLORECTAL ADENOCARCINOMA
+Adenoma	C0001430	[neop]		Adenoma	ADENOMA
+Alveolar rhabdomyosarcoma	C0206655	[neop]		ARMS	ARMS
+Anemia, Hemolytic	C0002878	[dsyn]		Hemolytic anemia	HEMOLYTIC ANEMIA
+Angina, Unstable	C0002965	[dsyn]		UNSTABLE ANGINA PECTORIS	UNSTABLE ANGINA PECTORIS
+Antiphospholipid Syndrome	C0085278	[dsyn]		Antiphospholipid Syndrome	ANTIPHOSPHOLIPID SYNDROME
+Appendicitis	C0003615	[dsyn]		Appendicitis	APPENDICITIS
+Arteriosclerosis	C0003850	[dsyn]		ATHEROSCLEROSIS	ATHEROSCLEROSIS
+Arthralgia	C0003862	[sosy]		Arthralgia	ARTHRALGIA
+Astrocytoma	C0004114	[neop]		Astrocytoma	ASTROCYTOMA
+Atherosclerosis	C0004153	[dsyn]		Atherosclerosis	ATHEROSCLEROSIS
+Attention deficit hyperactivity disorder	C1263846	[mobd]		ADHD	ADHD
+Autism Spectrum Disorders	C1510586	[mobd]		Autism Spectrum Disorder	AUTISM SPECTRUM DISORDER
+B-Cell Lymphomas	C0079731	[neop]		B cell lymphoma	B CELL LYMPHOMA
+Benign melanocytic nevus	C1456781	[neop]		nevus	NEVUS
+Bladder Neoplasm	C0005695	[neop]		Bladder cancer	BLADDER CANCER
+Blepharospasm	C0005747	[dsyn]		Blepharospasm	BLEPHAROSPASM
+Bloom Syndrome	C0005859	[dsyn]		Bloom Syndrome	BLOOM SYNDROME
+Brain Astrocytoma	C3695127	[neop]		Brain Astrocytoma	BRAIN ASTROCYTOMA
+Breast Carcinoma	C0678222	[neop]		Breast Carcinoma	BREAST CARCINOMA
+Breast Carcinoma	C0678222	[neop]		Breast cancer	BREAST CANCER
+Bulbo-Spinal Atrophy, X-Linked	C1839259	[dsyn]		SBMA	SBMA
+Burkitt Lymphoma	C0006413	[neop]		Burkitt Lymphoma	BURKITT LYMPHOMA
+Burkitt Lymphoma	C0006413	[neop]		b-all	B-ALL
+CHROMOSOME Xq26.3 DUPLICATION SYNDROME	C3891556	[dsyn]		XLAG	XLAG
+Cancer Pain	C0596240	[sosy]		Cancer Pain	CANCER PAIN
+Carcinoma	C0007097	[neop]		Carcinoma	CARCINOMA
+Carcinoma of bladder	C0699885	[neop]		Bladder Cancer	BLADDER CANCER
+Carcinoma of lung	C0684249	[neop]		LUNG CANCER	LUNG CANCER
+Cardiac Death	C0376297	[patf]		Cardiac Death	CARDIAC DEATH
+Cardiomyopathies	C0878544	[dsyn]		Cardiomyopathy	CARDIOMYOPATHY
+Celiac Disease	C0007570	[dsyn]		Celiac Disease	CELIAC DISEASE
+Central Diabetes Insipidus	C0687720	[dsyn]		CDI	CDI
+Central neuroblastoma	C0700095	[neop]		neuroblastoma	NEUROBLASTOMA
+Cerebral Hemorrhage, Hypertensive	C0751892	[patf]		Hypertensive Cerebral Hemorrhage	HYPERTENSIVE CEREBRAL HEMORRHAGE
+Cerebrovascular accident	C0038454	[dsyn]		Stroke	STROKE
+Cervical Adenocarcinoma	C0279672	[neop]		Cervical Adenocarcinoma	CERVICAL ADENOCARCINOMA
+Cervix carcinoma	C0302592	[neop]		Cervical Cancer	CERVICAL CANCER
+Cholangiocarcinoma	C0206698	[neop]		Cholangiocarcinoma	CHOLANGIOCARCINOMA
+Chondrosarcoma	C0008479	[neop]		Chondrosarcoma	CHONDROSARCOMA
+Chromosome Aberrations	C0008625	[comd]		Cytogenetic Abnormalities	CYTOGENETIC ABNORMALITIES
+Chromosome inversion	C0021943	[comd]		inv	INV
+Chronic Lymphocytic Leukemia	C0023434	[neop]		CLL	CLL
+Chronic Lymphocytic Leukemia	C0023434	[neop]		Chronic Lymphocytic Leukemia	CHRONIC LYMPHOCYTIC LEUKEMIA
+Cirrhosis	C1623038	[dsyn]		Cirrhosis	CIRRHOSIS
+Colon Carcinoma	C0699790	[neop]		COLON CANCER	COLON CANCER
+Colon Carcinoma	C0699790	[neop]		Colon Carcinoma	COLON CARCINOMA
+Colorectal Cancer	C1527249	[neop]		Colorectal Cancer	COLORECTAL CANCER
+Colorectal Carcinoma	C0009402	[neop]		Colorectal Cancer	COLORECTAL CANCER
+Colorectal Carcinoma	C0009402	[neop]		Colorectal Carcinoma	COLORECTAL CARCINOMA
+Communicable Diseases	C0009450	[dsyn]		Infectious Disease	INFECTIOUS DISEASE
+Congenital chromosomal disease	C0008626	[cgab, dsyn]		Cytogenetic Abnormalities	CYTOGENETIC ABNORMALITIES
+Congestive heart failure	C0018802	[dsyn]		Heart failure	HEART FAILURE
+Craniocerebral Trauma	C0018674	[inpo]		HEAD TRAUMA	HEAD TRAUMA
+Craniopharyngioma	C0010276	[neop]		Craniopharyngioma	CRANIOPHARYNGIOMA
+Cryptorchidism	C0010417	[cgab]		Cryptorchidism	CRYPTORCHIDISM
+Cystic Fibrosis	C0010674	[dsyn]		Cystic Fibrosis	CYSTIC FIBROSIS
+Deficiency of mevalonate kinase	C0342731	[dsyn]		HIDS	HIDS
+Degenerative polyarthritis	C0029408	[dsyn]		Osteoarthritis	OSTEOARTHRITIS
+Dermatitis, Atopic	C0011615	[dsyn]		ATOPIC DERMATITIS	ATOPIC DERMATITIS
+Diabetes	C0011847	[dsyn]		Diabetes	DIABETES
+Diabetes Mellitus	C0011849	[dsyn]		diabetes	DIABETES
+Diffuse Large B-Cell Lymphoma	C0079744	[neop]		DLBCL	DLBCL
+Disease	C0012634	[dsyn]		Disease	DISEASE
+Eczema	C0013595	[dsyn]		Atopic Dermatitis	ATOPIC DERMATITIS
+Embryonal Carcinoma	C0206659	[neop]		Embryonal Carcinoma	EMBRYONAL CARCINOMA
+Endometrial Carcinoma	C0476089	[neop]		Endometrial Cancer	ENDOMETRIAL CANCER
+Endometrial Carcinoma	C0476089	[neop]		Endometrial Carcinoma	ENDOMETRIAL CARCINOMA
+Endometrial Endometrioid Adenocarcinoma	C1336905	[neop]		Endometrioid Endometrial Cancer	ENDOMETRIOID ENDOMETRIAL CANCER
+Endometrial adenocarcinoma	C1153706	[neop]		Endometrial adenocarcinoma	ENDOMETRIAL ADENOCARCINOMA
+Eosinophilia	C0014457	[dsyn]		Eosinophilia	EOSINOPHILIA
+Eosinophilic disorder	C1306759	[dsyn]		Eosinophilia	EOSINOPHILIA
+Epilepsy	C0014544	[dsyn]		Epilepsy	EPILEPSY
+Esophageal Neoplasms	C0014859	[neop]		esophageal cancer	ESOPHAGEAL CANCER
+Esophageal carcinoma	C0152018	[neop]		ESOPHAGEAL CANCER	ESOPHAGEAL CANCER
+FRIEDREICH ATAXIA 1	C1856689	[dsyn]		FRDA	FRDA
+Febrile illness	C0743841	[dsyn]		Febrile illness	FEBRILE ILLNESS
+Fever	C0015967	[sosy]		Fever	FEVER
+Fibrosis	C0016059	[patf]		Fibrosis	FIBROSIS
+Focal cortical dysplasia	C2938983	[cgab]		Focal cortical dysplasia	FOCAL CORTICAL DYSPLASIA
+Frontotemporal dementia	C0338451	[dsyn]		FTD	FTD
+Gastrointestinal Stromal Tumors	C0238198	[neop]		GIST	GIST
+Gestational Diabetes	C0085207	[dsyn]		gestational diabetes mellitus	GESTATIONAL DIABETES MELLITUS
+Glioblastoma	C0017636	[neop]		Glioblastoma	GLIOBLASTOMA
+Glioblastoma	C0017636	[neop]		Glioblastoma multiforme	GLIOBLASTOMA MULTIFORME
+Glioblastoma Multiforme	C1621958	[neop]		Glioblastoma Multiforme	GLIOBLASTOMA MULTIFORME
+Glioma	C0017638	[neop]		Glioma	GLIOMA
+Hallopeau-Siemens Disease	C0079474	[dsyn]		RDEB	RDEB
+Heart Diseases	C0018799	[dsyn]		Cardiac Diseases	CARDIAC DISEASES
+Heart failure	C0018801	[dsyn]		Heart failure	HEART FAILURE
+Hemorrhagic Fevers, Viral	C0019104	[dsyn]		hemorrhagic fever	HEMORRHAGIC FEVER
+Hepatitis	C0019158	[dsyn]		Hepatitis	HEPATITIS
+Hepatitis A	C0019159	[dsyn]		hepatitis	HEPATITIS
+Hepatitis C Virus Infection	C4288963	[dsyn]		HCV Infection	HCV INFECTION
+Hepatitis, Autoimmune	C0241910	[dsyn]		Autoimmune hepatitis	AUTOIMMUNE HEPATITIS
+Hyperactive behavior	C0424295	[mobd]		HYPER	HYPER
+Hyperimmunoglobulinemia D	C0398691	[dsyn]		HIDS	HIDS
+Hyperlipidemia	C0020473	[dsyn]		Hyperlipidemia	HYPERLIPIDEMIA
+Immunologic Deficiency Syndromes	C0021051	[dsyn]		Immune deficiency	IMMUNE DEFICIENCY
+Infection	C3714514	[patf]		Infection	INFECTION
+Inflammatory Bowel Diseases	C0021390	[dsyn]		Inflammatory bowel disease	INFLAMMATORY BOWEL DISEASE
+Influenza	C0021400	[dsyn]		Influenza	INFLUENZA
+Intellectual Disability	C3714756	[mobd]		Intellectual Disability	INTELLECTUAL DISABILITY
+Intestinal Volvulus	C0042961	[dsyn]		Volvulus	VOLVULUS
+Juvenile Myelomonocytic Leukemia	C0349639	[neop]		Juvenile Myelomonocytic Leukemia	JUVENILE MYELOMONOCYTIC LEUKEMIA
+Large cell lung carcinoma	C0345958	[neop]		large cell lung cancer	LARGE CELL LUNG CANCER
+Leishmaniasis, Visceral	C0023290	[dsyn]		Visceral leishmaniasis	VISCERAL LEISHMANIASIS
+Leukemia, Myelocytic, Acute	C0023467	[neop]		AML	AML
+Leukemia, Myelocytic, Acute	C0023467	[neop]		Acute myelogenous leukemia	ACUTE MYELOGENOUS LEUKEMIA
+Leukemia, Myelocytic, Acute	C0023467	[neop]		Acute myeloid leukemia	ACUTE MYELOID LEUKEMIA
+Leukemia, Myelocytic, Acute	C0023467	[neop]		acute myeloid leukaemia	ACUTE MYELOID LEUKAEMIA
+Lissencephaly, X-Linked, 2	C1846171	[dsyn]		XLAG	XLAG
+Liver Cirrhosis	C0023890	[dsyn]		Cirrhosis	CIRRHOSIS
+Liver and Intrahepatic Biliary Tract Carcinoma	C0279000	[neop]		Liver Cancer	LIVER CANCER
+Liver carcinoma	C2239176	[neop]		HCC	HCC
+Liver carcinoma	C2239176	[neop]		HEPATOCELLULAR CARCINOMA	HEPATOCELLULAR CARCINOMA
+Lung Sarcomatoid Carcinoma	C1708781	[neop]		Lung Sarcomatoid Carcinoma	LUNG SARCOMATOID CARCINOMA
+Lymphoma	C0024299	[neop]		Lymphoma	LYMPHOMA
+Lymphoma, Follicular	C0024301	[neop]		follicular lymphoma	FOLLICULAR LYMPHOMA
+Lymphoma, T-Cell, Cutaneous	C0079773	[neop]		CTCL	CTCL
+Lymphoproliferative Disorders	C0024314	[neop]		Lymphoproliferative Disorder	LYMPHOPROLIFERATIVE DISORDER
+M5b Acute differentiated monocytic leukemia	C1318544	[neop]		Acute Monocytic Leukemia	ACUTE MONOCYTIC LEUKEMIA
+MYELODYSPLASTIC SYNDROME	C3463824	[neop]		Myelodysplastic Syndromes	MYELODYSPLASTIC SYNDROMES
+MYOTONIC DYSTROPHY 1	C3250443	[dsyn]		DM1	DM1
+Machado-Joseph Disease	C0024408	[dsyn]		SCA3	SCA3
+Malaria	C0024530	[dsyn]		Malaria	MALARIA
+Malignant Neoplasms	C0006826	[neop]		Cancer	CANCER
+Malignant myoepithelioma	C0334699	[neop]		myoepithelial carcinoma	MYOEPITHELIAL CARCINOMA
+Malignant neoplasm of breast	C0006142	[neop]		Breast Cancer	BREAST CANCER
+Malignant neoplasm of endometrium	C0007103	[neop]		Endometrial cancer	ENDOMETRIAL CANCER
+Malignant neoplasm of esophagus	C0546837	[neop]		Esophageal Cancer	ESOPHAGEAL CANCER
+Malignant neoplasm of liver	C0345904	[neop]		Liver cancer	LIVER CANCER
+Malignant neoplasm of lung	C0242379	[neop]		Lung Cancer	LUNG CANCER
+Malignant neoplasm of ovary	C1140680	[neop]		Ovarian Cancer	OVARIAN CANCER
+Malignant neoplasm of pancreas	C0346647	[neop]		Pancreatic Cancer	PANCREATIC CANCER
+Malignant neoplasm of prostate	C0376358	[neop]		Prostate Cancer	PROSTATE CANCER
+Malignant neoplasm of urinary bladder	C0005684	[neop]		bladder cancer	BLADDER CANCER
+Malignant tumor of colon	C0007102	[neop]		colon cancer	COLON CANCER
+Mammary Ductal Carcinoma	C0021367	[neop]		breast ductal carcinoma	BREAST DUCTAL CARCINOMA
+Medulloblastoma	C0025149	[neop]		Medulloblastoma	MEDULLOBLASTOMA
+Melanocytic nevus	C0027962	[neop]		Nevus	NEVUS
+Merkel cell carcinoma	C0007129	[neop]		Merkel cell carcinoma	MERKEL CELL CARCINOMA
+Mesothelioma	C0025500	[neop]		Mesothelioma	MESOTHELIOMA
+Metastatic melanoma	C0278883	[neop]		Metastatic melanoma	METASTATIC MELANOMA
+Mitochondrial Diseases	C0751651	[dsyn]		mitochondrial disease	MITOCHONDRIAL DISEASE
+Monocytoid B-cell lymphoma	C0855139	[neop]		Nodal Marginal Zone Lymphoma	NODAL MARGINAL ZONE LYMPHOMA
+Mucosa-Associated Lymphoid Tissue Lymphoma	C0242647	[neop]		nodal marginal zone lymphoma	NODAL MARGINAL ZONE LYMPHOMA
+Multiple Myeloma	C0026764	[neop]		Multiple Myeloma	MULTIPLE MYELOMA
+Multiple Organ Failure	C0026766	[patf]		Multiple Organ Failure	MULTIPLE ORGAN FAILURE
+Multiple Sclerosis	C0026769	[dsyn]		Multiple Sclerosis	MULTIPLE SCLEROSIS
+Myasthenia Gravis	C0026896	[dsyn]		Myasthenia Gravis	MYASTHENIA GRAVIS
+Myeloid Leukemia, Chronic	C0023473	[neop]		Chronic myelogenous leukemia	CHRONIC MYELOGENOUS LEUKEMIA
+Myeloid Leukemia, Chronic	C0023473	[neop]		Chronic myeloid leukemia	CHRONIC MYELOID LEUKEMIA
+Myelomonocytic leukemia	C0027019	[neop]		Myelomonocytic leukemia	MYELOMONOCYTIC LEUKEMIA
+Nasopharyngeal carcinoma	C2931822	[neop]		Nasopharyngeal carcinoma	NASOPHARYNGEAL CARCINOMA
+Nephrotic Syndrome	C0027726	[dsyn]		Nephrotic Syndrome	NEPHROTIC SYNDROME
+Neuroblastoma	C0027819	[neop]		Neuroblastoma	NEUROBLASTOMA
+Nevus	C0027960	[neop]		Nevus	NEVUS
+Non-Small Cell Lung Carcinoma	C0007131	[neop]		NSCLC	NSCLC
+Nonpenetrating Wounds	C0043253	[inpo]		Blunt force Trauma	BLUNT FORCE TRAUMA
+Osteosarcoma	C0029463	[neop]		Osteosarcoma	OSTEOSARCOMA
+Osteosarcoma of bone	C0585442	[neop]		osteosarcoma	OSTEOSARCOMA
+Ovarian Carcinoma	C0029925	[neop]		ovarian cancer	OVARIAN CANCER
+Ovarian Serous Adenocarcinoma	C1335177	[neop]		Serous Ovarian adenocarcinoma	SEROUS OVARIAN ADENOCARCINOMA
+Ovarian Serous Adenocarcinoma	C1335177	[neop]		Serous ovarian cancer	SEROUS OVARIAN CANCER
+PARAGANGLIOMA AND GASTRIC STROMAL SARCOMA	C1847319	[dsyn]		GIST	GIST
+Pancreatic adenocarcinoma	C0281361	[neop]		Pancreatic adenocarcinoma	PANCREATIC ADENOCARCINOMA
+Pancreatic carcinoma	C0235974	[neop]		PANCREATIC CANCER	PANCREATIC CANCER
+Pancreatitis, Chronic	C0149521	[dsyn]		Chronic pancreatitis	CHRONIC PANCREATITIS
+Paraganglioma	C0030421	[neop]		Paraganglioma	PARAGANGLIOMA
+Patient Derived Xenograft	C4050317	[emod]		PDX	PDX
+Pemphigus Vulgaris	C0030809	[dsyn]		Pemphigus Vulgaris	PEMPHIGUS VULGARIS
+Polycystic Kidney - body part	C1567435	[anab]		Polycystic kidney	POLYCYSTIC KIDNEY
+Precursor B-cell lymphoblastic leukemia	C1292769	[neop]		B-ALL	B-ALL
+Precursor Cell Lymphoblastic Leukemia Lymphoma	C1961102	[neop]		Acute Lymphoblastic Leukemia	ACUTE LYMPHOBLASTIC LEUKEMIA
+Precursor T-Cell Lymphoblastic Leukemia-Lymphoma	C1961099	[neop]		acute T cell leukemia	ACUTE T CELL LEUKEMIA
+Progeria	C0033300	[dsyn]		Progeria	PROGERIA
+Prostate carcinoma	C0600139	[neop]		Prostate Cancer	PROSTATE CANCER
+Pulmonary Edema	C0034063	[dsyn]		Wet Lung	WET LUNG
+Pulmonary Hypertension	C0020542	[patf]		Pulmonary Hypertension	PULMONARY HYPERTENSION
+Pustular psoriasis	C0152081	[dsyn]		Pustular psoriasis	PUSTULAR PSORIASIS
+Respiratory Distress Syndrome, Adult	C0035222	[dsyn]		ARDS	ARDS
+Respiratory Distress Syndrome, Adult	C0035222	[dsyn]		wet lung	WET LUNG
+Rhabdomyosarcoma, Embryonal	C0206656	[neop]		ERMS	ERMS
+Rheumatoid Arthritis	C0003873	[dsyn]		Rheumatoid Arthritis	RHEUMATOID ARTHRITIS
+Sarcoidosis	C0036202	[dsyn]		Sarcoidosis	SARCOIDOSIS
+Sarcoma	C1261473	[neop]		Sarcoma	SARCOMA
+Schizophrenia	C0036341	[mobd]		Schizophrenia	SCHIZOPHRENIA
+Shock, Hemorrhagic	C0036982	[patf]		Hemorrhagic shock	HEMORRHAGIC SHOCK
+Small cell carcinoma of lung	C0149925	[neop]		Small Cell Lung Cancer	SMALL CELL LUNG CANCER
+Spinal Muscular Atrophy	C0026847	[dsyn]		SMA	SMA
+Spinocerebellar Ataxia 10	C1963674	[dsyn]		Sca10	SCA10
+Spinocerebellar Ataxia Type 1	C0752120	[dsyn]		SCA1	SCA1
+Spinocerebellar Ataxia Type 6 (disorder)	C0752124	[dsyn]		SCA6	SCA6
+Splenic Marginal Zone B-Cell Lymphoma	C0349632	[neop]		splenic marginal zone lymphoma	SPLENIC MARGINAL ZONE LYMPHOMA
+Sporadic Burkitt Lymphoma	C1336077	[neop]		Sporadic Burkitt Lymphoma	SPORADIC BURKITT LYMPHOMA
+Squamous cell carcinoma	C0007137	[neop]		Squamous cell carcinoma	SQUAMOUS CELL CARCINOMA
+Squamous cell carcinoma of esophagus	C0279626	[neop]		Esophageal Squamous Cell Carcinoma	ESOPHAGEAL SQUAMOUS CELL CARCINOMA
+Squamous cell lung carcinoma	C0149782	[neop]		lung squamous cell carcinoma	LUNG SQUAMOUS CELL CARCINOMA
+Stable angina	C0340288	[dsyn]		Stable Angina Pectoris	STABLE ANGINA PECTORIS
+Syndrome	C0039082	[dsyn]		Syndrome	SYNDROME
+Transitional cell carcinoma of bladder	C0279680	[neop]		Urothelial Bladder carcinoma	UROTHELIAL BLADDER CARCINOMA
+Turner Syndrome	C0041408	[dsyn]		Turner Syndrome	TURNER SYNDROME
+Ulcerative Colitis	C0009324	[dsyn]		Ulcerative Colitis	ULCERATIVE COLITIS
+Uterine Corpus Cancer	C1883486	[neop]		Endometrial Cancer	ENDOMETRIAL CANCER
+Uveal melanoma	C0220633	[neop]		Uveal melanoma	UVEAL MELANOMA
+anaphylaxis	C0002792	[patf]		ANAPHYLACTIC SHOCK	ANAPHYLACTIC SHOCK
+breast adenocarcinoma	C0858252	[neop]		breast adenocarcinoma	BREAST ADENOCARCINOMA
+cervical cancer	C4048328	[neop]		cervical cancer	CERVICAL CANCER
+hemorrhagic infarct	C0333549	[patf]		hemorrhagic infarct	HEMORRHAGIC INFARCT
+hypopharyngeal squamous cell carcinoma	C0280321	[neop]		hypopharyngeal squamous cell carcinoma	HYPOPHARYNGEAL SQUAMOUS CELL CARCINOMA
+keratoderma	C0022579	[cgab]		keratoderma	KERATODERMA
+leukemia	C0023418	[neop]		leukemia	LEUKEMIA
+melanoma	C0025202	[neop]		Malignant Melanoma	MALIGNANT MELANOMA
+melanoma	C0025202	[neop]		melanoma	MELANOMA
+mutant	C0596988	[comd]		mutant	MUTANT
+secondary acute myeloid leukemia	C0280449	[neop]		secondary acute Myeloid leukaemia	SECONDARY ACUTE MYELOID LEUKAEMIA
+skin lesion	C0037284	[dsyn]		skin lesion	SKIN LESION
+storage disease	C0267971	[dsyn]		storage disease	STORAGE DISEASE

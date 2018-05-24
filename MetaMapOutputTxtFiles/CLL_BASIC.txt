@@ -1,0 +1,1 @@
+CLL.txt|MMI|20.95|Chronic Lymphocytic Leukemia|C0023434|[neop]|["CLL"-tx-1-"CLL"-noun-0]|TX|0/3|C04.557.337.428.080.125;C15.604.515.560.080.125;C20.683.515.528.080.125

@@ -1,0 +1,3 @@
+NON-CF.txt|MMI|16.30|Congo|C0009738|[geoa]|["CF"-tx-1-"CF"-adj-0]|TX|4/2|Z01.058.290.100.140
+NON-CF.txt|MMI|3.68|CFTR wt Allele|C3811819|[gngm]|["CF"-tx-1-"CF"-adj-0]|TX|4/2|
+NON-CF.txt|MMI|3.68|Negation|C1518422|[ftcn]|["Non"-tx-1-"NON"-adj-0]|TX|0/3|

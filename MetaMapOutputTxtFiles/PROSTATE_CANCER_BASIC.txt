@@ -1,0 +1,4 @@
+PROSTATE_CANCER.txt|MMI|5.18|Malignant neoplasm of prostate|C0376358|[neop]|["Prostate Cancer"-tx-1-"PROSTATE CANCER"-noun-0]|TX|0/15|
+PROSTATE_CANCER.txt|MMI|5.18|NCI CTEP SDC Prostate Cancer Sub-Category Terminology|C3541264|[inpr]|["Prostate Cancer"-tx-1-"PROSTATE CANCER"-noun-0]|TX|0/15|
+PROSTATE_CANCER.txt|MMI|5.18|Prostate Cancer Pathway|C2984325|[cnce]|["Prostate cancer"-tx-1-"PROSTATE CANCER"-noun-0]|TX|0/15|
+PROSTATE_CANCER.txt|MMI|5.18|Prostate carcinoma|C0600139|[neop]|["Prostate Cancer"-tx-1-"PROSTATE CANCER"-noun-0]|TX|0/15|

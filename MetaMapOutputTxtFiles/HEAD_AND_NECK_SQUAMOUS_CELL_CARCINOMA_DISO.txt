@@ -1,0 +1,1 @@
+HEAD_AND_NECK_SQUAMOUS_CELL_CARCINOMA.txt|MMI|13.33|Squamous cell carcinoma of the head and neck|C1168401|[neop]|["head neck Squamous Cell Carcinoma"-tx-1-"HEAD NECK SQUAMOUS CELL CARCINOMA"-noun-0]|TX|0/4,9/28|x.x.x.x

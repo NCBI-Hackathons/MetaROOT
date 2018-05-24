@@ -1,0 +1,1 @@
+LARGE_CELL_LUNG_CANCER.txt|MMI|5.18|Large cell carcinoma of lung|C0345958|[neop]|["large cell lung cancer"-tx-1-"LARGE CELL LUNG CANCER"-noun-0]|TX|0/22|

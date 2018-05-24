@@ -1,0 +1,3 @@
+MS.txt|MMI|20.95|5-Methyltetrahydrofolate-Homocysteine S-Methyltransferase|C0039676|[aapp,enzy]|["MS"-tx-1-"MS"-noun-0]|TX|0/2|D08.811.913.555.500.645
+MS.txt|MMI|5.18|MTR wt Allele|C3539704|[gngm]|["MS"-tx-1-"MS"-noun-0]|TX|0/2|
+MS.txt|MMI|5.18|Ms. - Title|C2349943|[cnce]|["Ms."-tx-1-"MS"-noun-0]|TX|0/2|

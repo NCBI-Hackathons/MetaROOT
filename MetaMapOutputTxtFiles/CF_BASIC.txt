@@ -1,0 +1,2 @@
+CF.txt|MMI|17.80|Congo|C0009738|[geoa]|["CF"-tx-1-"CF"-noun-0]|TX|0/2|Z01.058.290.100.140
+CF.txt|MMI|5.18|CFTR wt Allele|C3811819|[gngm]|["CF"-tx-1-"CF"-noun-0]|TX|0/2|

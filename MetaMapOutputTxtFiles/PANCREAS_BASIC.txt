@@ -1,0 +1,2 @@
+PANCREAS.txt|MMI|8.34|Pancreas|C0030274|[bpoc]|["PANCREAS"-tx-1-"PANCREAS"-noun-0]|TX|0/8|A03.734
+PANCREAS.txt|MMI|5.18|Entire pancreas|C1278931|[bpoc]|["Pancreas"-tx-1-"PANCREAS"-noun-0]|TX|0/8|

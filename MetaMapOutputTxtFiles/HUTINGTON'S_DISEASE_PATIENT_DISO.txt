@@ -1,0 +1,1 @@
+HUTINGTON'S_DISEASE_PATIENT.txt|MMI|3.68|patient condition|C0683521|[fndg]|["Disease patient"-tx-1-"DISEASE PATIENT"-noun-0]|TX|12/15|

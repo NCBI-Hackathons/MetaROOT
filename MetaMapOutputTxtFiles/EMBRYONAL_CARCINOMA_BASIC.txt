@@ -1,0 +1,1 @@
+EMBRYONAL_CARCINOMA.txt|MMI|14.64|Embryonal Carcinoma|C0206659|[neop]|["Carcinoma, Embryonal"-tx-1-"EMBRYONAL CARCINOMA"-noun-0]|TX|0/19|C04.557.465.200

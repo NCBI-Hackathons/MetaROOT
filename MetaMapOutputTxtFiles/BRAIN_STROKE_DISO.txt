@@ -1,0 +1,1 @@
+BRAIN_STROKE.txt|MMI|16.30|Cerebrovascular accident|C0038454|[dsyn]|["STROKE"-tx-1-"STROKE"-noun-0]|TX|6/6|C10.228.140.300.775;C14.907.253.855

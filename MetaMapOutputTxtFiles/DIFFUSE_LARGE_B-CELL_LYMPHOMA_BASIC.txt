@@ -1,0 +1,2 @@
+DIFFUSE_LARGE_B-CELL_LYMPHOMA.txt|MMI|24.11|Diffuse Large B-Cell Lymphoma|C0079744|[neop]|["Diffuse Large B-Cell Lymphoma"-tx-1-"DIFFUSE LARGE B-CELL LYMPHOMA"-noun-0]|TX|0/29|C04.557.386.480.150.585;C15.604.515.569.480.150.585;C20.683.515.761.480.150.585
+DIFFUSE_LARGE_B-CELL_LYMPHOMA.txt|MMI|5.18|Diffuse Large B-Cell Lymphoma, Not Otherwise Specified|C2699777|[neop]|["Diffuse Large B-Cell Lymphoma, Not Otherwise Specified"-tx-1-"DIFFUSE LARGE B-CELL LYMPHOMA"-noun-0]|TX|0/29|

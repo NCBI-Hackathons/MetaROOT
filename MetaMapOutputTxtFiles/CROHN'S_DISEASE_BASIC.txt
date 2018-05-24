@@ -1,0 +1,1 @@
+CROHN'S_DISEASE.txt|MMI|17.80|Crohn Disease|C0010346|[dsyn]|["crohn s disease"-tx-1-"CROHN'DISEASE"-noun-0]|TX|0/5,5/1,8/7|C06.405.205.731.500;C06.405.469.432.500

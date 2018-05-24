@@ -1,0 +1,2 @@
+AUTOINFLAMMATORY_SYNDROME_WITH_IMMUNE_DEFICIENCY.txt|MMI|6.64|Immunologic Deficiency Syndromes|C0021051|[dsyn]|["Immune deficiency"-tx-1-"IMMUNE DEFICIENCY"-noun-0]|TX|31/17|C20.673
+AUTOINFLAMMATORY_SYNDROME_WITH_IMMUNE_DEFICIENCY.txt|MMI|3.65|Autoinflammatory Syndrome|C3890737|[dsyn]|["Autoinflammatory Syndrome"-tx-1-"AUTOINFLAMMATORY SYNDROME"-noun-0]|TX|0/25|

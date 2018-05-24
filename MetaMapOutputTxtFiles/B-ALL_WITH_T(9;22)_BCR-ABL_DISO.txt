@@ -1,0 +1,2 @@
+B-ALL_WITH_T(9;22)_BCR-ABL.txt|MMI|22.54|Burkitt Lymphoma|C0006413|[neop]|["b-all"-tx-1-"B-ALL"-noun-0]|TX|0/5|C02.256.466.313.165;C02.928.313.165;C04.557.386.480.150.165;C15.604.515.569.480.150.165;C20.683.515.761.480.150.165
+B-ALL_WITH_T(9;22)_BCR-ABL.txt|MMI|3.61|Precursor B-cell lymphoblastic leukemia|C1292769|[neop]|["B-ALL"-tx-1-"B-ALL"-noun-0]|TX|0/5|

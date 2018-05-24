@@ -1,0 +1,1 @@
+WELL-DIFFERENTIATED_HEPATOCELLULAR_CARCINOMA.txt|MMI|5.18|Well Differentiated Hepatocellular Carcinoma|C3273033|[neop]|["Well Differentiated Hepatocellular Carcinoma"-tx-1-"WELL-DIFFERENTIATED HEPATOCELLULAR CARCINOMA"-noun-0]|TX|0/44|

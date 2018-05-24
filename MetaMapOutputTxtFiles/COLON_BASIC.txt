@@ -1,0 +1,3 @@
+COLON.txt|MMI|17.80|Colon structure (body structure)|C0009368|[bpoc]|["COLON"-tx-1-"COLON"-noun-0]|TX|0/5|A03.556.124.526.356;A03.556.249.249.356
+COLON.txt|MMI|5.18|Colon <insect>|C3888384|[euka]|["Colon"-tx-1-"COLON"-noun-0]|TX|0/5|
+COLON.txt|MMI|5.18|Entire colon|C1281569|[bpoc]|["Colon"-tx-1-"COLON"-noun-0]|TX|0/5|

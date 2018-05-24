@@ -1,0 +1,2 @@
+ACUTE_MONOCYTIC_LEUKEMIA.txt|MMI|20.95|Acute monocytic leukemia|C0023465|[neop]|["Acute monocytic leukaemia"-tx-1-"ACUTE MONOCYTIC LEUKEMIA"-noun-0]|TX|0/24|C04.557.337.539.275.484
+ACUTE_MONOCYTIC_LEUKEMIA.txt|MMI|5.18|M5b Acute differentiated monocytic leukemia|C1318544|[neop]|["Acute Monocytic Leukemia"-tx-1-"ACUTE MONOCYTIC LEUKEMIA"-noun-0]|TX|0/24|

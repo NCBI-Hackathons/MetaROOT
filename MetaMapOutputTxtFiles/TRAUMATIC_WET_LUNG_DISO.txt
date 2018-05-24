@@ -1,0 +1,1 @@
+TRAUMATIC_WET_LUNG.txt|MMI|5.18|Pulmonary insufficiency following trauma|C1368020|[dsyn]|["Traumatic wet lung"-tx-1-"TRAUMATIC WET LUNG"-noun-0]|TX|0/18|

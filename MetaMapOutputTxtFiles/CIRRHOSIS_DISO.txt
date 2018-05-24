@@ -1,0 +1,2 @@
+CIRRHOSIS.txt|MMI|11.49|Cirrhosis|C1623038|[dsyn]|["Cirrhosis"-tx-1-"CIRRHOSIS"-noun-0]|TX|0/9|C23.550.355
+CIRRHOSIS.txt|MMI|11.49|Liver Cirrhosis|C0023890|[dsyn]|["CIRRHOSIS"-tx-1-"CIRRHOSIS"-noun-0]|TX|0/9|C06.552.630

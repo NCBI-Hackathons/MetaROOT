@@ -1,0 +1,1 @@
+T_LYMPHOBLASTIC_LEUKEMIA_LYMPHOMA.txt|MMI|5.18|Precursor T cell lymphoblastic leukemia/lymphoblastic lymphoma|C1301359|[neop]|["T lymphoblastic leukaemia/lymphoma"-tx-1-"T LYMPHOBLASTIC LEUKEMIA LYMPHOMA"-noun-0]|TX|0/33|

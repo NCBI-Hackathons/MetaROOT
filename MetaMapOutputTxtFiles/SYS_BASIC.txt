@@ -1,0 +1,1 @@
+SYS.txt|MMI|5.18|SARS2 gene|C1425041|[gngm]|["SYS"-tx-1-"SYS"-noun-0]|TX|0/3|

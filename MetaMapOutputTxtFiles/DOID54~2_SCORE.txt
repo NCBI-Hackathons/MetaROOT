@@ -1,0 +1,1 @@
+DOID:5419_SCHIZOPHRENIA.txt|MMI|9.78|Schizophrenia|C0036341|[mobd]|["-- Schizophrenia"-tx-1-"SCHIZOPHRENIA"-noun-0]|TX|10/13|F03.700.750

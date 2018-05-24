@@ -1,0 +1,945 @@
+Acc	AttrName	EnteredTerm	PreferredTerm
+SAMD00035594	disease	acute myeloid leukemia (FAB M5)	"Leukemia, Myelocytic, Acute"
+SAMN08905677	disease	Acute myelomonocytic leukemia	Acute myelomonocytic leukemia
+SAMN08905668	disease	Acute myelomonocytic leukemia	Acute myelomonocytic leukemia
+SAMN08905653	disease	Acute myelomonocytic leukemia	Acute myelomonocytic leukemia
+SAMN06560371	disease	adenocarcinoma	Adenocarcinoma
+SAMN08905674	disease	AML	"Leukemia, Myelocytic, Acute"
+SAMN08905673	disease	AML	"Leukemia, Myelocytic, Acute"
+SAMN08905669	disease	AML	"Leukemia, Myelocytic, Acute"
+SAMN08905643	disease	AML	"Leukemia, Myelocytic, Acute"
+SAMN08905641	disease	AML	"Leukemia, Myelocytic, Acute"
+SAMN08905659	disease	AML with inv(3)(q21q26.2) RPN1-EVI1	"Leukemia, Myelocytic, Acute"
+SAMN08905666	disease	AML with MDS-related changes	"Leukemia, Myelocytic, Acute"
+SAMN08905660	disease	AML with MDS-related changes	"Leukemia, Myelocytic, Acute"
+SAMN08905644	disease	AML with MDS-related changes	"Leukemia, Myelocytic, Acute"
+SAMN08905671	disease	AML with recurrent gene mutations	"Leukemia, Myelocytic, Acute"
+SAMN08905670	disease	AML with recurrent gene mutations	"Leukemia, Myelocytic, Acute"
+SAMN08905667	disease	AML with recurrent gene mutations	"Leukemia, Myelocytic, Acute"
+SAMN08905652	disease	AML with recurrent gene mutations	"Leukemia, Myelocytic, Acute"
+SAMN08905651	disease	AML with recurrent gene mutations	"Leukemia, Myelocytic, Acute"
+SAMN08905646	disease	AML with recurrent gene mutations	"Leukemia, Myelocytic, Acute"
+SAMN08905642	disease	AML with recurrent gene mutations	"Leukemia, Myelocytic, Acute"
+SAMN08905676	disease	B-ALL	Precursor B-cell lymphoblastic leukemia
+SAMN08905654	disease	B-ALL	Precursor B-cell lymphoblastic leukemia
+SAMN08905678	disease	B-ALL NOS	Precursor B-cell lymphoblastic leukemia
+SAMN08905675	disease	B-ALL NOS	Precursor B-cell lymphoblastic leukemia
+SAMN08905664	disease	B-ALL NOS	Precursor B-cell lymphoblastic leukemia
+SAMN08905663	disease	B-ALL NOS	Precursor B-cell lymphoblastic leukemia
+SAMN08905672	disease	B-ALL with t(12;21) TEL-AML1 (ETV6-RUNX1)	Precursor B-cell lymphoblastic leukemia
+SAMN08905665	disease	B-ALL with t(12;21) TEL-AML1 (ETV6-RUNX1)	Precursor B-cell lymphoblastic leukemia
+SAMN08905662	disease	B-ALL with t(9;22) BCR-ABL	Precursor B-cell lymphoblastic leukemia
+SAMN08905661	disease	B-ALL with t(9;22) BCR-ABL	Precursor B-cell lymphoblastic leukemia
+SAMN08905658	disease	B-ALL with t(9;22) BCR-ABL	Precursor B-cell lymphoblastic leukemia
+SAMN08905655	disease	B-ALL with t(9;22) BCR-ABL	Precursor B-cell lymphoblastic leukemia
+SAMN08905657	disease	"B-cell lymphoma, unclassifiable, with features intermediate between DLBCL and BL"	Precursor B-cell lymphoblastic leukemia
+SAMN08905650	disease	Burkitt lymphoma	Burkitt Lymphoma
+SAMN08931180	disease	Burkitt's lymphoma	Burkitt Lymphoma
+SAMN08931179	disease	Burkitt's lymphoma	Burkitt Lymphoma
+SAMN08931178	disease	Burkitt's lymphoma	Burkitt Lymphoma
+SAMN08501408	disease	C9-ALS/FTD	AMYOTROPHIC LATERAL SCLEROSIS AND/OR FRONTOTEMPORAL DEMENTIA
+SAMN08501407	disease	C9-ALS/FTD	AMYOTROPHIC LATERAL SCLEROSIS AND/OR FRONTOTEMPORAL DEMENTIA
+SAMN08501395	disease	C9-ALS/FTD	AMYOTROPHIC LATERAL SCLEROSIS AND/OR FRONTOTEMPORAL DEMENTIA
+SAMD00065375	disease	Cancer	Malignant Neoplasms
+SAMD00065374	disease	Cancer	Malignant Neoplasms
+SAMD00065373	disease	Cancer	Malignant Neoplasms
+SAMD00065372	disease	Cancer	Malignant Neoplasms
+SAMN04573985	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573984	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573983	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573982	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573981	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573980	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573979	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573978	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573977	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573976	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573975	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573974	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573973	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573972	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573971	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573970	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573969	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573968	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573967	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573966	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573965	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573964	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573963	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573962	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573961	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573960	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573959	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573958	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573957	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573956	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573955	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573954	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573953	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573952	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573951	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573950	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573949	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573948	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573947	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573946	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573945	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573944	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573943	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573942	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573941	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573940	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573939	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573938	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573937	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573936	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573935	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573934	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573933	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573932	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573931	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573930	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573929	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573928	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573927	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573926	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573925	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573924	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573923	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573922	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573921	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573920	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573919	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573918	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573917	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573916	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573915	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573914	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573913	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573912	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573911	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573910	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573909	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573908	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573907	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573906	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573905	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573904	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573903	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573902	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573901	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573900	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573899	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573898	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573897	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573896	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573895	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573894	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573893	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573892	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573891	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573890	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573889	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573888	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573887	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573886	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573885	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573884	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573883	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573882	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573881	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573880	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573879	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573878	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573877	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573876	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573875	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573874	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573873	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573872	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573871	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573870	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573869	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573868	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573867	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573866	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573865	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573864	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573863	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573862	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573861	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573860	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573859	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573858	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573857	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN04573856	disease	Chronic lymphocytic leukemia	Chronic Lymphocytic Leukemia
+SAMN08501404	disease	Control	-
+SAMN08501399	disease	Control	-
+SAMN08501398	disease	Control	-
+SAMN08501392	disease	Control	-
+SAMN08501391	disease	Control	-
+SAMN08905656	disease	DLBCL NOS	Diffuse Large B-Cell Lymphoma
+SAMN08905649	disease	DLBCL NOS	Diffuse Large B-Cell Lymphoma
+SAMN08501403	disease	DM2	MYOTONIC DYSTROPHY 1
+SAMN08501401	disease	DM2	MYOTONIC DYSTROPHY 1
+SAMN08501400	disease	DM2	MYOTONIC DYSTROPHY 1
+SAMN08905647	disease	Follicular lymphoma	"Lymphoma, Follicular"
+SAMEA104724195	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724194	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724193	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724192	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724191	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724190	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724189	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724188	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724187	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724186	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724185	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724184	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724183	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724182	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724181	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724180	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724179	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724178	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724177	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724176	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724175	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724174	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724173	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724172	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724171	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724170	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724169	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724168	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724167	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724166	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724165	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724164	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724163	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724162	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724161	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724160	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724159	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724158	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724157	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724156	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724155	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724154	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724153	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724152	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724151	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724150	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724149	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724148	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724147	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724146	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724145	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724144	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724143	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMEA104724142	disease	Low Grade Glioma	Malignant neoplasm of liver
+SAMN06651800	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651799	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651798	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651797	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651796	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651795	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651794	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651793	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651792	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651791	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651790	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651789	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651788	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651787	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651786	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651785	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651784	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651783	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651782	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651781	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651780	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651779	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651778	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651777	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651776	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651775	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651774	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651773	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651772	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651771	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651770	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651769	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651768	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651767	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651766	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651765	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651764	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651763	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651762	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651761	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651760	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651759	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651758	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651757	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651756	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651755	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651754	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651753	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651752	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651751	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651750	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651749	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651748	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651747	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651746	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651745	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651744	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651743	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651742	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651741	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651740	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651739	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651738	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651737	disease	Luminal Breast Cancer	Breast Cancer
+SAMN06651736	disease	Luminal Breast Cancer	Breast Cancer
+SAMD00083336	disease	lung adenocarcinoma	Adenocarcinoma of lung (disorder)
+SAMD00083335	disease	lung adenocarcinoma	Adenocarcinoma of lung (disorder)
+SAMD00083333	disease	lung adenocarcinoma	Adenocarcinoma of lung (disorder)
+SAMD00083332	disease	lung adenocarcinoma	Adenocarcinoma of lung (disorder)
+SAMD00083331	disease	lung adenocarcinoma	Adenocarcinoma of lung (disorder)
+SAMD00083330	disease	lung adenocarcinoma	Adenocarcinoma of lung (disorder)
+SAMD00083329	disease	lung adenocarcinoma	Adenocarcinoma of lung (disorder)
+SAMD00083328	disease	lung adenocarcinoma	Adenocarcinoma of lung (disorder)
+SAMD00083325	disease	lung adenocarcinoma	Adenocarcinoma of lung (disorder)
+SAMD00083324	disease	lung adenocarcinoma	Adenocarcinoma of lung (disorder)
+SAMD00083322	disease	lung adenocarcinoma	Adenocarcinoma of lung (disorder)
+SAMD00083321	disease	lung adenocarcinoma	Adenocarcinoma of lung (disorder)
+SAMD00083317	disease	lung adenocarcinoma	Adenocarcinoma of lung (disorder)
+SAMD00083315	disease	lung adenocarcinoma	Adenocarcinoma of lung (disorder)
+SAMD00083311	disease	lung adenocarcinoma	Adenocarcinoma of lung (disorder)
+SAMD00031611	disease	Lung adenocarcinoma	Adenocarcinoma of lung (disorder)
+SAMD00031609	disease	Lung adenocarcinoma	Adenocarcinoma of lung (disorder)
+SAMD00031606	disease	Lung adenocarcinoma	Adenocarcinoma of lung (disorder)
+SAMD00031604	disease	Lung adenocarcinoma	Adenocarcinoma of lung (disorder)
+SAMD00031601	disease	Lung adenocarcinoma	Adenocarcinoma of lung (disorder)
+SAMD00031599	disease	Lung adenocarcinoma	Adenocarcinoma of lung (disorder)
+SAMD00031597	disease	Lung adenocarcinoma	Adenocarcinoma of lung (disorder)
+SAMD00031596	disease	Lung adenocarcinoma	Adenocarcinoma of lung (disorder)
+SAMD00031595	disease	Lung adenocarcinoma	Adenocarcinoma of lung (disorder)
+SAMD00031594	disease	Lung adenocarcinoma	Adenocarcinoma of lung (disorder)
+SAMD00031593	disease	Lung adenocarcinoma	Adenocarcinoma of lung (disorder)
+SAMD00031592	disease	Lung adenocarcinoma	Adenocarcinoma of lung (disorder)
+SAMD00031591	disease	Lung adenocarcinoma	Adenocarcinoma of lung (disorder)
+SAMD00031590	disease	Lung adenocarcinoma	Adenocarcinoma of lung (disorder)
+SAMD00031589	disease	Lung adenocarcinoma	Adenocarcinoma of lung (disorder)
+SAMN08905684	disease	Merkel cell carcinoma	Merkel cell carcinoma
+SAMN08905683	disease	Merkel cell carcinoma	Merkel cell carcinoma
+SAMN08905682	disease	Merkel cell carcinoma	Merkel cell carcinoma
+SAMN08905681	disease	Merkel cell carcinoma	Merkel cell carcinoma
+SAMN08905680	disease	Merkel cell carcinoma	Merkel cell carcinoma
+SAMN08905679	disease	Merkel cell carcinoma	Merkel cell carcinoma
+SAMD00035593	disease	missing	-
+SAMD00035592	disease	missing	-
+SAMD00035591	disease	missing	-
+SAMD00044427	disease	multiple myeloma	Multiple Myeloma
+SAMD00044426	disease	multiple myeloma	Multiple Myeloma
+SAMD00073680	disease	"neoplastic, esophageal squamous cell carcinoma"	Nasopharyngeal carcinoma
+SAMD00073681	disease	"neoplastic, esophageal squamous cell carcinoma"	Nasopharyngeal carcinoma
+SAMD00073679	disease	"neoplastic, esophageal squamous cell carcinoma"	Nasopharyngeal carcinoma
+SAMD00073678	disease	non-neoplastic	-
+SAMD00083337	disease	Normal	-
+SAMD00031614	disease	Normal	-
+SAMN08930936	disease	Normal	-
+SAMEA104717582	disease	normal	-
+SAMEA104717581	disease	normal	-
+SAMEA104717580	disease	normal	-
+SAMEA104717579	disease	normal	-
+SAMEA104717578	disease	normal	-
+SAMEA104717577	disease	normal	-
+SAMEA104606002	disease	normal	-
+SAMEA104606001	disease	normal	-
+SAMEA104606000	disease	normal	-
+SAMEA104605999	disease	normal	-
+SAMEA104605998	disease	normal	-
+SAMEA104605997	disease	normal	-
+SAMEA104605996	disease	normal	-
+SAMEA104605995	disease	normal	-
+SAMEA104605994	disease	normal	-
+SAMEA104442927	disease	normal	-
+SAMEA104442926	disease	normal	-
+SAMEA104442925	disease	normal	-
+SAMEA104442924	disease	normal	-
+SAMEA104442923	disease	normal	-
+SAMEA104442922	disease	normal	-
+SAMN08781056	disease	polycystic kidney	Polycystic Kidney - body part
+SAMN08905648	disease	Primary cutaneous CD30+ T-cell lymphoproliferative disorder	Lymphoproliferative Disorders
+SAMN08326068	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326067	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326047	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326046	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326045	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326044	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326043	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326042	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326041	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326040	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326039	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326038	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326037	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326036	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326035	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326034	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326033	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326032	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326031	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326030	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326029	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326028	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326027	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326026	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326025	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326024	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326023	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326022	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326020	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326019	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326018	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326017	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326016	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326015	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326014	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326013	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326012	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326011	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326010	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326009	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326008	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326007	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326006	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326005	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326004	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326003	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326002	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08326001	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325989	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325988	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325987	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325986	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325985	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325984	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325983	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325966	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325965	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325964	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325963	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325962	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325961	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325960	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325959	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325958	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325957	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325956	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325955	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325954	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325953	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325952	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325951	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325950	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325949	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325948	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325947	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325946	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325945	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325944	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325943	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325905	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325904	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325903	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325902	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325901	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325900	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325899	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325898	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325897	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325896	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325895	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325894	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325893	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325892	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325891	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325890	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325889	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325888	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325887	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325886	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325885	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325884	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325883	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325882	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325881	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325880	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325879	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325878	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325877	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325876	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325875	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325874	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325873	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325872	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325871	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325870	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325869	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325868	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325867	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325866	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325865	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325864	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325863	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325862	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325861	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325860	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325859	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325858	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325809	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325808	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325807	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325806	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325805	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325804	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325803	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325802	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325801	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325800	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325799	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325798	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325797	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325796	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325795	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325794	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325793	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325792	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325791	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325790	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325789	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325788	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325787	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325786	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325785	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325784	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325783	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325782	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325781	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325780	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325779	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325778	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325777	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325776	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325775	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325774	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325773	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325772	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325771	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325770	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325769	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325768	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325767	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325766	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325765	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325764	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325763	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325762	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325761	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325714	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325713	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325712	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325711	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325710	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325709	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325708	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325707	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325706	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325705	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325704	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325703	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325702	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325701	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325700	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325699	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325698	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325697	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325696	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325695	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325694	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325693	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325692	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325691	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325690	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325689	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325688	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325687	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325686	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325685	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325684	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325683	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325682	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325681	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325680	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325679	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325678	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325677	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325676	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325675	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325664	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325663	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325662	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325661	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325660	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325659	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325658	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325657	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325603	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325602	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325601	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325600	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325599	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325598	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325597	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325596	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325595	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325594	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325593	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325592	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325591	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325590	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325589	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325588	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325587	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325586	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325585	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325584	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325583	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325582	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325581	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325580	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325579	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325578	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325577	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325576	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325575	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325574	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325572	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325571	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325570	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325569	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325568	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325567	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325566	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325565	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325564	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325563	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325562	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325561	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325560	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325559	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325558	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325557	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325556	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325555	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325554	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325553	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325552	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325551	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325550	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325549	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325548	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325547	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325546	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325545	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325542	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325541	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325540	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325539	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325538	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325537	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325536	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325535	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325533	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325532	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325531	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325530	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08325529	disease	RDEB	Hallopeau-Siemens Disease
+SAMN08501406	disease	sALS	Rheumatoid Arthritis
+SAMN08501405	disease	sALS	Rheumatoid Arthritis
+SAMN08501402	disease	SCA10	Spinocerebellar Ataxia 10
+SAMN08501397	disease	SCA10	Spinocerebellar Ataxia 10
+SAMN08501396	disease	SCA10	Spinocerebellar Ataxia 10
+SAMN08501394	disease	SCA10	Spinocerebellar Ataxia 10
+SAMN08501393	disease	SCA10	Spinocerebellar Ataxia 10
+SAMN08905645	disease	Therapy-related AML	Acute myelomonocytic leukemia
+SAMN06651817	disease	Triple-Negative Breast Cancer	Breast Cancer
+SAMN06651816	disease	Triple-Negative Breast Cancer	Breast Cancer
+SAMN06651815	disease	Triple-Negative Breast Cancer	Breast Cancer
+SAMN06651814	disease	Triple-Negative Breast Cancer	Breast Cancer
+SAMN06651813	disease	Triple-Negative Breast Cancer	Breast Cancer
+SAMN06651812	disease	Triple-Negative Breast Cancer	Breast Cancer
+SAMN06651811	disease	Triple-Negative Breast Cancer	Breast Cancer
+SAMN06651810	disease	Triple-Negative Breast Cancer	Breast Cancer
+SAMN06651809	disease	Triple-Negative Breast Cancer	Breast Cancer
+SAMN06651808	disease	Triple-Negative Breast Cancer	Breast Cancer
+SAMN06651807	disease	Triple-Negative Breast Cancer	Breast Cancer
+SAMN06651806	disease	Triple-Negative Breast Cancer	Breast Cancer
+SAMN06651805	disease	Triple-Negative Breast Cancer	Breast Cancer
+SAMN06651804	disease	Triple-Negative Breast Cancer	Breast Cancer
+SAMN06651803	disease	Triple-Negative Breast Cancer	Breast Cancer
+SAMN06651802	disease	Triple-Negative Breast Cancer	Breast Cancer
+SAMN06651801	disease	Triple-Negative Breast Cancer	Breast Cancer
+SAMN08326071	disease	wild-type control	-
+SAMN08326070	disease	wild-type control	-
+SAMN08326069	disease	wild-type control	-
+SAMN08326066	disease	wild-type control	-
+SAMN08326065	disease	wild-type control	-
+SAMN08326064	disease	wild-type control	-
+SAMN08326063	disease	wild-type control	-
+SAMN08326062	disease	wild-type control	-
+SAMN08326061	disease	wild-type control	-
+SAMN08326060	disease	wild-type control	-
+SAMN08326059	disease	wild-type control	-
+SAMN08326058	disease	wild-type control	-
+SAMN08326057	disease	wild-type control	-
+SAMN08326056	disease	wild-type control	-
+SAMN08326055	disease	wild-type control	-
+SAMN08326054	disease	wild-type control	-
+SAMN08326053	disease	wild-type control	-
+SAMN08326052	disease	wild-type control	-
+SAMN08326051	disease	wild-type control	-
+SAMN08326050	disease	wild-type control	-
+SAMN08326049	disease	wild-type control	-
+SAMN08326048	disease	wild-type control	-
+SAMN08326021	disease	wild-type control	-
+SAMN08326000	disease	wild-type control	-
+SAMN08325999	disease	wild-type control	-
+SAMN08325998	disease	wild-type control	-
+SAMN08325997	disease	wild-type control	-
+SAMN08325996	disease	wild-type control	-
+SAMN08325995	disease	wild-type control	-
+SAMN08325994	disease	wild-type control	-
+SAMN08325993	disease	wild-type control	-
+SAMN08325992	disease	wild-type control	-
+SAMN08325991	disease	wild-type control	-
+SAMN08325990	disease	wild-type control	-
+SAMN08325982	disease	wild-type control	-
+SAMN08325981	disease	wild-type control	-
+SAMN08325980	disease	wild-type control	-
+SAMN08325979	disease	wild-type control	-
+SAMN08325978	disease	wild-type control	-
+SAMN08325977	disease	wild-type control	-
+SAMN08325976	disease	wild-type control	-
+SAMN08325975	disease	wild-type control	-
+SAMN08325974	disease	wild-type control	-
+SAMN08325973	disease	wild-type control	-
+SAMN08325972	disease	wild-type control	-
+SAMN08325971	disease	wild-type control	-
+SAMN08325970	disease	wild-type control	-
+SAMN08325969	disease	wild-type control	-
+SAMN08325968	disease	wild-type control	-
+SAMN08325967	disease	wild-type control	-
+SAMN08325942	disease	wild-type control	-
+SAMN08325941	disease	wild-type control	-
+SAMN08325940	disease	wild-type control	-
+SAMN08325939	disease	wild-type control	-
+SAMN08325938	disease	wild-type control	-
+SAMN08325937	disease	wild-type control	-
+SAMN08325936	disease	wild-type control	-
+SAMN08325935	disease	wild-type control	-
+SAMN08325934	disease	wild-type control	-
+SAMN08325933	disease	wild-type control	-
+SAMN08325932	disease	wild-type control	-
+SAMN08325931	disease	wild-type control	-
+SAMN08325930	disease	wild-type control	-
+SAMN08325929	disease	wild-type control	-
+SAMN08325928	disease	wild-type control	-
+SAMN08325927	disease	wild-type control	-
+SAMN08325926	disease	wild-type control	-
+SAMN08325925	disease	wild-type control	-
+SAMN08325924	disease	wild-type control	-
+SAMN08325923	disease	wild-type control	-
+SAMN08325922	disease	wild-type control	-
+SAMN08325921	disease	wild-type control	-
+SAMN08325920	disease	wild-type control	-
+SAMN08325919	disease	wild-type control	-
+SAMN08325918	disease	wild-type control	-
+SAMN08325917	disease	wild-type control	-
+SAMN08325916	disease	wild-type control	-
+SAMN08325915	disease	wild-type control	-
+SAMN08325914	disease	wild-type control	-
+SAMN08325913	disease	wild-type control	-
+SAMN08325912	disease	wild-type control	-
+SAMN08325911	disease	wild-type control	-
+SAMN08325910	disease	wild-type control	-
+SAMN08325909	disease	wild-type control	-
+SAMN08325908	disease	wild-type control	-
+SAMN08325907	disease	wild-type control	-
+SAMN08325906	disease	wild-type control	-
+SAMN08325857	disease	wild-type control	-
+SAMN08325856	disease	wild-type control	-
+SAMN08325855	disease	wild-type control	-
+SAMN08325854	disease	wild-type control	-
+SAMN08325853	disease	wild-type control	-
+SAMN08325852	disease	wild-type control	-
+SAMN08325851	disease	wild-type control	-
+SAMN08325850	disease	wild-type control	-
+SAMN08325849	disease	wild-type control	-
+SAMN08325848	disease	wild-type control	-
+SAMN08325847	disease	wild-type control	-
+SAMN08325846	disease	wild-type control	-
+SAMN08325845	disease	wild-type control	-
+SAMN08325844	disease	wild-type control	-
+SAMN08325843	disease	wild-type control	-
+SAMN08325842	disease	wild-type control	-
+SAMN08325841	disease	wild-type control	-
+SAMN08325840	disease	wild-type control	-
+SAMN08325839	disease	wild-type control	-
+SAMN08325838	disease	wild-type control	-
+SAMN08325837	disease	wild-type control	-
+SAMN08325836	disease	wild-type control	-
+SAMN08325835	disease	wild-type control	-
+SAMN08325834	disease	wild-type control	-
+SAMN08325833	disease	wild-type control	-
+SAMN08325832	disease	wild-type control	-
+SAMN08325831	disease	wild-type control	-
+SAMN08325830	disease	wild-type control	-
+SAMN08325829	disease	wild-type control	-
+SAMN08325828	disease	wild-type control	-
+SAMN08325827	disease	wild-type control	-
+SAMN08325826	disease	wild-type control	-
+SAMN08325825	disease	wild-type control	-
+SAMN08325824	disease	wild-type control	-
+SAMN08325823	disease	wild-type control	-
+SAMN08325822	disease	wild-type control	-
+SAMN08325821	disease	wild-type control	-
+SAMN08325820	disease	wild-type control	-
+SAMN08325819	disease	wild-type control	-
+SAMN08325818	disease	wild-type control	-
+SAMN08325817	disease	wild-type control	-
+SAMN08325816	disease	wild-type control	-
+SAMN08325815	disease	wild-type control	-
+SAMN08325814	disease	wild-type control	-
+SAMN08325813	disease	wild-type control	-
+SAMN08325812	disease	wild-type control	-
+SAMN08325811	disease	wild-type control	-
+SAMN08325810	disease	wild-type control	-
+SAMN08325760	disease	wild-type control	-
+SAMN08325759	disease	wild-type control	-
+SAMN08325758	disease	wild-type control	-
+SAMN08325757	disease	wild-type control	-
+SAMN08325756	disease	wild-type control	-
+SAMN08325755	disease	wild-type control	-
+SAMN08325754	disease	wild-type control	-
+SAMN08325753	disease	wild-type control	-
+SAMN08325752	disease	wild-type control	-
+SAMN08325751	disease	wild-type control	-
+SAMN08325750	disease	wild-type control	-
+SAMN08325749	disease	wild-type control	-
+SAMN08325748	disease	wild-type control	-
+SAMN08325747	disease	wild-type control	-
+SAMN08325746	disease	wild-type control	-
+SAMN08325745	disease	wild-type control	-
+SAMN08325744	disease	wild-type control	-
+SAMN08325743	disease	wild-type control	-
+SAMN08325742	disease	wild-type control	-
+SAMN08325741	disease	wild-type control	-
+SAMN08325740	disease	wild-type control	-
+SAMN08325739	disease	wild-type control	-
+SAMN08325738	disease	wild-type control	-
+SAMN08325737	disease	wild-type control	-
+SAMN08325736	disease	wild-type control	-
+SAMN08325735	disease	wild-type control	-
+SAMN08325734	disease	wild-type control	-
+SAMN08325733	disease	wild-type control	-
+SAMN08325732	disease	wild-type control	-
+SAMN08325731	disease	wild-type control	-
+SAMN08325730	disease	wild-type control	-
+SAMN08325729	disease	wild-type control	-
+SAMN08325728	disease	wild-type control	-
+SAMN08325727	disease	wild-type control	-
+SAMN08325726	disease	wild-type control	-
+SAMN08325725	disease	wild-type control	-
+SAMN08325724	disease	wild-type control	-
+SAMN08325723	disease	wild-type control	-
+SAMN08325722	disease	wild-type control	-
+SAMN08325721	disease	wild-type control	-
+SAMN08325720	disease	wild-type control	-
+SAMN08325719	disease	wild-type control	-
+SAMN08325718	disease	wild-type control	-
+SAMN08325717	disease	wild-type control	-
+SAMN08325716	disease	wild-type control	-
+SAMN08325715	disease	wild-type control	-
+SAMN08325674	disease	wild-type control	-
+SAMN08325673	disease	wild-type control	-
+SAMN08325672	disease	wild-type control	-
+SAMN08325671	disease	wild-type control	-
+SAMN08325670	disease	wild-type control	-
+SAMN08325669	disease	wild-type control	-
+SAMN08325668	disease	wild-type control	-
+SAMN08325667	disease	wild-type control	-
+SAMN08325666	disease	wild-type control	-
+SAMN08325665	disease	wild-type control	-
+SAMN08325656	disease	wild-type control	-
+SAMN08325655	disease	wild-type control	-
+SAMN08325654	disease	wild-type control	-
+SAMN08325653	disease	wild-type control	-
+SAMN08325652	disease	wild-type control	-
+SAMN08325651	disease	wild-type control	-
+SAMN08325650	disease	wild-type control	-
+SAMN08325649	disease	wild-type control	-
+SAMN08325648	disease	wild-type control	-
+SAMN08325647	disease	wild-type control	-
+SAMN08325646	disease	wild-type control	-
+SAMN08325645	disease	wild-type control	-
+SAMN08325644	disease	wild-type control	-
+SAMN08325643	disease	wild-type control	-
+SAMN08325642	disease	wild-type control	-
+SAMN08325641	disease	wild-type control	-
+SAMN08325640	disease	wild-type control	-
+SAMN08325639	disease	wild-type control	-
+SAMN08325638	disease	wild-type control	-
+SAMN08325637	disease	wild-type control	-
+SAMN08325636	disease	wild-type control	-
+SAMN08325635	disease	wild-type control	-
+SAMN08325634	disease	wild-type control	-
+SAMN08325633	disease	wild-type control	-
+SAMN08325632	disease	wild-type control	-
+SAMN08325631	disease	wild-type control	-
+SAMN08325630	disease	wild-type control	-
+SAMN08325629	disease	wild-type control	-
+SAMN08325628	disease	wild-type control	-
+SAMN08325627	disease	wild-type control	-
+SAMN08325626	disease	wild-type control	-
+SAMN08325625	disease	wild-type control	-
+SAMN08325624	disease	wild-type control	-
+SAMN08325623	disease	wild-type control	-
+SAMN08325622	disease	wild-type control	-
+SAMN08325621	disease	wild-type control	-
+SAMN08325620	disease	wild-type control	-
+SAMN08325619	disease	wild-type control	-
+SAMN08325618	disease	wild-type control	-
+SAMN08325617	disease	wild-type control	-
+SAMN08325616	disease	wild-type control	-
+SAMN08325615	disease	wild-type control	-
+SAMN08325614	disease	wild-type control	-
+SAMN08325613	disease	wild-type control	-
+SAMN08325612	disease	wild-type control	-
+SAMN08325611	disease	wild-type control	-
+SAMN08325610	disease	wild-type control	-
+SAMN08325609	disease	wild-type control	-
+SAMN08325608	disease	wild-type control	-
+SAMN08325607	disease	wild-type control	-
+SAMN08325606	disease	wild-type control	-
+SAMN08325605	disease	wild-type control	-
+SAMN08325604	disease	wild-type control	-
+SAMN08325544	disease	wild-type control	-
+SAMN08325543	disease	wild-type control	-
+SAMN08325528	disease	wild-type control	-
+SAMN08325527	disease	wild-type control	-

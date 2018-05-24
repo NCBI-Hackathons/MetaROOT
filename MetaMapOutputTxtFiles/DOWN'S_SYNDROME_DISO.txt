@@ -1,0 +1,1 @@
+DOWN'S_SYNDROME.txt|MMI|13.09|Syndrome|C0039082|[dsyn]|["Syndrome"-tx-1-"SYNDROME"-noun-0]|TX|7/8|C23.550.288.500

@@ -1,0 +1,1 @@
+ACUTE_MYELOMONOCYTIC_LEUKEMIA.txt|MMI|17.80|Acute myelomonocytic leukemia|C0023479|[neop]|["Acute myelomonocytic leukaemia"-tx-1-"ACUTE MYELOMONOCYTIC LEUKEMIA"-noun-0]|TX|0/29|C04.557.337.539.520

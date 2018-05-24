@@ -1,0 +1,1 @@
+CELIAC_DISEASE.txt|MMI|17.80|Celiac Disease|C0007570|[dsyn]|["Coeliac disease"-tx-1-"CELIAC DISEASE"-noun-0]|TX|0/14|C06.405.469.637.250;C18.452.603.250

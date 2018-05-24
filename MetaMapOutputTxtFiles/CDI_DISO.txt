@@ -1,0 +1,1 @@
+CDI.txt|MMI|20.95|Central Diabetes Insipidus|C0687720|[dsyn]|["CDI"-tx-1-"CDI"-noun-0]|TX|0/3|C12.777.419.135.750;C13.351.968.419.135.750;C19.700.159.750

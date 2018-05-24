@@ -1,0 +1,1 @@
+HYPERTENSIVE_CEREBRAL_HEMORRHAGE.txt|MMI|20.95|Cerebral Hemorrhage, Hypertensive|C0751892|[patf]|["hypertensive Cerebral haemorrhage"-tx-1-"HYPERTENSIVE CEREBRAL HEMORRHAGE"-noun-0]|TX|0/32|C10.228.140.300.535.325;C14.907.253.573.350

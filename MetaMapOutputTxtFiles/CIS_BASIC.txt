@@ -1,0 +1,1 @@
+CIS.txt|MMI|5.18|Genus Cis|C1504308|[euka]|["Cis"-tx-1-"CIS"-adj-0]|TX|0/3|

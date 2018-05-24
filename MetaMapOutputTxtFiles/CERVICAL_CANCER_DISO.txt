@@ -1,0 +1,3 @@
+CERVICAL_CANCER.txt|MMI|5.18|Cervix carcinoma|C0302592|[neop]|["CERVICAL CANCER"-tx-1-"CERVICAL CANCER"-noun-0]|TX|0/15|
+CERVICAL_CANCER.txt|MMI|5.18|Malignant tumor of cervix|C0007847|[neop]|["Cervical cancer"-tx-1-"CERVICAL CANCER"-noun-0]|TX|0/15|
+CERVICAL_CANCER.txt|MMI|5.18|cervical cancer|C4048328|[neop]|["CERVICAL CANCER"-tx-1-"CERVICAL CANCER"-noun-0]|TX|0/15|

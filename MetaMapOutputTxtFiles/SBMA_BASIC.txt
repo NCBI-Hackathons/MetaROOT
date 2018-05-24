@@ -1,0 +1,2 @@
+SBMA.txt|MMI|17.80|Bulbo-Spinal Atrophy, X-Linked|C1839259|[dsyn]|["SBMA"-tx-1-"SBMA"-noun-0]|TX|0/4|C10.228.854.468.399;C10.574.500.175;C10.574.562.500.374;C10.668.467.500.186;C16.320.322.076
+SBMA.txt|MMI|5.18|AR wt Allele|C1705240|[gngm]|["SBMA"-tx-1-"SBMA"-noun-0]|TX|0/4|

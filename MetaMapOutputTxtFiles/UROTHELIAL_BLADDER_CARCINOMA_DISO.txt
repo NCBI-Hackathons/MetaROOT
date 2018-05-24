@@ -1,0 +1,1 @@
+UROTHELIAL_BLADDER_CARCINOMA.txt|MMI|5.18|Transitional cell carcinoma of bladder|C0279680|[neop]|["Urothelial Bladder carcinoma"-tx-1-"UROTHELIAL BLADDER CARCINOMA"-noun-0]|TX|0/28|

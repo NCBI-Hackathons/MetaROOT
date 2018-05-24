@@ -1,0 +1,2 @@
+AML_WITH_MDS-RELATED_CHANGES.txt|MMI|3.67|Acute Myeloid Leukemia Arising from Previous Myelodysplastic Syndrome|C1332153|[neop]|["AML/MDS"-tx-1-"AML MDS"-noun-0]|TX|0/3,9/3|
+AML_WITH_MDS-RELATED_CHANGES.txt|MMI|3.46|Related personal status|C0445223|[fndg]|["Related"-tx-1-"RELATED"-adj-0]|TX|13/7|

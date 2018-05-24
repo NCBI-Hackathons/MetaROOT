@@ -1,0 +1,3 @@
+SALS.txt|MMI|16.44|Sodium Chloride|C0037494|[bacs,inch,phsu]|["Salt"-tx-1-"SALS"-noun-0]|TX|0/4|D01.210.450.150.875;D01.857.650
+SALS.txt|MMI|13.28|Sodium Chloride, Dietary|C0206136|[food]|["Salt"-tx-1-"SALS"-noun-0]|TX|0/4|D01.857.650.705;D01.857.700.705
+SALS.txt|MMI|6.97|Salts|C0036140|[chvs]|["Salts"-tx-1-"SALS"-noun-0]|TX|0/4|D01.786

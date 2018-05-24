@@ -1,0 +1,1 @@
+PAPILLARY_THYROID_CARCINOMA.txt|MMI|14.64|Papillary thyroid carcinoma|C0238463|[neop]|["Papillary Thyroid Carcinoma"-tx-1-"PAPILLARY THYROID CARCINOMA"-noun-0]|TX|0/27|x.x.x.x

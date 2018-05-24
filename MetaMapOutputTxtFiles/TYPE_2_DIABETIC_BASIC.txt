@@ -1,0 +1,2 @@
+TYPE_2_DIABETIC.txt|MMI|3.75|Type 2|C0441730|[clas]|["Type 2"-tx-1-"TYPE 2"-adj-0]|TX|0/6|
+TYPE_2_DIABETIC.txt|MMI|3.63|diabetic|C0241863|[fndg]|["DIABETIC"-tx-1-"DIABETIC"-adj-0]|TX|7/8|

@@ -1,0 +1,1 @@
+ACUTE_MYELOGENOUS_LEUKEMIA.txt|MMI|17.80|Leukemia, Myelocytic, Acute|C0023467|[neop]|["Acute myelogenous leukaemia"-tx-1-"ACUTE MYELOGENOUS LEUKEMIA"-noun-0]|TX|0/26|C04.557.337.539.275

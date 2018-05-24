@@ -1,0 +1,4 @@
+ACUTE_MYELOID_LEUKEMIA_(AML).txt|AA|AML|ACUTE MYELOID LEUKEMIA|1|3|5|22|24:3
+ACUTE_MYELOID_LEUKEMIA_(AML).txt|MMI|17.80|Leukemia, Myelocytic, Acute|C0023467|[neop]|["Acute myeloid leukaemia"-tx-1-"ACUTE MYELOID LEUKEMIA"-noun-0]|TX|0/22|C04.557.337.539.275
+ACUTE_MYELOID_LEUKEMIA_(AML).txt|MMI|5.18|Acute Myeloid Leukemia Pathway|C2984331|[ftcn]|["Acute myeloid leukemia"-tx-1-"ACUTE MYELOID LEUKEMIA"-noun-0]|TX|0/22|
+ACUTE_MYELOID_LEUKEMIA_(AML).txt|MMI|5.18|NCI CTEP SDC Acute Myeloid Leukemia Sub-Category Terminology|C3541370|[inpr]|["Acute Myeloid Leukemia"-tx-1-"ACUTE MYELOID LEUKEMIA"-noun-0]|TX|0/22|

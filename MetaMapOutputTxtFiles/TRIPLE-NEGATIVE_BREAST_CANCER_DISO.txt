@@ -1,0 +1,2 @@
+TRIPLE-NEGATIVE_BREAST_CANCER.txt|MMI|17.80|Triple Negative Breast Neoplasms|C3539878|[neop]|["Triple-Negative Breast Cancer"-tx-1-"TRIPLE-NEGATIVE BREAST CANCER"-noun-0]|TX|0/29|C04.588.180.788;C17.800.090.500.788
+TRIPLE-NEGATIVE_BREAST_CANCER.txt|MMI|5.18|Triple-Negative Breast Cancer Finding|C2348819|[fndg]|["triple-negative breast cancer"-tx-1-"TRIPLE-NEGATIVE BREAST CANCER"-noun-0]|TX|0/29|

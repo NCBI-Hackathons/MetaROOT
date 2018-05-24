@@ -1,0 +1,2 @@
+NEOPLASTIC,_ESOPHAGEAL_SQUAMOUS_CELL_CARCINOMA.txt|MMI|13.31|Squamous cell carcinoma of esophagus|C0279626|[neop]|["Esophageal Squamous Cell Carcinoma"-tx-1-"ESOPHAGEAL SQUAMOUS CELL CARCINOMA"-noun-0]|TX|12/34|x.x.x.x
+NEOPLASTIC,_ESOPHAGEAL_SQUAMOUS_CELL_CARCINOMA.txt|MMI|3.46|Neoplastic|C1709160|[qlco]|["Neoplastic"-tx-1-"NEOPLASTIC"-adj-0]|TX|0/10|

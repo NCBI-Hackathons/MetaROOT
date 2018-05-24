@@ -1,0 +1,1 @@
+HEALTHY.txt|MMI|5.18|Healthy|C3898900|[qlco]|["Healthy"-tx-1-"HEALTHY"-adj-0]|TX|0/7|

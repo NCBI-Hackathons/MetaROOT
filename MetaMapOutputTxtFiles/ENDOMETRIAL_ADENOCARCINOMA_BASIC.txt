@@ -1,0 +1,1 @@
+ENDOMETRIAL_ADENOCARCINOMA.txt|MMI|5.18|Endometrial adenocarcinoma|C1153706|[neop]|["Endometrial Adenocarcinoma"-tx-1-"ENDOMETRIAL ADENOCARCINOMA"-noun-0]|TX|0/26|

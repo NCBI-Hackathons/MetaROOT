@@ -1,0 +1,2 @@
+BLADDER_CANCER.txt|MMI|5.18|Carcinoma of bladder|C0699885|[neop]|["Bladder Cancer"-tx-1-"BLADDER CANCER"-noun-0]|TX|0/14|
+BLADDER_CANCER.txt|MMI|5.18|Malignant neoplasm of urinary bladder|C0005684|[neop]|["BLADDER CANCER"-tx-1-"BLADDER CANCER"-noun-0]|TX|0/14|

@@ -1,0 +1,2 @@
+GASTRIC_CANCER.txt|MMI|5.18|Malignant neoplasm of stomach|C0024623|[neop]|["-- Gastric Cancer"-tx-1-"GASTRIC_CANCER"-noun-0]|TX|0/14|
+GASTRIC_CANCER.txt|MMI|5.18|Stomach Carcinoma|C0699791|[neop]|["GASTRIC CANCER"-tx-1-"GASTRIC_CANCER"-noun-0]|TX|0/14|

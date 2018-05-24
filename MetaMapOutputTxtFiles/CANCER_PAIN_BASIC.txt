@@ -1,0 +1,1 @@
+CANCER_PAIN.txt|MMI|5.18|cancer pain|C0596240|[sosy]|["cancer pain"-tx-1-"CANCER PAIN"-noun-0]|TX|0/11|

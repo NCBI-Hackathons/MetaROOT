@@ -1,0 +1,2 @@
+BONE_MARROW_CELLS_FROM_HEALTHY_DONORS.txt|MMI|3.76|Encounter for being a bone marrow donor|C1313934|[fndg]|["Bone marrow donors"-tx-1-"BONE MARROW DONORS"-noun-0]|TX|0/11,31/6|
+BONE_MARROW_CELLS_FROM_HEALTHY_DONORS.txt|MMI|3.46|Encounter due to being a donor|C1527169|[fndg]|["Donors"-tx-1-"DONORS"-noun-0]|TX|31/6|
