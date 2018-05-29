@@ -1,4 +1,4 @@
-![](images/MetaROOT.png)
+![](images/MetaROOT.pngs=400)
 # MetaROOT (Regulated Output and Ontology Tool)
 Using MetaMapLite to standardize metadata terminology and make sequencing metadata machine readable!
 
@@ -50,4 +50,4 @@ preferredName|CUI#|[semantic type]|Input term| semantic group
 2. Use this output file to convert input term in bioSample attribu te in disease section to preferred term ("NORMALIZE")
 
 # Results
-![] (AlluvialMergedMap2.png)
+![](AlluvialMergedMap2.png)
