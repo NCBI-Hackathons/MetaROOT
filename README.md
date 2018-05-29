@@ -1,4 +1,4 @@
-![](images/MetaROOT.png width=250 height=250)
+![](images/MetaROOT.png)
 # MetaROOT (Regulated Output and Ontology Tool)
 Using MetaMapLite to standardize metadata terminology and make sequencing metadata machine readable!
 
@@ -12,9 +12,10 @@ Most biomedical metadata is collected in a heavily variable manner, and is not s
 Though many fields are beginning to develop standards for what metadata to collect across different data types, this area still needs a lot of work and tools to help make it easier for scientists and researchers to know what metadata variables to collect and how to collect them. Improving and standardizing metadata collection could revolutionize the the knowledge gained from the paucity of metadata being produced. 
 
 # What is MetaROOT?
-
+MetaROOT is a pipeline to go from a database of biomedical data, such as BioSample, to an ontology-standardized output for the terms of interest. It is simple enough for a novice programmer to follow, and uses a suite of tools from NCBI and NLM, in addition to custom python and bash scripts.
 
 # Software Workflow Diagram
+![](images/MetaROOTworkflow.png)
 
 # File Structure Diagram
 Case 1-- Disease
@@ -48,3 +49,5 @@ preferredName|CUI#|[semantic type]|Input term| semantic group
 
 2. Use this output file to convert input term in bioSample attribu te in disease section to preferred term ("NORMALIZE")
 
+# Results
+![] (AlluvialMergedMap2.png)
