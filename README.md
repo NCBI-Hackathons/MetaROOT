@@ -1,4 +1,4 @@
-![](images/MetaROOT.png&s=400)
+![](images/MetaROOT.png)
 # MetaROOT (Regulated Output and Ontology Tool)
 Using MetaMapLite to standardize metadata terminology and make sequencing metadata machine readable!
 
